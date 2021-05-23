@@ -5,6 +5,6 @@ draft = true
 image = ""
 title = "Organizer"
 [menu.main]
-weight = 4
+weight = 3
 
 +++
