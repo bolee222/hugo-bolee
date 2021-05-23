@@ -6,6 +6,6 @@ menu:
   main:
     name: Contribute
     URL: blog
-    weight: 2
+    weight: 3
 
 ---
