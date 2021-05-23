@@ -6,7 +6,11 @@ title = "TEI 2022 Website MockUp"
 [[menu.main]]
 URL = "about"
 name = "Conference"
-weight = 1
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "Conference"
+weight = 3
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
