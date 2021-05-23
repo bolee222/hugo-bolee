@@ -11,14 +11,6 @@ weight = 4
 URL = "portfolio"
 name = "Portfolio"
 weight = 3
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 2
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
