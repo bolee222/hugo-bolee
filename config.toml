@@ -19,7 +19,7 @@ logo = "images/logo.png"
 phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
-enable = true
+enable = false
 form_action = "#"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
