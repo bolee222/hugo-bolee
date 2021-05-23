@@ -1,52 +1,52 @@
 banner:
-  title: "Hi Everyone! <br> Welcome to <br> TEI 2022"
+  title: "Hi Everyone! <br> WELCOME to TEI 2022"
 
 about:
   enable: true
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
   button:
-    enable: true
+    enable: false
     label: "know more"
     URL: "about"
 
-skill:
-  enable: true
-  title: "Skills"
-  item:
-    - title: "Web Design"
-      progress: "90%"
-      color: "#fdb157"
+# skill:
+#   enable: true
+#   title: "Skills"
+#   item:
+#     - title: "Web Design"
+#       progress: "90%"
+#       color: "#fdb157"
 
-    - title: "Logo Design"
-      progress: "60%"
-      color: "#9473e6"
+#     - title: "Logo Design"
+#       progress: "60%"
+#       color: "#9473e6"
 
-    - title: "After Effects"
-      progress: "80%"
-      color: "#bdecf6"
+#     - title: "After Effects"
+#       progress: "80%"
+#       color: "#bdecf6"
 
-    - title: "Web App"
-      progress: "70%"
-      color: "#ffbcaa"
+#     - title: "Web App"
+#       progress: "70%"
+#       color: "#ffbcaa"
 
-experience:
-  enable: true
-  title: "Experience"
-  item:
-    - logo: "images/experience/icon-1.png"
-      title: "Junior UX Designer"
-      company: "WEBEX"
-      duration: "Jan 2007 - Feb 2009"
+# experience:
+#   enable: true
+#   title: "Experience"
+#   item:
+#     - logo: "images/experience/icon-1.png"
+#       title: "Junior UX Designer"
+#       company: "WEBEX"
+#       duration: "Jan 2007 - Feb 2009"
 
-    - logo: "images/experience/icon-2.png"
-      title: "UX & UI Designer"
-      company: "AUGMEDIX"
-      duration: "Mar 2009 - Aug 2014"
+#     - logo: "images/experience/icon-2.png"
+#       title: "UX & UI Designer"
+#       company: "AUGMEDIX"
+#       duration: "Mar 2009 - Aug 2014"
 
-    - logo: "images/experience/icon-1.png"
-      title: "Senior UI Designer"
-      company: "THEMEFISHER"
-      duration: "Sep 2014 - Present"
+#     - logo: "images/experience/icon-1.png"
+#       title: "Senior UI Designer"
+#       company: "THEMEFISHER"
+#       duration: "Sep 2014 - Present"
 
 # education
 education:
@@ -89,12 +89,12 @@ service:
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       highlighted: false
 
-# portfolio
-portfolio:
-  enable: true
-  title: "Portfolio"
-  item_show: 5
-  # portfolio item comes from 'data/portfolio.yml' item.
+# # portfolio
+# portfolio:
+#   enable: true
+#   title: "Portfolio"
+#   item_show: 5
+#   # portfolio item comes from 'data/portfolio.yml' item.
 
 # testimonial
 testimonial:
@@ -149,9 +149,8 @@ clients_logo_slider:
 
     - logo: "images/clients-logo/client-logo-5.png"
       URL: "#"
-
-# blog
-blog:
-  enable: true
-  title: "Blogs"
-  # blog post comes from "content/blog" folder
+# # blog
+# blog:
+#   enable: true
+#   title: "Blogs"
+#   # blog post comes from "content/blog" folder
