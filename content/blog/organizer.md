@@ -6,5 +6,4 @@ image = ""
 title = "Organizer"
 [menu.main]
 weight = 4
-
 +++
