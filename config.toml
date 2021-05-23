@@ -3,6 +3,8 @@ languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "TEI 2022 Website MockUp"
+
+
 [[menu.main]]
 URL = "about"
 name = "Conference"
@@ -11,10 +13,12 @@ weight = 2
 URL = "about"
 name = "Conference"
 weight = 3
+
+
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+copyright = "ACM TEI Conference for 2022"
 description = "This is meta description"
 email = "steve.fruits@email.com"
 google_analitycs_id = "Your ID"
