@@ -19,7 +19,7 @@ description = "This is meta description"
 email = "steve.fruits@email.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/logo.png"
+logo = "images/logo-tei.png"
 phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
