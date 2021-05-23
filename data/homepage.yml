@@ -50,7 +50,7 @@ about:
 
 # education
 education:
-  enable: true
+  enable: false
   title: "Education"
   item:
     - title: "Marters in UX Design"
@@ -71,7 +71,7 @@ education:
 
 # service
 service:
-  enable: true
+  enable: false
   title: "Services"
   item:
     - title: "UI Design"
@@ -98,7 +98,7 @@ service:
 
 # testimonial
 testimonial:
-  enable: true
+  enable: false
   title: "Testimonials"
   item:
     - name: "Jesica Gomez"
