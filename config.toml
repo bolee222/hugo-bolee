@@ -26,6 +26,8 @@ home = "Home"
 logo = "images/logo-tei.png"
 phone = "+880 2544 658 256"
 theme_color = "#41228e"
+
+
 [params.contact]
 enable = false
 form_action = "#"
