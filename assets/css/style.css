@@ -41,7 +41,9 @@ h6 {
 
 h1,
 .h1 {
-    font-size: 50px
+    font-size: 50px;
+    font-family: Roboto, san-serif;
+    font-weight: 700;
 }
 
 @media(max-width:991px) {
@@ -254,7 +256,8 @@ a:hover {
 }
 
 .bg-primary {
-    background: var(--primary-color) !important
+    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../../images/backgrounds/korean-pattern-00.png);
+    /* background: var(--primary-color) !important */
 }
 
 .bg-gray {
@@ -453,7 +456,7 @@ textarea.form-control {
 }
 
 .hero-area {
-    padding: 250px 0 200px;
+    padding: 200px 0 0px;
     position: relative
 }
 
@@ -869,6 +872,9 @@ blockquote {
     font-weight: 700
 }
 
+
+/* table */
+
 table {
     width: 100%;
     table-layout: fixed;
@@ -904,51 +910,11 @@ td {
     border-bottom: solid 1px rgba(255, 255, 255, 0.1);
 }
 
-section {
-    margin: 50px;
+.table-section {
+    margin: 50px 250px;
+    background-color: #f7eca3;
 }
 
-
-/* follow me template */
-
-.made-with-love {
-    margin-top: 40px;
-    padding: 10px;
-    clear: left;
-    text-align: center;
-    font-size: 10px;
-    font-family: arial;
-    color: #fff;
-}
-
-.made-with-love i {
-    font-style: normal;
-    color: #F50057;
-    font-size: 14px;
-    position: relative;
-    top: 2px;
-}
-
-.made-with-love a {
-    color: #fff;
-    text-decoration: none;
-}
-
-.made-with-love a:hover {
-    text-decoration: underline;
-}
-
-
-/* for custom scrollbar for webkit browser*/
-
-::-webkit-scrollbar {
-    width: 6px;
-}
-
-::-webkit-scrollbar-track {
-    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
-}
-
-::-webkit-scrollbar-thumb {
-    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+.table-box {
+    padding: 20px 10px 20px 30%;
 }
