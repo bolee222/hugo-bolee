@@ -16,3 +16,4 @@ fields:
   label: description
 pages:
 - content/blog/organizer.md
+- content/blog/paper-submission.md
