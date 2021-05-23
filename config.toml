@@ -4,6 +4,10 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "TEI 2022 Website MockUp"
 [[menu.main]]
+URL = "about"
+name = "Conference"
+weight = 1
+[[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
 weight = 3

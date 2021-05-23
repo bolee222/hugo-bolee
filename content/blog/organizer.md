@@ -4,5 +4,7 @@ description = "Organizer description"
 draft = true
 image = ""
 title = "Organizer"
+[menu.main]
+weight = 4
 
 +++
