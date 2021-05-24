@@ -7,7 +7,7 @@
     </div> -->
     <div class="container">
         <div class="row">
-            <div class="col-lg-11 mx-auto">
+            <div class="col-sm-11">
                 <h1 class="text-white font-tertiary">{{ .Site.Data.homepage.banner.title | safeHTML }}</h1>
             </div>
         </div>
@@ -78,8 +78,8 @@
 <section class="section">
     <div class="container">
         <div class="row">
-            <div class="col-lg-10 mx-auto text-left">
-                **This year's TEI Theme:** {{ with .Site.Data.homepage.about }}
+            <div class="col-lg-8 mx-auto text-left">
+                <h4>This year's TEI Theme</h4> {{ with .Site.Data.homepage.about }}
                 <p class="font-secondary lead text-dark">{{.content | markdownify}}</p>
                 {{ if .button.enable }} {{ with .button }}
                 <a href="{{ .URL | absURL }}" class="btn btn-transparent">{{.label}}</a> {{ end }} {{ end }} {{ end }}
