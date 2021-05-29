@@ -1,6 +1,7 @@
 ### Hugp
 /public/
 /resources/_gen/
+/themes/
 
 ### macOS
 .DS_Store
