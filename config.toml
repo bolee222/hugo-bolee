@@ -7,11 +7,7 @@ title = "TEI 2022 Website MockUp"
 
 [[menu.main]]
 URL = "about"
-name = "Conference"
-weight = 2
-[[menu.main]]
-URL = "about"
-name = "Conference"
+name = "Link"
 weight = 3
 
 
