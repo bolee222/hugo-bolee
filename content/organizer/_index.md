@@ -6,7 +6,7 @@ author_image: images/about/author.jpg
 author_signature: images/about/signature.png
 menu:
   main:
-    URL: about
+    URL: organizer
     name: Conference
     weight: 1
 ---
