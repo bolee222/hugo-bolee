@@ -2,7 +2,7 @@ banner:
   title: "Hi Everyone! <br> WELCOME to TEI 2022"
 
 about:
-  enable: true
+  enable: false
   content: "TEI 2022 is the 16th annual conference dedicated to presenting the latest results in tangible, embedded, and embodied interaction. The ACM TEI conference has gained substantial visibility and activity over the past decade. It brings together researchers, practitioners, businesses, artists, designers and students from various disciplines, including engineering, interaction design, computer science, product design, media studies and the arts."
   button:
     enable: false

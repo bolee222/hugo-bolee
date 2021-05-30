@@ -38,8 +38,7 @@
             </div>
         </div>
 </section>
-{{end}}
-
+{{end}} {{ if .Params.ShowSchedule }}
 <section class="section">
     <div class="single-body">
         <div class="single-page-contents text-dark">
@@ -47,6 +46,19 @@
         </div>
     </div>
 </section>
+{{else}}
+<div style="padding-top: 30px"></div>
+<section class="section">
+    <div class="single-body-noTable">
+        <div class="single-page-contents text-dark">
+            {{.Content }}
+        </div>
+    </div>
+</section>
+{{ end }}
+
+
+
 
 
 <div style="padding-top: 250px"></div>
