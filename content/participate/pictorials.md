@@ -13,6 +13,8 @@ menu:
 
 Full papers and pictorials published at TEI 2022 are ACM archival publications and will be made available through the ACM in the Digital Library.Pictorials at TEI leverage the power of visual communication for physical design objects, documenting tangible research methods and results.
 
+&nbsp;
+
 #### GENERAL INFORMATION
 
 Given the increasing popularity and weight of pictorial contributions across academic conferences (DIS, C&C, IASDR), TEI2022continues it triennial tradition for Pictorials track. Pictorials were first introduced at DIS2014 with the aim of supporting the presentation and communication of research ideas, design practice, methods, provocations, insights, and contributions in a more visually rich format. Since then it has been successfully implemented in DIS and C&C conferences and was for the first time implemented in TEI in 2020.
@@ -23,6 +25,8 @@ The theme for TEI2022 is Making.Things.Think. TEI 2022 invites Pictorial contrib
 
 Currently, TEI 2022 is planned to be held physically in KAIST, Seoul, Korea. Of course, if the circumstances require it, there will be an alternative way to present the research and to meet with the TEI community. So please do not hesitate to submit. We will find ways to run the conference in a way that best fits the future situation.
 
+&nbsp;
+
 #### WHAT ARE PICTORIALS?
 
 Pictorials are papers in which the visual components (e.g. diagrams, sketches, illustrations, renderings, photographs, annotated photographs, and collages) play a major role in conveying ideas and research contributions in addition to the accompanying text. Pictorials leverage the power of visual communication with the effective use of visual languages and high-quality images. They may have a practical or theoretical nature or both.
@@ -30,6 +34,8 @@ Pictorials are papers in which the visual components (e.g. diagrams, sketches, i
 Through Pictorials, researchers, practitioners, industry professionals, artists, designers, and students from various disciplines, including engineering, interaction design, computer science, product design, media studies, and the arts are encouraged to express and unpack their design practices and projects in visually rich ways.
 
 Pictorials are meant to contribute to knowledge in themselves rather than merely document concepts, methods, and processes that we already know. Visual components can be contributions to design knowledge in and of themselves, as a form of making, but they should also be accompanied by a narrative that helps the TEI audience understand what the knowledge contribution is. It is this scaffolding that transforms a Pictorial into research and guarantees that it can be treated as an argument in research discourse. At the same time, the textual narrative should be just that – a scaffolding to support the contribution of the visual content.
+
+&nbsp;
 
 #### WHAT TO SUBMIT?
 
@@ -62,6 +68,8 @@ Word template
 
 There are numerous people working on the Pictorials format. A big thank you to all of them for their efforts, especially to Sabrina Hauser for her work on Pictorial templates over the years, and Laura Devendorf for adapting the templates to TEI.
 
+&nbsp;
+
 #### REVIEW AND SELECTION
 
 Submissions will be reviewed in a double-blind process, and authors must ensure that their names and affiliations do not appear on the submitted papers. The author and affiliation sections of the template must be left blank. In case of acceptance, authors will be asked to provide a camera-ready copy that includes this information, along with any recommended improvements as suggested by the reviewers.
@@ -74,6 +82,8 @@ Confidentiality of submissions will be maintained during the review process. All
 After the conditional acceptance of your pictorials on October 4, you have time to upload your revised paper along with a summary of changes until October 25 via PCS. You will be informed about the final acceptance by November 15. Finally, a pre-recorded video of your talk or demo should be submitted by TBC via PCS.
 
 Accepted TEI Pictorials will be distributed by the conference and published in the ACM Digital Library where they will remain accessible to researchers and practitioners worldwide. At least one author is expected to register for the conference before the early registration deadline in order for the final paper to be published in the conference proceedings. Reduced fees will be available for non-presenting attendees.
+
+&nbsp;
 
 #### PREVIOUS PICTORIAL EXAMPLES
 
