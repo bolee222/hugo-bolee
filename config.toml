@@ -2,13 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "TEI 2022 Website MockUp"
-
-
-[[menu.main]]
-URL = "about"
-name = "Link"
-weight = 3
+title = "TEI 2022"
 
 
 [params]
@@ -19,9 +13,8 @@ description = "This is meta description"
 email = "steve.fruits@email.com"
 google_analitycs_id = "Your ID"
 home = "Home"
-logo = "images/logo-tei.png"
 phone = "+880 2544 658 256"
-theme_color = "#41228e"
+theme_color = "#cf486e"
 
 
 [params.contact]

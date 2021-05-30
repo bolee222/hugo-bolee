@@ -1,14 +1,14 @@
 ---
-title: Call for Papers
+title: Call for Pictorials
 date: 2019-05-12T12:14:34.000+06:00
 description: This is meta description.
 
 menu:
   main:
-    URL: participate/papers
+    URL: participate/pictorials
     weight: 4
     parent: participate
 ---
 
-Call for Papers.
+Call for Pictorials.
 hahaha

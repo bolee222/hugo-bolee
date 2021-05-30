@@ -260,7 +260,7 @@ a:hover {
 }
 
 .bg-primary {
-    background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(../../images/backgrounds/korean-pattern-00.png) no-repeat center center fixed;
+    background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .6)), url(../../images/backgrounds/korean-pattern-00.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -345,7 +345,9 @@ a:hover {
 }
 
 .font-tertiary {
-    font-family: roboto, sans-serif !important
+    font-family: roboto, sans-serif !important;
+    font-size: 45px;
+    text-align: left;
 }
 
 .shadow {
@@ -427,13 +429,18 @@ textarea.form-control {
 }
 
 .navigation {
-    padding: 40px 130px;
+    padding: 20px 100px;
     transition: .3s ease
 }
 
 .navigation.nav-bg {
     background-color: var(--primary-color);
-    padding: 15px 100px
+    padding: 15px 100px;
+    background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .6)), url(../../images/backgrounds/korean-pattern-00.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 @media(max-width:991px) {
@@ -454,7 +461,7 @@ textarea.form-control {
     text-transform: uppercase;
     font-weight: 500;
     padding: 15px;
-    background-color: rgba(0, 0, 0, 0.4);
+    /* background-color: rgba(0, 0, 0, 0.4); */
 }
 
 .navbar .nav-item.active {
@@ -761,6 +768,11 @@ blockquote {
     line-height: 1.5
 }
 
+.page-title-bolee {
+    font-size: 30px;
+    color: var(--primary-color);
+}
+
 .page-title-alt {
     padding: 350px 0 70px
 }
@@ -823,7 +835,7 @@ blockquote {
 }
 
 .page-title {
-    padding: 250px 0 150px
+    padding: 100px 0 00px
 }
 
 .page-title .container {
@@ -935,7 +947,7 @@ td {
 
 .table-section {
     margin: 50px 15% -10px 15%;
-    background-color: #d65118;
+    background-color: #cf486e;
 }
 
 .table-box {
