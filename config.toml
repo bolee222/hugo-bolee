@@ -4,6 +4,14 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "TEI 2022"
 
+
+[[menu.main]]
+    identifier = "Home"
+    name = "Home"
+    title = "Home"
+    weight = 1
+
+
 [params]
 
 author = "Johnathan Smith"
