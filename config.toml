@@ -4,11 +4,10 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "TEI 2022"
 
-
 [params]
 address = "125/A, CA Commercial Area, California, USA"
 author = "Johnathan Smith"
-copyright = "ACM TEI Conference for 2022"
+copyright = "ACM TEI Conference 2022"
 description = "This is meta description"
 email = "steve.fruits@email.com"
 google_analitycs_id = "Your ID"
