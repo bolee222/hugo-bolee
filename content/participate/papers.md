@@ -13,6 +13,8 @@ menu:
 
 TEI 2022 is the 16th annual conference dedicated to presenting the latest results in tangible, embedded, and embodied interaction. The ACM TEI conference has gained substantial visibility and activity over the past decade. It brings together researchers, practitioners, businesses, artists, designers and students from various disciplines, including engineering, interaction design, computer science, product design, media studies and the arts.
 
+&nbsp;
+
 #### Theme.
 
 The theme for TEI 2022 is _Making. Things. Think._ , as a reference to Tom Igoe's book "Making things Talk" which addresses the design issues related to the objects (systems and environments) that become increasingly autonomous and are about to enter our daily lives. As designers, artists, educators, and researchers, we find ourselves in need of new tools and processes to research, design, and to realise aesthetic, meaningful, and inclusive interactions.

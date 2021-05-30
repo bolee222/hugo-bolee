@@ -24,14 +24,21 @@ p {
     font-weight: 300;
     color: #4c4c4c;
     font-size: 1.1rem;
-    line-height: 1.8;
+    line-height: 1.7;
     font-family: roboto, sans-serif;
+}
+
+p strong {
+    font-weight: 600;
 }
 
 li {
     font-family: roboto, sans-serif;
     font-size: 1.1rem;
     font-weight: 300;
+    line-height: 1.7;
+    color: #4c4c4c;
+    list-style-type: square;
 }
 
 h1,
@@ -87,7 +94,9 @@ h4,
 
 h5,
 .h5 {
-    font-size: 18px;
+    font-family: Roboto, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
 }
 
 h6,
@@ -187,7 +196,7 @@ body {
 ol,
 ul {
     list-style-type: none;
-    margin: 0;
+    margin: 0 0 20px 0;
 }
 
 img {
@@ -673,7 +682,7 @@ textarea.form-control {
 
 .testimonial-content strong {
     color: #2bfdff;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 .testimonial-bg-shapes .container {
@@ -768,7 +777,7 @@ blockquote {
 .content strong {
     font-family: playfair display, serif;
     font-size: 22px;
-    font-weight: 400;
+    font-weight: 600;
     color: #000;
     display: inherit;
     line-height: 1.5;
@@ -973,7 +982,7 @@ td {
 }
 
 .single-body {
-    margin: 50px 15% 30px 15%;
+    margin: 50px 25% 30px 25%;
 }
 
 .single-page-title {
