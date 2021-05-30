@@ -5,14 +5,11 @@ theme = "kross-hugo"
 title = "TEI 2022"
 
 [params]
-address = "125/A, CA Commercial Area, California, USA"
+
 author = "Johnathan Smith"
 copyright = "ACM TEI Conference 2022"
 description = "This is meta description"
-email = "steve.fruits@email.com"
-google_analitycs_id = "Your ID"
-home = "Home"
-phone = "+880 2544 658 256"
+
 theme_color = "#cf486e"
 
 
