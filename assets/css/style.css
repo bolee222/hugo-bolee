@@ -6,6 +6,18 @@ VERSION: Versoin Number
 
 @import "https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto:300,400,500,700,800,900";
 @font-face {
+    font-family: "ITC Bauhaus";
+    src: url("//db.onlinewebfonts.com/t/390289fedd068780e28c0f9f259c3782.eot");
+    src: url("//db.onlinewebfonts.com/t/390289fedd068780e28c0f9f259c3782.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/390289fedd068780e28c0f9f259c3782.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/390289fedd068780e28c0f9f259c3782.woff") format("woff"), url("//db.onlinewebfonts.com/t/390289fedd068780e28c0f9f259c3782.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/390289fedd068780e28c0f9f259c3782.svg#ITC Bauhaus") format("svg");
+}
+
+@font-face {
+    font-family: "Arial";
+    src: url("//db.onlinewebfonts.com/t/8d223b3ad8d4819e9dcf22757e4cc2c4.eot");
+    src: url("//db.onlinewebfonts.com/t/8d223b3ad8d4819e9dcf22757e4cc2c4.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/8d223b3ad8d4819e9dcf22757e4cc2c4.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/8d223b3ad8d4819e9dcf22757e4cc2c4.woff") format("woff"), url("//db.onlinewebfonts.com/t/8d223b3ad8d4819e9dcf22757e4cc2c4.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/8d223b3ad8d4819e9dcf22757e4cc2c4.svg#Arial") format("svg");
+}
+
+@font-face {
     font-family: Roboto, sans-serif;
     src: url(../fonts/BwNistaInt-xBd.woff) format("woff");
     font-style: normal;
@@ -21,11 +33,11 @@ body {
 }
 
 p {
-    font-weight: 300;
+    font-weight: 100;
     color: #4c4c4c;
     font-size: 1.1rem;
     line-height: 1.8;
-    font-family: roboto, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 p strong {
@@ -33,7 +45,7 @@ p strong {
 }
 
 li {
-    font-family: roboto, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 1.1rem;
     font-weight: 300;
     line-height: 1.7;
@@ -472,11 +484,16 @@ textarea.form-control {
 }
 
 .navbar .nav-item .nav-link {
-    font-family: Roboto, san-serif;
+    font-family: Arial, Helvetica, sans-seriferif;
     text-transform: uppercase;
-    font-weight: 500;
+    font-weight: 800;
+    font-size: 16px;
     padding: 15px;
     /* background-color: rgba(0, 0, 0, 0.4); */
+}
+
+.nav-item::marker {
+    color: rgba(255, 0, 0, 0);
 }
 
 .navbar .nav-item.active {
@@ -488,8 +505,13 @@ textarea.form-control {
     color: #fff;
 }
 
+.navbar-brand {
+    font-family: ITC Bauhaus;
+    font-size: 35px;
+}
+
 .hero-area {
-    padding: 200px 0 0px;
+    padding: 200px 0 150px;
     position: relative;
 }
 
@@ -682,7 +704,7 @@ textarea.form-control {
 
 .testimonial-content strong {
     color: #2bfdff;
-    font-weight: 600;
+    font-weight: bold;
 }
 
 .testimonial-bg-shapes .container {
@@ -926,26 +948,28 @@ table {
     height: 250px;
     overflow-x: auto;
     margin-top: 0px;
-    border: 1px solid rgba(255, 255, 255, 0.3);
+    border: 1px solid rgba(0, 0, 0, 0.3);
 }
 
 th {
+    font-family: : Arial, Helvetica, sans-serif;
     padding: 20px 15px;
     text-align: left;
     font-weight: 900;
     font-size: 17px;
-    color: white;
+    color: #707070;
     text-transform: uppercase;
 }
 
 td {
+    font-family: Arial, Helvetica, sans-serif;
     padding: 15px;
     text-align: left;
     vertical-align: middle;
     font-weight: 900;
     font-size: 17px;
-    color: white;
-    border-bottom: solid 1px rgba(255, 255, 255, 0.1);
+    color: #707070;
+    border-bottom: solid 1px rgba(0, 0, 0, 0.3);
 }
 
 ::-webkit-scrollbar {
@@ -962,7 +986,7 @@ td {
 
 .table-section {
     margin: 50px 15% 20px 15%;
-    background-color: var(--primary-color);
+    background-color: #E6E6E6;
 }
 
 .table-box {
@@ -970,13 +994,14 @@ td {
 }
 
 .table-title {
-    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #707070;
     font-size: 35px;
     font-weight: 800;
 }
 
 .table-title-small {
-    color: white;
+    color: #707070;
     font-size: 25px;
     font-weight: 800;
 }
@@ -996,5 +1021,5 @@ td {
 }
 
 .single-page-contents {
-    font-family: roboto, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }

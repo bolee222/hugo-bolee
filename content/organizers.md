@@ -1,11 +1,13 @@
 ---
-title: Organizers
+title: Organizer
 date: 2019-05-12T12:14:34.000+06:00
 description: This is description of people
+ShowSchedule: false
+draft: true
 
 menu:
   main:
-    URL: organizers
+    URL: organizer
     weight: 4
 ---
 
