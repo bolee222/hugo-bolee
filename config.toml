@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/2022/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
@@ -8,9 +8,9 @@ title = "TEI 2022"
 
 [params]
 
-author = "Johnathan Smith"
+author = "ACM SIGCHI"
 copyright = "ACM TEI Conference 2022"
-description = "This is meta description"
+description = "The sixteenth international conference on Tangible, Embedded and Embodied Interaction, TEI 2022, will take place February 13-16 2022, maybe virtual, maybe hybrid."
 
 theme_color = "#5da7f0"
 
