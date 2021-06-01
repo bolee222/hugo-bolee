@@ -946,7 +946,7 @@ table {
 }
 
 .tbl-content {
-    height: 250px;
+    height: 330px;
     overflow-x: auto;
     margin-top: 0px;
     border: 1px solid rgba(0, 0, 0, 0.3);
@@ -964,7 +964,7 @@ th {
 
 td {
     font-family: Roboto, sans-serif;
-    padding: 15px;
+    padding: 10px;
     text-align: left;
     vertical-align: middle;
     font-weight: 900;
