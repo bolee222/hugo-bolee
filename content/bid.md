@@ -7,6 +7,7 @@ draft: false
 
 menu:
   main:
+    name: Bid
     URL: bid
     weight: 8
 ---
