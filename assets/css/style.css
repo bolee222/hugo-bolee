@@ -37,7 +37,7 @@ p {
     color: #4c4c4c;
     font-size: 1.1rem;
     line-height: 1.8;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Roboto, sans-serif;
 }
 
 p strong {
@@ -45,7 +45,7 @@ p strong {
 }
 
 li {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Roboto, sans-serif;
     font-size: 1.1rem;
     font-weight: 300;
     line-height: 1.7;
@@ -287,7 +287,8 @@ a:hover {
 }
 
 .bg-primary {
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6)), url(../../images/backgrounds/korean-pattern-00.png) no-repeat center center fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url(../../images/backgrounds/header-korea.png) no-repeat center center;
+    /*background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6)), url(../../images/backgrounds/header-korea.png) no-repeat center center fixed;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -463,7 +464,7 @@ textarea.form-control {
 .navigation.nav-bg {
     background-color: var(--primary-color);
     padding: 15px 100px;
-    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6)), url(../../images/backgrounds/korean-pattern-00.png) no-repeat center center fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url(../../images/backgrounds/header-korea.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -484,10 +485,10 @@ textarea.form-control {
 }
 
 .navbar .nav-item .nav-link {
-    font-family: Arial, Helvetica, sans-seriferif;
+    font-family: Roboto, sans-serif;
     text-transform: uppercase;
     font-weight: 800;
-    font-size: 16px;
+    font-size: 18px;
     padding: 15px;
     /* background-color: rgba(0, 0, 0, 0.4); */
 }
@@ -511,7 +512,7 @@ textarea.form-control {
 }
 
 .hero-area {
-    padding: 200px 0 150px;
+    padding: 400px 0 400px;
     position: relative;
 }
 
@@ -952,7 +953,7 @@ table {
 }
 
 th {
-    font-family: : Arial, Helvetica, sans-serif;
+    font-family: : Roboto, sans-serif;
     padding: 20px 15px;
     text-align: left;
     font-weight: 900;
@@ -962,7 +963,7 @@ th {
 }
 
 td {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Roboto, sans-serif;
     padding: 15px;
     text-align: left;
     vertical-align: middle;
@@ -986,7 +987,7 @@ td {
 
 .table-section {
     margin: 50px 15% 20px 15%;
-    background-color: #E6E6E6;
+    background-color: #f0f0f0;
 }
 
 .table-box {
@@ -994,14 +995,14 @@ td {
 }
 
 .table-title {
-    font-family: Arial, Helvetica, sans-serif;
-    color: #707070;
+    font-family: Roboto;
+    color: gray;
     font-size: 35px;
     font-weight: 800;
 }
 
 .table-title-small {
-    color: #707070;
+    color: gray;
     font-size: 25px;
     font-weight: 800;
 }
@@ -1021,5 +1022,5 @@ td {
 }
 
 .single-page-contents {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Roboto, sans-serif;
 }

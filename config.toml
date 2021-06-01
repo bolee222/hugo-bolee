@@ -18,7 +18,7 @@ author = "Johnathan Smith"
 copyright = "ACM TEI Conference 2022"
 description = "This is meta description"
 
-theme_color = "#d65118"
+theme_color = "#5da7f0"
 
 
 [params.contact]
