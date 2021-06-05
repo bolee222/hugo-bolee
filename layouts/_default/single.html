@@ -1,74 +1,31 @@
-{{ define "main" }} {{ partial "page-title.html" . }} {{ if .Params.ShowSchedule }}
-<section class="table-section">
-    <div class="table-box">
-        <div class="row">
-            <div class="col-4" style="background-color:#aaa box-sizing: border-box">
-                <div class="table-title" style="padding: 0px 50px 0px 0px">
-                    Schedule Highlights
-                </div>
-            </div>
-            <div class="col-8" style="background-color:white box-sizing: border-box">
-                <div class="tbl-content">
-                    <table cellpadding="0" cellspacing="0" border="0">
-                        <tbody>
-                            <tr>
-                                <td> <a href="http://localhost:1313/participate/papers" style="color: #707070"><u> Papers </u></a> & <a href="http://localhost:1313/participate/pictorials" style="color: #707070"><u> Pictorials </u></a> Submission Deadline </td>
-                                <td> August 2, 2021 AoE</td>
-                            </tr>
-                            <tr>
-                                <td> Work in Progress</td>
-                                <td> October 25, 2021 AoE</td>
-                            </tr>
-                            <tr>
-                                <td> Art</td>
-                                <td> October 25, 2021 AoE</td>
-                            </tr>
-                            <tr>
-                                <td> Studio</td>
-                                <td> October 25, 2021 AoE</td>
+{{ define "main" }}
 
-                            </tr>
-                            <tr>
-                                <td> Student Design Competition</td>
-                                <td>October 25, 2021 AoE</td>
-                            </tr>
-                            <tr>
-                                <td> Graduate School Consortium</td>
-                                <td>October 25, 2021 AoE</td>
-                            </tr>
-                            <tr>
-                                <td> TEI 2022 conference virtual or hybrid in Daejeon, South Korea</td>
-                                <td> February 13-16, 2022</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-        </div>
+<!-- hero area -->
+<section class="hero-area-single bg-primary overflow-hidden" id="parallax">
+    <!-- <div class="kaistbg">
+        <img src="{{`images/backgrounds/kaist.jpeg` | relURL}}" alt="bg-shape">
+    </div> 
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-11">
+                <!-- <img src="{{`images/backgrounds/logo.png` | relURL}}" alt="tei-logo" width="400" /> -->
+    <!-- <h1 class="text-white font-tertiary">{{ .Site.Data.homepage.banner.title | safeHTML }}</h1> -->
 </section>
 
-{{end}} {{ if .Params.ShowSchedule }}
+{{ partial "page-title.html" . }} {{ if .Params.ShowSchedule }} {{end}} {{ if .Params.ShowSchedule }}
 <section class="section">
     <div class="single-body">
-        <div class="single-page-contents text-dark">
-            {{.Content }}
-        </div>
+        <div class="single-page-contents text-dark">{{.Content }}</div>
     </div>
 </section>
 {{else}}
-<div style="padding-top: 30px"></div>
+<div style="padding-top: 0px"></div>
 <section class="section">
     <div class="single-body-noTable">
-        <div class="single-page-contents text-dark">
-            {{.Content }}
-        </div>
+        <div class="single-page-contents text-dark">{{.Content }}</div>
     </div>
 </section>
 {{ end }}
-
-
-
-
 
 <div style="padding-top: 250px"></div>
 {{ end }}

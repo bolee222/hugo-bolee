@@ -2,7 +2,7 @@
 title: Call for Pictorials
 date: 2019-05-12T12:14:34.000+06:00
 description: This is meta description.
-ShowSchedule: true
+ShowSchedule: false
 
 menu:
   main:
@@ -11,9 +11,16 @@ menu:
     parent: participate
 ---
 
-Full papers and pictorials published at TEI 2022 are ACM archival publications and will be made available through the ACM in the Digital Library.Pictorials at TEI leverage the power of visual communication for physical design objects, documenting tangible research methods and results.
+{{< deadline-table-single "Important Dates">}}
+**Pictorials submission deadline** | August 2, 2021 AoE  
+Notification of conditional acceptance | October 4, 2021 AoE  
+Revised Pictorial submission deadline | October 25, 2021 AoE  
+Notification of final acceptance | November 15, 2021 AoE
+Camera-ready deadline | November 22, 2021 AoE
+**TEI 2022 conference** | February 13-16, 2022
+{{< /deadline-table-single >}}
 
-&nbsp;
+Full papers and pictorials published at TEI 2022 are ACM archival publications and will be made available through the ACM in the Digital Library.Pictorials at TEI leverage the power of visual communication for physical design objects, documenting tangible research methods and results.
 
 #### GENERAL INFORMATION
 
@@ -24,8 +31,6 @@ This call is adapted from texts composed by previous Pictorials chairs specifica
 The theme for TEI2022 is **Making.Things.Think**. TEI 2022 invites Pictorial contributionsto explore the conference theme with broad interpretation and diverse approaches.
 
 Currently, TEI 2022 is planned to be held physically in KAIST, Seoul, Korea. Of course, if the circumstances require it, there will be an alternative way to present the research and to meet with the TEI community. So please do not hesitate to submit. We will find ways to run the conference in a way that best fits the future situation.
-
-&nbsp;
 
 #### WHAT ARE PICTORIALS?
 

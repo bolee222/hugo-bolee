@@ -289,7 +289,7 @@ a:hover {
 }
 
 .bg-primary {
-    background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url(2022/../../images/backgrounds/header-korea.png) no-repeat bottom center;
+    background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url(2022/../../images/backgrounds/header-korea.png) no-repeat center center;
     /*background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6)), url(/2022/images/backgrounds/header-korea.png) no-repeat center center fixed;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -459,7 +459,7 @@ textarea.form-control {
 }
 
 .navigation {
-    padding: 20px 100px;
+    padding: 20px 50px;
     transition: 0.3s ease;
 }
 
@@ -514,7 +514,12 @@ textarea.form-control {
 }
 
 .hero-area {
-    padding: 300px 0 300px;
+    padding: 300px 0 450px;
+    position: relative;
+}
+
+.hero-area-single {
+    padding: 100px 0 150px;
     position: relative;
 }
 
@@ -1005,14 +1010,17 @@ td strong {
 .table-title {
     font-family: Roboto;
     color: #4a4b4d;
-    font-size: 35px;
+    font-size: 30px;
     font-weight: 800;
+    padding-top: 10px;
+    padding-left: 10px;
 }
 
 .table-title-small {
     color: #4a4b4d;
     font-size: 25px;
     font-weight: 800;
+    padding-top: 10px;
 }
 
 .single-body {
@@ -1040,4 +1048,23 @@ td strong {
     display: inline-block;
     vertical-align: top;
     float: none;
+}
+
+.logoMainTitle {
+    font-size: 100px;
+    font-family: ITC Bauhaus;
+    font-weight: 600;
+    color: white;
+}
+
+.logoSecondTitle {
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 800;
+    color: white;
+    padding-left: 18px;
+    margin-top: -10px;
+    margin-bottom: px;
+    text-align: justify;
+    text-justify: inter-word;
 }

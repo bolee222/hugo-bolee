@@ -11,7 +11,7 @@ menu:
     parent: participate
 ---
 
-{{< deadline-table>}}
+{{< deadline-table-single "Important Dates">}}
 **Papers submission deadline** | August 2, 2021 AoE  
 Notification of conditional acceptance | October 4, 2021 AoE  
 Revised Paper submission deadline | October 25, 2021 AoE  
@@ -19,7 +19,7 @@ Notification of final acceptance | November 15, 2021 AoE
 Camera-ready deadline | November 22, 2021 AoE
 Presentation pre-recorded video due | January 31, 2022 AoE  
 **TEI 2022 conference** | February 13-16, 2022
-{{< /deadline-table >}}
+{{< /deadline-table-single >}}
 
 #### GENERAL INFORMATION
 
@@ -30,8 +30,6 @@ The theme for TEI 2022 is **Making. Things. Think.** , as a reference to Tom Igo
 Topics and application areas are diverse, including: tangible user interfaces, physical interaction design, flexible and shape changing displays, haptic interaction, smart objects and cities, interactive surfaces, augmented and mixed reality, ubiquitous computing, interactive art and performance, social and wearable robotics, hybrid games, embodied cognition and perception, fashion and material design, furniture and architectural design, learning and education, music and sound interfaces, human-augmentation, as well as productivity and creativity tools in domains ranging from scientific exploration to artistic practice. We invite submissions from a wide variety of perspectives: theoretical, philosophical, conceptual, technical, applied, and/or artistic.
 
 The intimate size of this single-track conference provides a unique forum for exchanging ideas and presenting innovative work through talks, demonstrations, posters, art installations and performances, and participation in hands-on studios and theoretical workshops.
-
-&nbsp;
 
 #### CONTRIBUTION TYPES
 
@@ -50,8 +48,6 @@ We highlight the following non-exclusive set of contribution types:
 Respecting the diversity of approaches and methods that together make up TEI, each contribution type will be peer-reviewed on its own merits. We seek high-quality work regardless of the specific subdomain or topic and we expect the work to be positioned firmly in, and building on, prior research in our field, in particular wherever relevant referencing work that was presented at earlier TEI conferences.
 
 Accepted submissions of all contribution types will be included as papers in the conference proceedings, which will be available in the ACM Digital Library.
-
-&nbsp;
 
 #### SUBMISSION GUIDELINES
 
@@ -84,8 +80,6 @@ One author of each accepted submission must register for the conference before t
 ##### SUBMISSION PROCESS
 
 All papers must be submitted electronically via the [Precision Conference (PCS) website](https://new.precisionconference.com/submissions). Submissions need to meet the submission deadline on August 2. After the conditional acceptance of your paper on October 4, you have time to upload your revised paper along with a summary of changes until October 25 via PCS. You will be informed about the final acceptance by November 15. Finally, a pre-recorded video of your talk or demo should be submitted by TBC via PCS.
-
-&nbsp;
 
 #### PROGRAM CHAIRS
 
