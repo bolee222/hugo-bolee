@@ -1,19 +1,23 @@
-{{ $text := .Get 0  | default "text" }}
-{{ $rows := .Inner | transform.Unmarshal (dict "delimiter" "|")  }}
+{{ $text := .Get 0 | default "text" }} {{ $rows := .Inner | transform.Unmarshal (dict "delimiter" "|") }}
 
-<div class="container p-4 rounded" style="background-color:rgb(255, 212, 133)">
-<div class="row g-0 align-items-center">
-  <div class="col-md-4 " >
-    <h4>{{ $text }}</h4>
-  </div>
-  <div class="col-md-8">
-    <table class="table border-2 table-bordered">
-      {{ range $rows }}
-        <tr>
-          {{ range . }} <td>{{ . | markdownify }}</td> {{ end }}
-        </tr>
-      {{ end }}
-    </table>
-  </div>
+<div class="container p-4 rounded" style="background-color: #f0f0f0">
+    <!-- #e1effc -->
+    <div class="row g-0 align-items-center">
+        <div class="col-md-4">
+            <h4 class="table-title">{{ $text }}</h4>
+        </div>
+        <div class="col-md-8">
+            <table class="table border-2 table-bordered">
+                {{ range $rows }}
+                <tr>
+                    {{ range . }}
+                    <td>{{ . | markdownify }}</td>
+                    {{ end }}
+                </tr>
+                {{ end }}
+            </table>
+        </div>
+    </div>
 </div>
-</div>
+
+<div class="blankSpace40"></div>

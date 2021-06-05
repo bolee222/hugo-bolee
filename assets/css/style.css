@@ -288,7 +288,7 @@ a:hover {
 }
 
 .bg-primary {
-    background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url(/2022/images/backgrounds/header-korea.png) no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url(2022/../../images/backgrounds/header-korea.png) no-repeat center center;
     /*background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6)), url(/2022/images/backgrounds/header-korea.png) no-repeat center center fixed;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -513,7 +513,7 @@ textarea.form-control {
 }
 
 .hero-area {
-    padding: 400px 0 400px;
+    padding: 300px 0 300px;
     position: relative;
 }
 
@@ -997,7 +997,7 @@ td {
 
 .table-title {
     font-family: Roboto;
-    color: gray;
+    color: #47494a;
     font-size: 35px;
     font-weight: 800;
 }
@@ -1023,4 +1023,8 @@ td {
 
 .single-page-contents {
     font-family: Roboto, sans-serif;
+}
+
+.blankSpace40 {
+    padding-bottom: 40px;
 }
