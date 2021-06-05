@@ -1,8 +1,8 @@
 {{ $text := .Get 0 | default "text" }} {{ $rows := .Inner | transform.Unmarshal (dict "delimiter" "|") }}
 
-<div class="container p-4 rounded" style="background-color: #f0f0f0">
+<div class="container p-4 rounded" style="background-color: #ebf4fc">
     <!-- #e1effc -->
-    <div class="row g-0 align-items-center">
+    <div class="row g-0 align-items-top">
         <div class="col-md-4">
             <h4 class="table-title">{{ $text }}</h4>
         </div>

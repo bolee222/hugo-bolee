@@ -2,7 +2,7 @@
 title: Call for Papers
 date: 2019-05-12T12:14:34.000+06:00
 description: This is meta description.
-ShowSchedule: true
+ShowSchedule: false
 
 menu:
   main:
@@ -10,6 +10,16 @@ menu:
     weight: 4
     parent: participate
 ---
+
+{{< deadline-table>}}
+**Papers submission deadline** | August 2, 2021 AoE  
+Notification of conditional acceptance | October 4, 2021 AoE  
+Revised Paper submission deadline | October 25, 2021 AoE  
+Notification of final acceptance | November 15, 2021 AoE
+Camera-ready deadline | November 22, 2021 AoE
+Presentation pre-recorded video due | January 31, 2022 AoE  
+**TEI 2022 conference** | February 13-16, 2022
+{{< /deadline-table >}}
 
 #### GENERAL INFORMATION
 
