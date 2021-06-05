@@ -4,11 +4,6 @@ date: 2019-05-12T12:14:34.000+06:00
 description: This is meta description.
 ShowSchedule: true
 
-menu:
-  main:
-    URL: participate/gsc
-    weight: 4
-    parent: participate
 ---
 
 #### GENERAL INFORMATION
@@ -19,15 +14,11 @@ This year’s edition will be a virtual or hybrid event (TBD). The main GSC even
 
 GSC applicants may be at various stages of their doctoral research or graduate thesis, however they should have a clear understanding of their driving research question, their research approach including preliminary research design and methodology(s) as well as a goal for what they hope to gain by attending the GSC session.
 
-&nbsp;
-
 #### GSC ACTIVITIES
 
 The main GSC panel will be held on Sunday, February 13th, 2022. The day will start with a welcome and introduction by the GSC chairs. Then each student will have to present and participate in a group discussion about their work. The day will end with a general discussion and wrap-up.
 
 Please note that (1) registration fees will be waived for all attending GSC participants; (2) physical attendance is preferred but not mandatory.
-
-&nbsp;
 
 #### SUBMISSION GUIDELINES
 
@@ -50,8 +41,6 @@ Confidentiality of submissions will be maintained during the review process. All
 ##### SUBMISSION PROCESS
 
 All papers must be submitted electronically via the Precision Conference (PCS) website.
-
-&nbsp;
 
 #### FURTHER INFORMATION
 
