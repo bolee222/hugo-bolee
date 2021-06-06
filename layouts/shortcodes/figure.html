@@ -1,0 +1,9 @@
+{{ $caption := .Inner | markdownify }}
+{{ $url := .Get 0 }}
+{{ $alt := .Get 1 | default "figure with caption"}}
+<div class="card" style="background-color: #ebf4fc">
+    <img class="card-img-top" src="{{ $url }}" alt="{{ $alt }}">
+    <div class="card-body">
+      <p class="card-text">{{ $caption | safeHTML }}.</p>
+    </div>
+</div>
