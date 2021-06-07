@@ -448,6 +448,7 @@ textarea.form-control {
 
 .card {
     border: 0;
+    margin-bottom: 30px;
 }
 
 .card-header {
@@ -1069,4 +1070,13 @@ td strong {
     margin-bottom: px;
     text-align: justify;
     text-justify: inter-word;
+}
+
+.card-text {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.card-body {
+    background-color: #f5f5f5;
 }

@@ -25,7 +25,7 @@ As the digital world is penetrating our physical environment faster than ever wi
 While this topic is not new, it is the very core of TEI: bridging computing with the physical world. We think that designing for “autonomy” might require new approaches and a diverse set of skills and tools. The material virtual culture of South Korea provides a good background and new perspective to explore and discuss future challenges (not only technological), and more importantly, the outcomes of the emerging autono- mous everything and how TEI contributes to their development.
 
 {{< figure "/2022/images/euljiro.jpg" "rooftop tour in Seoul Euljiro Area" >}}
-Prior to the conference, on Saturday afternoon and night, we invite you to a Seoul maker city tour. Hyun Parke, a Seoul based maker and co-founder of the first Fab Lab in Korea, will guide a group through the downtown Euljiro area and the [Sewoon Sangga 세운상가) building](https://www.atlasobscura.com/places/sewoon-sangga-sewoon-plaza). Sewoon Sangga built in 1970, was recently rejuvenated with skywalks connecting small maker studios and ateliers. The rooftop offers a fantastic view of downtown Seoul, Jongmyo shrine and the Namsan tower. The nearby [gwangjang food market](http://www.kwangjangmarket.co.kr) ( 광장시장) or insadong (인사동) offer plenty of opportunities to eat Korean food before heading to Daejeon.
+Prior to the conference, on Saturday afternoon and night, we invite you to a Seoul maker city tour. Hyun Parke, a Seoul based maker and co-founder of the first Fab Lab in Korea, will guide a group through the downtown Euljiro area and the [Sewoon Sangga (세운상가)](https://www.atlasobscura.com/places/sewoon-sangga-sewoon-plaza) building. Sewoon Sangga built in 1970, was recently rejuvenated with skywalks connecting small maker studios and ateliers. The rooftop offers a fantastic view of downtown Seoul, Jongmyo shrine and the Namsan tower. The nearby [Gwangjang food market](http://www.kwangjangmarket.co.kr) (광장시장) or [Insadong (인사동)](http://www.hiinsa.com/eng/) offer plenty of opportunities to eat Korean food before heading to Daejeon.
 {{< /figure >}}
 
 #### Venue
@@ -40,4 +40,3 @@ The main conference will take place on the main campus of KAIST in the Sky Loung
 {{< /figure >}}
 
 KAIST and the Department of Industrial Design host TEI 2022. KAIST, established in 1971, is Korea’s first research-oriented science and engineering institute, and among the top tier schools in Korea. KAIST has over ten thousand full time students and more than a thousand faculty members. All education is in english and KAIST has an active exchange program with partner institutes around the world.
-
