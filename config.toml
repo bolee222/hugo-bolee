@@ -1,7 +1,6 @@
 baseURL = "/2022/"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "kross-hugo"
 title = "TEI 2022"
 
 [menu]
