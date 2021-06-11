@@ -5,18 +5,8 @@ VERSION: Versoin Number
 -------------------------------------------------------------------*/
 
 @import "https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto:300,400,500,700,800,900";
-@font-face {
-    font-family: "ITC Bauhaus";
-    src: url("//db.onlinewebfonts.com/t/390289fedd068780e28c0f9f259c3782.eot");
-    src: url("//db.onlinewebfonts.com/t/390289fedd068780e28c0f9f259c3782.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/390289fedd068780e28c0f9f259c3782.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/390289fedd068780e28c0f9f259c3782.woff") format("woff"), url("//db.onlinewebfonts.com/t/390289fedd068780e28c0f9f259c3782.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/390289fedd068780e28c0f9f259c3782.svg#ITC Bauhaus") format("svg");
-}
-
-@font-face {
-    font-family: "Arial";
-    src: url("//db.onlinewebfonts.com/t/8d223b3ad8d4819e9dcf22757e4cc2c4.eot");
-    src: url("//db.onlinewebfonts.com/t/8d223b3ad8d4819e9dcf22757e4cc2c4.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/8d223b3ad8d4819e9dcf22757e4cc2c4.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/8d223b3ad8d4819e9dcf22757e4cc2c4.woff") format("woff"), url("//db.onlinewebfonts.com/t/8d223b3ad8d4819e9dcf22757e4cc2c4.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/8d223b3ad8d4819e9dcf22757e4cc2c4.svg#Arial") format("svg");
-}
-
+@import url("https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap");
 @font-face {
     font-family: Roboto, sans-serif;
     src: url(../fonts/BwNistaInt-xBd.woff) format("woff");
@@ -26,18 +16,18 @@ VERSION: Versoin Number
 
 body {
     line-height: 1.2;
-    font-family: roboto, sans-serif;
+    font-family: "Noto Sans KR", sans-serif;
     -webkit-font-smoothing: antialiased;
     font-size: 15px;
     color: #4c4c4c;
 }
 
 p {
-    font-weight: 100;
+    font-weight: 300;
     color: #4c4c4c;
     font-size: 1.1rem;
     line-height: 1.8;
-    font-family: Roboto, sans-serif;
+    font-family: "Noto Sans KR", sans-serif;
 }
 
 p strong {
@@ -45,7 +35,7 @@ p strong {
 }
 
 li {
-    font-family: Roboto, sans-serif;
+    font-family: "Noto Sans KR", sans-serif;
     font-size: 1.1rem;
     font-weight: 300;
     line-height: 1.7;
@@ -67,7 +57,7 @@ h6 {
 h1,
 .h1 {
     font-size: 55px;
-    font-family: Roboto, san-serif;
+    font-family: "Noto Sans KR", sans-serif;
     font-weight: 700;
 }
 
@@ -80,7 +70,7 @@ h1,
 
 h2,
 .h2 {
-    font-family: Roboto, sans-serif;
+    font-family: "Noto Sans KR", sans-serif;
     font-size: 60px;
 }
 
@@ -93,13 +83,13 @@ h2,
 
 h3,
 .h3 {
-    font-family: Roboto;
+    font-family: "Noto Sans KR", sans-serif;
     font-size: 40px;
 }
 
 h4,
 .h4 {
-    font-family: Roboto, sans-serif;
+    font-family: "Noto Sans KR", sans-serif;
     font-size: 230x;
     font-weight: 700;
     color: black;
@@ -108,7 +98,7 @@ h4,
 
 h5,
 .h5 {
-    font-family: Roboto, sans-serif;
+    font-family: "Noto Sans KR", sans-serif;
     font-size: 20px;
     font-weight: 700;
 }
@@ -256,7 +246,7 @@ a:hover {
 
 .section-title {
     margin-bottom: 80px;
-    font-family: Roboto;
+    font-family: "Noto Sans KR", sans-serif;
 }
 
 .bg-cover {
@@ -289,7 +279,7 @@ a:hover {
 }
 
 .bg-primary {
-    background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url(2022/../../images/backgrounds/header-korea.png) no-repeat center center;
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(2022/../../images/backgrounds/header-korea.png) no-repeat center center;
     /*background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6)), url(/2022/images/backgrounds/header-korea.png) no-repeat center center fixed;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -371,11 +361,11 @@ a:hover {
 }
 
 .font-secondary {
-    font-family: roboto, sans-serif !important;
+    font-family: "Noto Sans KR", sans-serif !important;
 }
 
 .font-tertiary {
-    font-family: roboto, sans-serif !important;
+    font-family: "Noto Sans KR", sans-serif !important;
     font-size: 45px;
     text-align: left;
 }
@@ -501,7 +491,7 @@ textarea.form-control {
 }
 
 .navbar .nav-item.active {
-    font-family: Roboto, san-serif;
+    font-family: "Noto Sans KR", sans-serif;
     font-weight: 800;
 }
 
@@ -510,7 +500,7 @@ textarea.form-control {
 }
 
 .navbar-brand {
-    font-family: ITC Bauhaus;
+    font-family: "Do Hyeon", sans-serif;
     font-size: 35px;
     font-weight: 400;
 }
@@ -962,7 +952,7 @@ table {
 }
 
 th {
-    font-family: : Roboto, sans-serif;
+    font-family: "Noto Sans KR", sans-serif;
     padding: 20px 15px;
     text-align: left;
     font-weight: 900;
@@ -972,7 +962,7 @@ th {
 }
 
 td {
-    font-family: Roboto, sans-serif;
+    font-family: "Noto Sans KR", sans-serif;
     padding: 10px;
     text-align: left;
     vertical-align: middle;
@@ -1010,7 +1000,7 @@ td strong {
 }
 
 .table-title {
-    font-family: Roboto;
+    font-family: "Noto Sans KR", sans-serif;
     color: #4a4b4d;
     font-size: 30px;
     font-weight: 800;
@@ -1034,7 +1024,7 @@ td strong {
 }
 
 .single-page-title {
-    font-family: ITC Bauhaus;
+    font-family: "Do Hyeon", sans-serif;
     font-size: 60px;
     margin: 50px 15% 50px 15%;
 }
@@ -1055,14 +1045,14 @@ td strong {
 
 .logoMainTitle {
     font-size: 100px;
-    font-family: ITC Bauhaus;
+    font-family: "Do Hyeon", sans-serif;
     font-weight: 600;
     color: white;
 }
 
 .logoSecondTitle {
     font-size: 20px;
-    font-family: Roboto;
+    font-family: "Noto Sans KR", sans-serif;
     font-weight: 800;
     color: white;
     padding-left: 18px;
