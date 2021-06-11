@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Participate on TEI 2022</title>
+    <link>/2022/participate/</link>
+    <description>Recent content in Participate on TEI 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="/2022/participate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call for Graduate Student Consortium</title>
+      <link>/2022/participate/gsc/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>/2022/participate/gsc/</guid>
+      <description>GENERAL INFORMATION TEI2022 will host a Graduate Student Consortium aimed at junior researchers currently in postgraduate degree programs (i.</description>
+    </item>
+    
+    <item>
+      <title>Call for Papers</title>
+      <link>/2022/participate/papers/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>/2022/participate/papers/</guid>
+      <description>Important Dates   Papers submission deadline August 2, 2021 AoE   Notification of conditional acceptance October 4, 2021 AoE   Revised Paper submission deadline October 25, 2021 AoE   Notification of final acceptance November 15, 2021 AoE   Camera-ready deadline November 22, 2021 AoE   Presentation pre-recorded video due January 31, 2022 AoE   TEI 2022 conference February 13-16, 2022       GENERAL INFORMATION TEI 2022 is the 16th annual conference dedicated to presenting the latest results in tangible, embedded, and embodied interaction.</description>
+    </item>
+    
+    <item>
+      <title>Call for Pictorials</title>
+      <link>/2022/participate/pictorials/</link>
+      <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
+      
+      <guid>/2022/participate/pictorials/</guid>
+      <description>Important Dates   Pictorials submission deadline August 2, 2021 AoE   Notification of conditional acceptance October 4, 2021 AoE   Revised Pictorial submission deadline October 25, 2021 AoE   Notification of final acceptance November 15, 2021 AoE   Camera-ready deadline November 22, 2021 AoE   TEI 2022 conference February 13-16, 2022       Full papers and pictorials published at TEI 2022 are ACM archival publications and will be made available through the ACM in the Digital Library.</description>
+    </item>
+    
+  </channel>
+</rss>
