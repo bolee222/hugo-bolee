@@ -16,7 +16,7 @@ Graduate School Consortium | October 25, 2021 AoE
 
 TEI 2022 is the 16th annual conference dedicated to presenting the latest results in tangible, embedded, and embodied interaction. The ACM TEI conference has gained substantial visibility and activity over the past decade. It brings together researchers, practitioners, businesses, artists, designers and students from various disciplines, including engineering, interaction design, computer science, product design, media studies and the arts.
 
-TEI 2022, will take place February 13-16 2022, **maybe virtual, maybe hybrid**. We hope to be able to meet you in-person at [KAIST](https://www.kaist.ac.kr/) in Daejeon in the Republic of Korea.
+TEI 2022, will take place February 13-16 2022, **maybe virtual, maybe hybrid**. We hope to be able to meet you in-person at **[KAIST](https://www.kaist.ac.kr/)** in Daejeon in the Republic of Korea.
 
 #### Theme
 
@@ -25,7 +25,7 @@ As the digital world is penetrating our physical environment faster than ever wi
 While this topic is not new, it is the very core of TEI: bridging computing with the physical world. We think that designing for “autonomy” might require new approaches and a diverse set of skills and tools. The material virtual culture of South Korea provides a good background and new perspective to explore and discuss future challenges (not only technological), and more importantly, the outcomes of the emerging autono- mous everything and how TEI contributes to their development.
 
 {{< figure "/2022/images/euljiro.jpg" "rooftop tour in Seoul Euljiro Area" >}}
-Prior to the conference, on Saturday afternoon and night, we invite you to a Seoul maker city tour. Hyun Parke, a Seoul based maker and co-founder of the first Fab Lab in Korea, will guide a group through the downtown Euljiro area and the [Sewoon Sangga (세운상가)](https://www.atlasobscura.com/places/sewoon-sangga-sewoon-plaza) building. Sewoon Sangga built in 1970, was recently rejuvenated with skywalks connecting small maker studios and ateliers. The rooftop offers a fantastic view of downtown Seoul, Jongmyo shrine and the Namsan tower. The nearby [Gwangjang food market](http://www.kwangjangmarket.co.kr) (광장시장) or [Insadong (인사동)](http://www.hiinsa.com/eng/) offer plenty of opportunities to eat Korean food before heading to Daejeon.
+Prior to the conference, on Saturday afternoon and night, we invite you to a Seoul maker city tour. Hyun Parke, a Seoul based maker and co-founder of the first Fab Lab in Korea, will guide a group through the downtown Euljiro area and the [Sewoon Sangga (세운상가)](https://www.atlasobscura.com/places/sewoon-sangga-sewoon-plaza) building. Sewoon Sangga built in 1970, was recently rejuvenated with skywalks connecting small maker studios and ateliers. The rooftop offers a fantastic view of downtown Seoul, Jongmyo shrine and the Namsan tower. The nearby [Gwangjang food market (광장시장)](http://www.kwangjangmarket.co.kr) or [Insadong (인사동)](http://www.hiinsa.com/eng/) offer plenty of opportunities to eat Korean food before heading to Daejeon.
 {{< /figure >}}
 
 #### Venue

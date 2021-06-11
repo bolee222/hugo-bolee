@@ -40,8 +40,6 @@ Through Pictorials, researchers, practitioners, industry professionals, artists,
 
 Pictorials are meant to contribute to knowledge in themselves rather than merely document concepts, methods, and processes that we already know. Visual components can be contributions to design knowledge in and of themselves, as a form of making, but they should also be accompanied by a narrative that helps the TEI audience understand what the knowledge contribution is. It is this scaffolding that transforms a Pictorial into research and guarantees that it can be treated as an argument in research discourse. At the same time, the textual narrative should be just that – a scaffolding to support the contribution of the visual content.
 
-&nbsp;
-
 #### WHAT TO SUBMIT?
 
 We welcome submissions related to the rapidly developing field of tangible, embedded, and embodied interaction as well as the conference theme of Making. Things. Think, with a focus on aesthetic, meaningful, and inclusive interactions.In this broad context, submissions may cover diverse types of topics that include (but are not limited to):
@@ -63,8 +61,6 @@ We welcome submissions related to the rapidly developing field of tangible, embe
 - Does every image used in the Pictorial play a meaningful role and clearly present the idea on its own or with the support of text?
 - Does the placement of images and text compose a good narrative?
 
-&nbsp;
-
 #### SUBMISSION GUIDELINES
 
 Pictorials must be submitted in the TEI2022 Pictorials format (see below) and not exceed 12 pages, excluding references. The first page of the submission should include the submission&#39;s title, author(s) and their affiliation(s) (leave blank for double-blind review), and a written abstract of no more than 150 words succinctly describing the background and context of the pictorial as well as its contribution to the TEI community. Further written parts known from other conference formats such as Introduction, Conclusion, Discussion, Acknowledgements, and References are optional. The main part of the submission should be an annotated visual composition and we encourage submissions to use the format creatively. All submissions should be anonymous and submitted via the TEI2022 **[Precision Conference (PCS) system](https://new.precisionconference.com/submissions)** by August 2, 2021.
@@ -77,8 +73,6 @@ We strongly advise you to use the InDesign template to compose your Pictorial. I
 
 There are numerous people working on the Pictorials format. A big thank you to all of them for their efforts, especially to Sabrina Hauser for her work on Pictorial templates over the years, and Laura Devendorf for adapting the templates to TEI.
 
-&nbsp;
-
 #### REVIEW AND SELECTION
 
 Submissions will be reviewed in a double-blind process, and authors must ensure that their names and affiliations do not appear on the submitted papers. The author and affiliation sections of the template must be left blank. In case of acceptance, authors will be asked to provide a camera-ready copy that includes this information, along with any recommended improvements as suggested by the reviewers.
@@ -87,15 +81,11 @@ Furthermore, all references should remain intact. If you previously published a 
 
 Confidentiality of submissions will be maintained during the review process. All rejected submissions will be kept confidential in perpetuity. All submitted materials for accepted submissions will be kept confidential until the start of the conference.
 
-&nbsp;
-
 #### ATTENDANCE
 
 After the conditional acceptance of your pictorials on October 4, you have time to upload your revised paper along with a summary of changes until October 25 via PCS. You will be informed about the final acceptance by November 15. Finally, a pre-recorded video of your talk or demo should be submitted by TBC via PCS.
 
 Accepted TEI Pictorials will be distributed by the conference and published in the ACM Digital Library where they will remain accessible to researchers and practitioners worldwide. At least one author is expected to register for the conference before the early registration deadline in order for the final paper to be published in the conference proceedings. Reduced fees will be available for non-presenting attendees.
-
-&nbsp;
 
 #### PREVIOUS PICTORIAL EXAMPLES
 
@@ -132,8 +122,6 @@ Accepted TEI Pictorials will be distributed by the conference and published in t
 - Kate Hartman, Chris Luginbuhl, Yiyi Shao, and Ricardo Toller Correia: [Encasing Computation: Using Digital Fabrication Approaches to Make Microcontrollers Wearable](https://doi.org/10.1145/3374920.3375004).
 - Jung-Ying (Lois) Yi and Rohit Ashok Khot: [ROOD: Unpacking the Design and the Making of a RoadKill Alert System](https://doi.org/10.1145/3374920.3375008).
 
-&nbsp;
-
 ##### Recent pictorials that have won Awards at ACM DIS and C&amp;C conferences (2018- )
 
 - Sabrina Hauser, Doenja Oogjes, Ron Wakkary, and Peter-Paul Verbeek. 2018. An Annotated Portfolio on Doing Postphenomenology Through Research Products. In Proceedings of the 2018 Designing Interactive Systems Conference (DIS &#39;18). ACM, New York, NY, USA, 459-471. DOI: https://doi.org/10.1145/3196709.3196745
@@ -142,8 +130,6 @@ Accepted TEI Pictorials will be distributed by the conference and published in t
 - Cláudia Silva, Catia Prandi, Marta Ferreira, Valentina Nisi, and Nuno Jardim Nunes. 2019. See the World Through the Eyes of a Child: Learning from children&#39;s cognitive maps for the design of child-targeted locative systems. In Proceedings of the 2019 on Designing Interactive Systems Conference (DIS &#39;19). Association for Computing Machinery, New York, NY, USA, 763–776. DOI: https://doi.org/10.1145/3322276.3323700
 - Sarah Homewood, Harvey Bewley, and Laurens Boer. 2019. Ovum: Designing for Fertility Tracking as a Shared and Domestic Experience. In Proceedings of the 2019 on Designing Interactive Systems Conference (DIS &#39;19). Association for Computing Machinery, New York, NY, USA, 553–565. DOI: https://doi.org/10.1145/3322276.3323692
 - Vasiliki Tsaknaki, Madeline Balaam, Anna Ståhl, Pedro Sanches, Charles Windlin, Pavel Karpashevich, and Kristina Höök. 2019. Teaching Soma Design. In Proceedings of the 2019 on Designing Interactive Systems Conference (DIS &#39;19). Association for Computing Machinery, New York, NY, USA, 1237–1249. DOI: https://doi.org/10.1145/3322276.3322327
-
-&nbsp;
 
 #### PICTORIALS CHAIRS
 
