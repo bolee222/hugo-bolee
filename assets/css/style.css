@@ -448,12 +448,20 @@ textarea.form-control {
 }
 
 .navigation {
-    padding: 20px 50px;
+    padding: 10px 50px;
     transition: 0.3s ease;
 }
 
 .navigation.nav-bg {
-    padding: 15px 100px;
+    background-color: rgba(0, 0, 0, 0.9);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.navigation-single {
+    padding: 10px 50px;
     background-color: rgba(0, 0, 0, 0.9);
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -508,7 +516,7 @@ textarea.form-control {
 }
 
 .hero-area-single {
-    padding: 100px 0 50px;
+    padding: 50px 0 50px;
     position: relative;
 }
 
