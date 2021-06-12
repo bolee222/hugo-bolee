@@ -278,8 +278,7 @@ a:hover {
 }
 
 .bg-primary {
-    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(2022/../../images/backgrounds/header-korea.png) no-repeat center center;
-    /*background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.6)), url(/2022/images/backgrounds/header-korea.png) no-repeat center center fixed;*/
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(2022/../../images/backgrounds/header-korea-banner.png) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -456,7 +455,6 @@ textarea.form-control {
 .navigation.nav-bg {
     padding: 15px 100px;
     background-color: rgba(0, 0, 0, 0.9);
-    /* background: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url(/2022/images/backgrounds/header-korea.png) no-repeat center center; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
