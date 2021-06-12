@@ -14,9 +14,7 @@ Graduate School Consortium | October 25, 2021 AoE
 **TEI 2022 conference** | February 13-16, 2022
 {{< /deadline-table-main >}}
 
-TEI 2022 is the 16th annual conference dedicated to presenting the latest results in tangible, embedded, and embodied interaction. The ACM TEI conference has gained substantial visibility and activity over the past decade. It brings together researchers, practitioners, businesses, artists, designers and students from various disciplines, including engineering, interaction design, computer science, product design, media studies and the arts.
-
-TEI 2022, will take place February 13-16 2022, **maybe virtual, maybe hybrid**. We hope to be able to meet you in-person at **[KAIST](https://www.kaist.ac.kr/)** in Daejeon in the Republic of Korea.
+TEI 2022 is the 16th annual conference dedicated to presenting the latest results in tangible, embedded, and embodied interaction. The ACM TEI conference has gained substantial visibility and activity over the past decade. It brings together researchers, practitioners, businesses, artists, designers and students from various disciplines, including engineering, interaction design, computer science, product design, media studies and the arts. TEI 2022, will take place February 13-16 2022, **maybe virtual, maybe hybrid**. We hope to be able to meet you in-person at [KAIST](https://www.kaist.ac.kr/) in Daejeon in the Republic of Korea.
 
 #### Theme
 

@@ -1137,6 +1137,8 @@ td strong {}
     font-size: calc((75vw - 4.5rem) / 7);
 }
 
-.navbar-collapse {
-    background-color: black;
+@media (max-width: 991px) {
+    .navbar-collapse {
+        background-color: black;
+    }
 }
