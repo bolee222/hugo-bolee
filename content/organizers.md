@@ -78,7 +78,7 @@ menu:
 
 #### Publication Chairs
 
-Catia Pradi, University of Bologna, Italy  
+**Catia Pradi**, University of Bologna, Italy  
 <publications@tei.acm.org>
 
 #### Web Chairs
