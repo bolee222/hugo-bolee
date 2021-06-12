@@ -43,6 +43,13 @@ li {
     list-style-type: square;
 }
 
+@media (max-width: 991px) {
+    li {
+        font-size: 15px;
+        line-height: 1.7;
+    }
+}
+
 h1,
 h2,
 h3,
@@ -979,6 +986,12 @@ th {
     text-transform: uppercase;
 }
 
+@media (max-width: 991px) {
+    th {
+        font-size: 13px;
+    }
+}
+
 td {
     font-family: "Noto Sans KR", sans-serif;
     padding: 10px;
@@ -1051,12 +1064,18 @@ td strong {}
 
 @media (max-width: 991px) {
     .single-body {
-        margin: 50px 10% 50px 10%;
+        margin: 50px 5% 50px 5%;
     }
 }
 
 .single-body-noTable {
     margin: 50px 15% 30px 15%;
+}
+
+@media (max-width: 991px) {
+    .single-body-noTable {
+        margin: 50px 5% 50px 5%;
+    }
 }
 
 .single-page-title {
@@ -1069,6 +1088,7 @@ td strong {}
 @media (max-width: 991px) {
     .single-page-title {
         font-size: 40px;
+        margin: 50px 5% 50px 5%;
     }
 }
 
