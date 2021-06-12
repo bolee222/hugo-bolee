@@ -1079,3 +1079,17 @@ td strong {}
 .card-body {
     background-color: #f5f5f5;
 }
+
+.TEI-logo {
+    padding: 0 60% 0 5%;
+    width: 45%;
+}
+
+.logo-level1 {
+    font-family: "Do Hyeon", sans-serif;
+    font-size: calc((75vw - 4.5rem) / 7);
+}
+
+.navbar-collapse {
+    background-color: black;
+}
