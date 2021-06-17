@@ -2,11 +2,6 @@
 title: Student Design Competition
 date: 2019-05-12T12:14:34.000+06:00
 description: This is meta description.
-menu:
-  main:
-    URL: participate/student-design-competition
-    weight: 90
-    parent: participate
 ---
 {{< deadline-table-single "Important Dates">}}
 **SDC submission deadline** | October 25, 2021 AoE  
