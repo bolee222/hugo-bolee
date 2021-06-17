@@ -67,9 +67,9 @@ Pictorials must be submitted in the TEI2022 Pictorials format (see below) and no
 
 We strongly advise you to use the InDesign template to compose your Pictorial. If you do not have access to InDesign, please use the Word or Powerpoint templates.
 
-- **[InDesign template](https://tei.acm.org/2021/wp-content/uploads/2020/08/TEI2021-Pictorials-InDesign-template.zip)**
-- **[PowerPoint template](https://tei.acm.org/2021/wp-content/uploads/2020/08/TEI2021-Pictorials-PowerPoint-template.zip)**
-- **[Word template](https://tei.acm.org/2021/wp-content/uploads/2020/08/TEI2021-Pictorials-Word-template.zip)**
+- **[InDesign template](/2022/files/TEI2022-Pictorials-InDesign-template.zip)**
+- **[PowerPoint template](/2022/files/TEI2022-Pictorials-PowerPoint-template.zip)**
+- **[Word template](/2022/files/TEI2022-Pictorials-Word-template.zip)**
 
 There are numerous people working on the Pictorials format. A big thank you to all of them for their efforts, especially to Sabrina Hauser for her work on Pictorial templates over the years, and Laura Devendorf for adapting the templates to TEI.
 
