@@ -5,7 +5,7 @@ description: Information for paper authors
 menu:
   main:
     URL: participate/information-for-authors
-    weight: 8
+    weight: 1000
     parent: participate
 ---
 TEI 2022 will fully switch to the [new ACM workflow](https://www.acm.org/publications/taps/word-template-workflow) for submission templates and published papers. This requires the use of a simplified one-column template for submission, while the final two-column paper has to be [rendered for publication](https://www.acm.org/binaries/content/assets/publications/taps/acm_master_article_template_instructions.pdf) after acceptance. We strongly recommend using the [LaTeX](https://www.acm.org/publications/taps/latex-best-practices) templates rather than Word. Papers do not have a page limit.

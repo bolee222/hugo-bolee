@@ -1,10 +1,20 @@
 ---
-title: Call for Graduate Student Consortium
+title: Graduate Student Consortium
 date: 2019-05-12T12:14:34.000+06:00
 description: This is meta description.
-ShowSchedule: true
-
+menu:
+  main:
+    URL: participate/graduate-student-consortium
+    weight: 100
+    parent: participate
 ---
+{{< deadline-table-single "Important Dates">}}
+**GSC submission deadline** | October 25, 2021 AoE  
+Notification of conditional acceptance | November 16, 2021 AoE  
+Camera-ready deadline | November 22, 2021 AoE
+Presentation pre-recorded video due | January 31, 2022 AoE  
+**TEI 2022 conference** | February 13-16, 2022
+{{< /deadline-table-single >}}
 
 #### GENERAL INFORMATION
 
