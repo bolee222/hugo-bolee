@@ -19,7 +19,7 @@ p {
     font-weight: 300;
     color: #4c4c4c;
     font-size: 1.1rem;
-    line-height: 1.8;
+    line-height: 1.7;
     font-family: "Noto Sans KR", sans-serif;
 }
 
@@ -43,6 +43,17 @@ li {
     list-style-type: square;
 }
 
+li ul li {
+    list-style-type: circle;
+    padding: 0 40px 10px 0;
+    line-height: 1.5;
+}
+
+li ul li strong {
+    font-weight: 600;
+    text-decoration: underline;
+}
+
 @media (max-width: 991px) {
     li {
         font-size: 15px;
@@ -56,6 +67,11 @@ li strong {
 
 li strong underline {
     color: red;
+}
+
+li h6 {
+    line-height: 1.3;
+    padding: 0 20px 0 0;
 }
 
 h1,
@@ -122,7 +138,7 @@ h5,
     font-family: "Noto Sans KR", sans-serif;
     font-size: 1.3rem;
     font-weight: 800;
-    padding: 15px 0 5px 0px;
+    padding: 15px 0 0 0px;
 }
 
 h5 em {
@@ -136,8 +152,12 @@ h6,
     font-weight: 300;
     color: #4c4c4c;
     font-size: 1.1rem;
-    line-height: 1.8;
+    line-height: 1.7;
     padding: 0px 20px 0 40px;
+}
+
+h6 strong {
+    font-weight: 600;
 }
 
 .btn {

@@ -53,33 +53,33 @@ Accepted submissions of all contribution types will be included as papers in the
 
 - ##### **Format Requirements - _Important!!_**
 
-###### TEI 2022 will fully switch to the [new ACM workflow](https://www.acm.org/publications/taps/word-template-workflow) for submission templates and published papers. This requires the use of a simplified one-column template for submission, while the final two-column paper has to be [rendered for publication](https://www.acm.org/binaries/content/assets/publications/taps/acm_master_article_template_instructions.pdf) after acceptance. We strongly recommend using the [LaTeX](https://www.acm.org/publications/taps/latex-best-practices) templates rather than Word. Papers do not have a page limit. For further details please follow the [provided instructions](https://tei.acm.org/2022/participate/information-for-authors/) or contact our Publication Chairs. <p style="color:red">my text here</p>
+  TEI 2022 will fully switch to the [new ACM workflow](https://www.acm.org/publications/taps/word-template-workflow) for submission templates and published papers. This requires the use of a simplified one-column template for submission, while the final two-column paper has to be [rendered for publication](https://www.acm.org/binaries/content/assets/publications/taps/acm_master_article_template_instructions.pdf) after acceptance. We strongly recommend using the [LaTeX](https://www.acm.org/publications/taps/latex-best-practices) templates rather than Word. Papers do not have a page limit. For further details please follow the [provided instructions](https://tei.acm.org/2022/participate/information-for-authors/) or contact our Publication Chairs. <p style="color:red">my text here</p>
 
 - ##### **Presentation Format**
 
-###### Regardless of length and contribution type, a paper may be presented as a talk, demo and/or poster. Please do consider the most appropriate presentation format for your work. While TEI will (very likely) take place as a synchronous hybrid conference, we expect talks and demos to be pre-recorded and submitted prior to the start of the conference via PCS.
+  Regardless of length and contribution type, a paper may be presented as a talk, demo and/or poster. Please do consider the most appropriate presentation format for your work. While TEI will (very likely) take place as a synchronous hybrid conference, we expect talks and demos to be pre-recorded and submitted prior to the start of the conference via PCS.
 
 - ##### **Review Process**
 
-###### Submissions will be reviewed in a double-blind process, and authors must ensure that their names and affiliations do not appear on the submitted papers. The author and affiliation sections of the ACM SIGCHI template must be left blank. In case of acceptance, authors will be asked to provide a camera-ready copy that includes this information, along with any recommended improvements as suggested by the reviewers.
+  Submissions will be reviewed in a double-blind process, and authors must ensure that their names and affiliations do not appear on the submitted papers. The author and affiliation sections of the ACM SIGCHI template must be left blank. In case of acceptance, authors will be asked to provide a camera-ready copy that includes this information, along with any recommended improvements as suggested by the reviewers.
 
-###### Furthermore, all references should remain intact. If you previously published a paper and your current submission builds on that work, the reference – with authors – should appear in the references. Submission should NOT have blank references (e.g., &quot;12. REMOVED FOR REVIEWING&quot;). We encourage authors to refer to their previous work in the third person. Further suppression of identity in the body of the paper, while encouraged, is left to the authors&#39; discretion.
+  Furthermore, all references should remain intact. If you previously published a paper and your current submission builds on that work, the reference – with authors – should appear in the references. Submission should NOT have blank references (e.g., &quot;12. REMOVED FOR REVIEWING&quot;). We encourage authors to refer to their previous work in the third person. Further suppression of identity in the body of the paper, while encouraged, is left to the authors&#39; discretion.
 
 - ##### **Confidentiality**
 
-###### Confidentiality of submissions will be maintained during the review process. All rejected submissions will be kept confidential in perpetuity. All submitted materials for accepted submissions will be kept confidential until the start of the conference.
+  Confidentiality of submissions will be maintained during the review process. All rejected submissions will be kept confidential in perpetuity. All submitted materials for accepted submissions will be kept confidential until the start of the conference.
 
 - ##### **File Size**
 
-###### Please note that the maximum size of your submission should not exceed 40 Mb. If your requirements exceed this limit, please contact the program chairs to make alternative arrangements. It will be possible to submit large videos via a link to online content (e.g., [YouTube](https://www.youtube.com/) or [Vimeo](https://vimeo.com/)) posted on an anonymous account.
+  Please note that the maximum size of your submission should not exceed 40 Mb. If your requirements exceed this limit, please contact the program chairs to make alternative arrangements. It will be possible to submit large videos via a link to online content (e.g., [YouTube](https://www.youtube.com/) or [Vimeo](https://vimeo.com/)) posted on an anonymous account.
 
 - ##### **Attendance**
 
-###### One author of each accepted submission must register for the conference before the early registration deadline in order for the final paper to be published in the conference proceedings. Reduced fees will be available for non-presenting attendees.
+  One author of each accepted submission must register for the conference before the early registration deadline in order for the final paper to be published in the conference proceedings. Reduced fees will be available for non-presenting attendees.
 
 - ##### **Submission Process**
 
-###### All papers must be submitted electronically via the [Precision Conference (PCS) website](https://new.precisionconference.com/submissions). Submissions need to meet the submission deadline on August 2. After the conditional acceptance of your paper on October 4, you have time to upload your revised paper along with a summary of changes until October 25 via PCS. You will be informed about the final acceptance by November 15. Finally, a pre-recorded video of your talk or demo should be submitted by TBC via PCS.
+  All papers must be submitted electronically via the [Precision Conference (PCS) website](https://new.precisionconference.com/submissions). Submissions need to meet the submission deadline on August 2. After the conditional acceptance of your paper on October 4, you have time to upload your revised paper along with a summary of changes until October 25 via PCS. You will be informed about the final acceptance by November 15. Finally, a pre-recorded video of your talk or demo should be submitted by TBC via PCS.
 
 #### PROGRAM CHAIRS
 
