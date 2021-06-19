@@ -8,6 +8,7 @@ menu:
     weight: 100
     parent: participate
 ---
+
 {{< deadline-table-single "Important Dates">}}
 **GSC submission deadline** | October 25, 2021 AoE  
 Notification of conditional acceptance | November 16, 2021 AoE  
@@ -38,20 +39,22 @@ The paper should clearly describe the research topic, covering the context and m
 
 The selection of GSC participants will be made by the GSC chairs. Accepted GSC papers will be published in the TEI Proceedings and in the ACM Digital Library.
 
-##### FORMAT REQUIREMENTS
+- ##### **Format Requirements**
 
-The submission should be based on the new ACM submission templates and uploaded through the Precision Conference (PCS) system, which will be open in August. (Indication of length: If processed into a 2 column output please try not to exceed 4 pages excluding references)
+  The submission should be based on the new ACM submission templates and uploaded through the Precision Conference (PCS) system, which will be open in August. (Indication of length: If processed into a 2 column output please try not to exceed 4 pages excluding references)
 
-Note that GSC submissions are not anonymous. Submissions will be reviewed by the GSC chairs and/or selected senior researchers in the field. Confidentiality of submissions will be maintained during the review process and all rejected submissions will be kept confidential.
+  Note that GSC submissions are not anonymous. Submissions will be reviewed by the GSC chairs and/or selected senior researchers in the field. Confidentiality of submissions will be maintained during the review process and all rejected submissions will be kept confidential.
 
-##### CONFIDENTIALITY
+- ##### Confidentiality
 
-Confidentiality of submissions will be maintained during the review process. All rejected submissions will be kept confidential in perpetuity. All submitted materials for accepted submissions will be kept confidential until the start of the conference.
+  Confidentiality of submissions will be maintained during the review process. All rejected submissions will be kept confidential in perpetuity. All submitted materials for accepted submissions will be kept confidential until the start of the conference.
 
-##### SUBMISSION PROCESS
+- ##### Submission Process
 
 All papers must be submitted electronically via the Precision Conference (PCS) website.
 
-#### FURTHER INFORMATION
+#### GSC Chairs
 
-More details will be communicated via the TEI website (tei.acm.org). For additional questions, please contact the GSC chairs **Ian Oakley** and **Bart Hengeveld** via <gsc_chairs@tei.acm.org>.
+**Ian Oakley**  
+**Bart Hengeveld**  
+For additional questions, please contact the GSC chairs <gsc_chairs@tei.acm.org>.
