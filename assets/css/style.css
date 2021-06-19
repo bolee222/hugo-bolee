@@ -50,6 +50,14 @@ li {
     }
 }
 
+li strong {
+    font-weight: 800;
+}
+
+li strong underline {
+    color: red;
+}
+
 h1,
 h2,
 h3,
@@ -114,7 +122,12 @@ h5,
     font-family: "Noto Sans KR", sans-serif;
     font-size: 1.3rem;
     font-weight: 800;
-    padding: 15px 0 5px 0;
+    padding: 15px 0 5px 0px;
+}
+
+h5 em {
+    color: #ff5e29;
+    font-size: 1.2rem;
 }
 
 h6,
@@ -124,7 +137,7 @@ h6,
     color: #4c4c4c;
     font-size: 1.1rem;
     line-height: 1.8;
-    padding: 0px 50px;
+    padding: 0px 20px 0 40px;
 }
 
 .btn {
@@ -219,7 +232,7 @@ body {
 ol,
 ul {
     list-style-type: none;
-    margin: 0 0 20px 0;
+    margin: 0 0 10px 0;
 }
 
 img {
