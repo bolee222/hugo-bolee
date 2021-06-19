@@ -9,7 +9,7 @@ menu:
   main:
     name: Bid 2024
     URL: bid
-    weight: 8
+    weight: 12
 ---
 
 The TEI Steering Committee welcomes proposals for hosting and organizing future TEI conferences. TEI is an ACM sponsored conference and is typically held in February. TEI attracts an interdisciplinary audience from HCI, engineering, design and the arts and provides a platform for discussion and meeting people. We value diversity and aim to learn from other perspectives. As a custom, TEI is a single-track conference (i.e. no parallel presentation sessions). TEI has a number of submission tracks including papers, pictorials, work-in-progress, graduate student consortium and student design challenge and can host various presentation styles (talks, demos, panels, exhibitions & performances). TEI has been always very open to art and performance submissions, and we also value hands-on activities in the form of studios and/or workshops, which are an integral part of the conference and a good place to meet others and learn TEI-skills at the same time.
