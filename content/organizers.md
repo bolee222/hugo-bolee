@@ -90,6 +90,7 @@ menu:
 #### Publicity Chairs
 
 **Hui-Shyong Yeo**, St Andrews, UK  
+**Hyun Ju Kim**, Seoul Media Institute of Technology(SMIT), Korea  
 <publicity@tei.acm.org>
 
 #### Accesibility Chair
