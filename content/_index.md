@@ -11,7 +11,7 @@ description: This is meta description.
 Art | October 25, 2021 AoE  
 Studios | October 25, 2021 AoE  
 Student Design Competition | October 25, 2021 AoE  
-[Graduate School Consortium](/2022/participate/graduate-school-consortium) | October 25, 2021 AoE  
+[Graduate Student Consortium](/2022/participate/graduate-student-consortium) | October 25, 2021 AoE  
 **TEI 2022 conference** | February 13-16, 2022
 {{< /deadline-table-main >}}
 
