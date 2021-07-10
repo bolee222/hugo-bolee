@@ -53,7 +53,7 @@ Accepted submissions of all contribution types will be included as papers in the
 
 - ##### **Format Requirements - _Important!!_**
 
-  TEI 2022 will fully switch to the [new ACM workflow](https://www.acm.org/publications/taps/word-template-workflow) for submission templates and published papers. This requires the use of a simplified one-column template for submission, while the final two-column paper has to be [rendered for publication](https://www.acm.org/binaries/content/assets/publications/taps/acm_master_article_template_instructions.pdf) after acceptance. We strongly recommend using the [LaTeX](https://www.acm.org/publications/taps/latex-best-practices) templates rather than Word. Papers do not have a page limit. For further details please follow the [provided instructions](https://tei.acm.org/2022/participate/information-for-authors/) or contact our Publication Chairs. <p style="color:red">my text here</p>
+  TEI 2022 will fully switch to the [new ACM workflow](https://www.acm.org/publications/taps/word-template-workflow) for submission templates and published papers. This requires the use of a simplified one-column template for submission, while the final two-column paper has to be [rendered for publication](https://www.acm.org/binaries/content/assets/publications/taps/acm_master_article_template_instructions.pdf) after acceptance. We strongly recommend using the [LaTeX](https://www.acm.org/publications/taps/latex-best-practices) templates rather than Word. Papers do not have a page limit. For further details please follow the [provided instructions](https://tei.acm.org/2022/participate/information-for-authors/) or contact our Publication Chairs. <p style="color:red"></p>
 
 - ##### **Presentation Format**
 
