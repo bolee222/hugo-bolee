@@ -1206,12 +1206,19 @@ td strong {}
     }
 }
 
-.twitter-box {}
+.footer-box {
+    padding: 20px 20% 50px 20%;
+}
+
+.twitter-box {
+    width: 90%;
+    margin-top: 15px;
+}
 
 .copyright-title {
     font-family: "Noto Sans KR", sans-serif;
     font-weight: 800;
-    color: white;
+    color: lightgrey;
     font-size: 18px;
     line-height: 2;
 }
@@ -1219,7 +1226,11 @@ td strong {}
 .copyright-text {
     font-family: "Noto Sans KR", sans-serif;
     font-weight: 600;
-    color: white;
+    color: lightgrey;
     font-size: 15px;
     line-height: 1.5;
+}
+
+.copyright-text a {
+    color: lightgrey;
 }
