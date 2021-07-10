@@ -1,20 +1,39 @@
 <!-- footer -->
 <footer class="bg-dark footer-section">
     <div class="border-top text-center border-dark py-5">
-        <p class="mb-0 text-light">{{ .Site.Params.copyright | markdownify }}</p>
-        <p class="mb-0 text-light">Twitter: <a href="https://twitter.com/tei2022?lang=en">@TEI22</a> | </p>
+        <p class="mb-0 text-light copyright-text">
+            {{ .Site.Params.copyright | markdownify }}
+        </p>
+        <p class="mb-0 text-light copyright-text">
+            <a href="https://twitter.com/tei2022?lang=en">Twitter</a> |
+            <a href="https://www.facebook.com/teiconf/">Facebook</a>
+        </p>
     </div>
+
+    <div class="row g-0 single-body">
+        <div class="col-md-5">
+            <div class="mb-0 text-light copyright-title">CONFERENCE INFO</div>
+            <div class="mb-0 text-light copyright-text">ACM TEI Conference 2022</div>
+            <div class="mb-0 text-light copyright-text">
+                KAIST, Daejeon, South Korea
+            </div>
+            <div class="mb-0 text-light copyright-text">FEB 13 - 16</div>
+        </div>
+        <div class="col-md-5">
+            <div class="mb-0 text-light copyright-title">SOCIAL MEDIA</div>
+            <div class="single-body twitter-box">
+                <a class="twitter-timeline" href="https://twitter.com/TEI2022?ref_src=twsrc%5Etfw">Tweets by TEI2022</a
+        >
+        <script
+          async
+          src="https://platform.twitter.com/widgets.js"
+          charset="utf-8"
+        ></script>
+      </div>
     </div>
-    <!-- TWITTER -->
-    <div class="single-body twitter-box">
-        <a class="twitter-timeline" href="https://twitter.com/TEI2022?ref_src=twsrc%5Etfw">Tweets by TEI2022</a
-    >
-    <script
-      async
-      src="https://platform.twitter.com/widgets.js"
-      charset="utf-8"
-    ></script>
   </div>
+
+  <!-- TWITTER -->
 </footer>
 <!-- /footer -->
 
