@@ -13,7 +13,7 @@ title = "TEI 2022"
 [params]
 
 author = "ACM SIGCHI"
-copyright = "ACM TEI Conference 2022"
+copyright = "ACM TEI Conference 2022 | KAIST, Daejeon, South Korea"
 description = "The sixteenth international conference on Tangible, Embedded and Embodied Interaction, TEI 2022, will take place February 13-16 2022, maybe virtual, maybe hybrid."
 
 theme_color = "#5da7f0"

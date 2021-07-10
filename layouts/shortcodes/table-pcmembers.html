@@ -1,0 +1,23 @@
+{{ $text := .Get 0}} {{ $rows := .Inner | transform.Unmarshal (dict "delimiter" "|") }}
+
+<div class="container p-4 rounded" style="background-color: #ebf4fc">
+    <!-- #e1effc -->
+    <div class="row g-0 align-items-top">
+        <div class="col-md-2">
+            <div class="table-title-small">{{ $text }}</div>
+        </div>
+        <div class="col-md-10">
+            <table class="table border-2 table-bordered">
+                {{ range $rows }}
+                <tr>
+                    {{ range . }}
+                    <td>{{ . | markdownify }}</td>
+                    {{ end }}
+                </tr>
+                {{ end }}
+            </table>
+        </div>
+    </div>
+</div>
+
+<div class="blankSpace40"></div>

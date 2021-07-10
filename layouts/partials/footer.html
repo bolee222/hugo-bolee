@@ -1,15 +1,25 @@
 <!-- footer -->
 <footer class="bg-dark footer-section">
-  <div class="border-top text-center border-dark py-5">
-    <p class="mb-0 text-light">{{ .Site.Params.copyright | markdownify }}</p>
+    <div class="border-top text-center border-dark py-5">
+        <p class="mb-0 text-light">{{ .Site.Params.copyright | markdownify }}</p>
+        <p class="mb-0 text-light">Twitter: <a href="https://twitter.com/tei2022?lang=en">@TEI22</a> | </p>
+    </div>
+    </div>
+    <!-- TWITTER -->
+    <div class="single-body twitter-box">
+        <a class="twitter-timeline" href="https://twitter.com/TEI2022?ref_src=twsrc%5Etfw">Tweets by TEI2022</a
+    >
+    <script
+      async
+      src="https://platform.twitter.com/widgets.js"
+      charset="utf-8"
+    ></script>
   </div>
 </footer>
 <!-- /footer -->
 
-{{ "<!-- JS Plugins -->" | safeHTML }}
-{{ range .Site.Params.plugins.js}}
+{{ "<!-- JS Plugins -->" | safeHTML }} {{ range .Site.Params.plugins.js}}
 <script src="{{ .URL | absURL }}"></script>
-{{ end }}
-{{ "<!-- Main Script -->" | safeHTML }}
-{{ $script := resources.Get "js/script.js" | minify}}
+{{ end }} {{ "<!-- Main Script -->" | safeHTML }} {{ $script := resources.Get
+"js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>

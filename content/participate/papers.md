@@ -87,3 +87,42 @@ Accepted submissions of all contribution types will be included as papers in the
 **Augusto Esteves** , ITI/LARSyS, ULisbon, Lisbon, Portugal  
 **Young-Woo Park** , UNIST, Ulsan, Republic of Korea  
 [program_chairs@tei.acm.org](mailto:program_chairs@tei.acm.org)
+
+#### PC Members
+
+**Francesco Cafaro**, Indiana University-Purdue University Indianapolis  
+**Jared Donovan**, Queensland University of Technology  
+**Tanja Döring**, University of Bremen  
+**Florian Echtler**, Aalborg University  
+**Aluna Everitt**, University of Oxford  
+**Verena Fuchsberger**, University of Salzburg  
+**Luc Geurts**, KU Leuven  
+**Tincuta Heinzel**, Loughborough University  
+**Trevor Hogan**, Cork Institute of Technology  
+**Cedric Honnet**, MIT Media Lab  
+**Eva Hornecker**, Bauhaus-Universität Weimar  
+**Steven Houben**, Eindhoven University of Technology  
+**Jörn Hurtienne**, Universität Würzburg  
+**Manfred Lau**, City University of Hong Kong  
+**Zhuying Li**, Monash University  
+**Ali Mazalek**, Ryerson University  
+**HyunJoo Oh**, Georgia Tech  
+**Claudia Rebola**, University of Cincinnati  
+**Michal Rinott**, Shenkar College of Engineering, Design and Art  
+**Beat Signer**, Vrije Universiteit Brussel  
+**Yuta Sugiura**, Keio University  
+**Ryo Suzuki**, University of Calgary  
+**Jakob Tholander**, Stockholm University  
+**Brygg Ullmer**, Clemson University  
+**Dhaval Vyas**, University of Queensland  
+**Anna Xambó**, De Montfort University  
+**Karen Cochrane**, Carleton University  
+**Ken Nakagaki**, University of Chicago  
+**Katta Spiel**, TU Wien  
+**Sowmya Somanath**, University of Victoria  
+**Jelle van Dijk**, University of Twente  
+**Da-jung Kim**, Eindhoven University of Technology  
+**Teresa Almeida**, Umeå University  
+**Seongkook Heo**, University of Virginia  
+**Yoonji Kim**, MIT CSAIL  
+**Andrew Smith**, Meraka Institute, CSIR

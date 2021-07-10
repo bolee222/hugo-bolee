@@ -1205,3 +1205,8 @@ td strong {}
         background-color: black;
     }
 }
+
+.twitter-box {
+    margin-top: -50px;
+    width: 30%;
+}
