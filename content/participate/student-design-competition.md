@@ -2,7 +2,7 @@
 title: Student Design Competition
 date: 2019-05-12T12:14:34.000+06:00
 description: This is meta description.
-draft: true
+draft: false
 menu:
   main:
     URL: participate/student-design-competition
@@ -10,8 +10,8 @@ menu:
     parent: participate
 ---
 
-{{< figure "/2022/images/designC.jpg" "rooftop tour in Seoul Euljiro Area" >}}
-{{< /figure >}}
+{{< img-only "/2022/images/designC.jpg">}}
+{{< /img-only >}}
 
 {{< deadline-table-single "Important Dates">}}
 **SDC submission deadline** | October 25, 2021 AoE  
