@@ -90,11 +90,13 @@ menu:
 #### Publicity Chairs
 
 **Hui-Shyong Yeo**, St Andrews, UK  
+**Hyun Ju Kim**, Seoul Media Institute of Technology, South Korea   
 <publicity@tei.acm.org>
 
 #### Accesibility Chair
 
-**Young Suk Lee**  
+**Young Suk Lee**, University of Twente. The Netherlands  
+**Sara Nabil**, Queen’s University, Canada
 <accessibility_chairs@tei.acm.org>
 
 #### Student Volunteer Chairs
