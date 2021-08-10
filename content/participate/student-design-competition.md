@@ -94,7 +94,7 @@ At least one author of each accepted submission must register for the conference
 
 ##### SUBMISSION PROCESS
 
-All work except the physical swatch itself must be submitted through the Precision Conference submission system (PCS). The submission system will open in July 2021.
+All work except the physical exhibition pieces must be submitted through the Precision Conference submission system (PCS). The submission system will open in July 2021.
 
 #### STUDENT DESIGN CHALLENGE CHAIRS
 
