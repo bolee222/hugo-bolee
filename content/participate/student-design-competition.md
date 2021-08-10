@@ -59,7 +59,7 @@ Upon acceptance, we invite students to send a physical demonstration model which
 
 ##### FORMAT REQUIREMENTS
 
-TEI2022uses the [new ACM workflow](https://www.acm.org/publications/taps/word-template-workflow) for submission templates and published papers. This requires the use of a simplified one-column template for submission, while the final two-column paper has to be[ rendered for publication](https://www.acm.org/binaries/content/assets/publications/taps/acm_master_article_template_instructions.pdf) after acceptance. For further details please follow the provided instructions or contact our [Publication Chairs](mailto:publications@tei.acm.org).
+TEI2022 uses the [new ACM workflow](https://www.acm.org/publications/taps/word-template-workflow) for submission templates and published papers. This requires the use of a simplified one-column template for submission, while the final two-column paper has to be[ rendered for publication](https://www.acm.org/binaries/content/assets/publications/taps/acm_master_article_template_instructions.pdf) after acceptance. For further details please follow the provided instructions or contact our [Publication Chairs](mailto:publications@tei.acm.org).
 
 For the Student Design Challenge, you will have to submit an up to 4-pages long paper in the simplified one-column template (excluding references), a high-resolution image, and a video. You will also have to commit to producing an exhibition piece for the in-person conference which we can prepare on-site and attend the panel discussion.
 
@@ -94,7 +94,8 @@ At least one author of each accepted submission must register for the conference
 
 ##### SUBMISSION PROCESS
 
-All work except the physical exhibition pieces must be submitted through the Precision Conference submission system (PCS). The submission system will open in July 2021.
+All work except the exhibition piece itself must be submitted through the Precision Conference submission system (PCS). The submission system will open in July 2021.
+
 
 #### STUDENT DESIGN CHALLENGE CHAIRS
 
