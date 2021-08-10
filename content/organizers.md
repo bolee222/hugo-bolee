@@ -95,7 +95,8 @@ menu:
 
 #### Accesibility Chair
 
-**Young Suk Lee**  
+**Young Suk Lee**, University of Twente. The Netherlands  
+**Sara Nabil**, Queen’s University, Canada
 <accessibility_chairs@tei.acm.org>
 
 #### Student Volunteer Chairs
