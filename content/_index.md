@@ -12,6 +12,8 @@ description: This is meta description.
 [Studios](/2022/participate/studios)  | October 25, 2021 AoE  
 [Student Design Competition](/2022/participate/student-design-competition) | October 25, 2021 AoE  
 [Graduate School Consortium](/2022/participate/graduate-school-consortium) | October 25, 2021 AoE  
+
+
 **TEI 2022 conference** | February 13-16, 2022
 {{< /deadline-table-main >}}
 

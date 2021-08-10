@@ -8,6 +8,7 @@ menu:
     weight: 10
     parent: participate
 ---
+
 {{< deadline-table-single "Important Dates">}}
 **WiP submission deadline** | October 25, 2021 AoE  
 Notification of conditional acceptance | November 15, 2021 AoE  
@@ -25,52 +26,55 @@ TEI 2022 is planned to be held as a hybrid conference - both digitally via an on
 
 #### CONTRIBUTION TYPES
 
-Work-in-Progress submissions should present high-quality original work relevant to the TEI community. Topics and application areas are diverse, including tangible user interfaces, physical interaction design, flexible and shape-changing displays, haptic interaction, smart objects and cities, interactive surfaces, augmented and mixed reality, ubiquitous computing, interactive art and performance, social and wearable robotics, hybrid games, embodied cognition and perception, fashion and material design, furniture and architectural design, learning and education, music and sound interfaces, human-augmentation, as well as productivity and creativity tools in domains ranging from scientific exploration to artistic practice. Accepted submissions will be included in the ACM Digital Library proceedings as *non-archival publications*.
- 
+Work-in-Progress submissions should present high-quality original work relevant to the TEI community. Topics and application areas are diverse, including tangible user interfaces, physical interaction design, flexible and shape-changing displays, haptic interaction, smart objects and cities, interactive surfaces, augmented and mixed reality, ubiquitous computing, interactive art and performance, social and wearable robotics, hybrid games, embodied cognition and perception, fashion and material design, furniture and architectural design, learning and education, music and sound interfaces, human-augmentation, as well as productivity and creativity tools in domains ranging from scientific exploration to artistic practice. Accepted submissions will be included in the ACM Digital Library proceedings as _non-archival publications_.
+
 #### SUBMISSION GUIDELINES
 
 Submissions consist of a paper and an optional video. Upon acceptance, authors are required to submit a 2 minute presentation video and any supporting materials for the presentation. Details for each stage of the process are indicated below (submissions for review and presentation material to submit after the paper is accepted).
 
-##### MATERIAL TO SUBMIT FOR REVIEW
-We will be using the new [ACM Template](https://www.acm.org/publications/taps/word-template-workflow) (**single column**, same as full papers) instead of the old CHI extended abstract format (landscape). Submissions should be up to 8 pages long in the single column submission format (not including references). Submissions are anonymous and should not include any author names, affiliations, and contact information in the PDF.
- 
-##### MATERIAL TO SUBMIT FOR PRESENTATION AT THE CONFERENCE
-All accepted submissions will showcase their Work-in-Progress paper as a short video, which will be shown at the conference as an introductory session for all accepted posters. All accepted authors will have to submit a 2 minute madness video that captures the project concept, progress and outcomes. Optionally (but strongly encouraged) supportive materials (digital poster, presentation slides, 5 minute video with more details) can be submitted. 
- 
-##### SUPPORTING MATERIALS FOR PRESENTATION
-Given the emphasis on tangible interaction at TEI, the paper should furthermore explicitly reference (at least) one of the following tangible expressions that you will eventually bring to the conference for presentation:
-*   A **physical prototype/demo** (provide pictures in the paper);
-*   **Audiovisual footage** of user testing and/or ethnographic materials (provide link or video stills in the paper);
-*   A **visualization** of a pivotal diagram, model, or framework you are developing, possibly with earlier versions to show its evolution (provide link to hi-res version, prezi, or visual animation if so needed);
-*   **Design-research probes** or other kinds of tangible objects, toolkits, materials, research equipment that significantly contributed to your work and which you can physically bring and display at TEI (provide pictures in paper);
-*   **A video of your design/research process** may help communicate your concept (if included, please provide a link in the paper).
- 
-More than one of these expressions are possible and you can choose a format that best represents your current thinking and recent insights.
- 
-#### REVIEW PROCESS
+- ##### **Material to Submit for Review**
 
-Submissions will be reviewed in a double-blind process by two reviewers (one committee member and one external reviewer), and a final decision will be consolidated with a meta-review after a discussion among the committee members.
+  We will be using the new [ACM Template](https://www.acm.org/publications/taps/word-template-workflow) (**single column**, same as full papers) instead of the old CHI extended abstract format (landscape). Submissions should be up to 8 pages long in the single column submission format (not including references). Submissions are anonymous and should not include any author names, affiliations, and contact information in the PDF.
 
-Authors must ensure that their names and affiliations do not appear on the submitted papers. The author and affiliation sections of the submission template must be left blank. In case of acceptance, authors will be asked to provide a publication-ready copy that includes this information, along with any recommended improvements as suggested by the reviewers.
+- ##### **Material to Submit for Presentation at the Conference**
 
-Papers will be reviewed based on the following criteria
-*   The work is truly ‘in-progress’
-*   The work presents a ‘tangible expression of the research’ that will be physically displayed at the conference
-*   Relevance for conference theme
-*   Overall quality (given a Work-in-Progress: potential impact, research/design approach)
-*   Uniqueness (innovativeness, added value)
-*   Potential to enrich and provoke discussion
- 
-##### CONFIDENTIALITY
-Confidentiality of submissions will be maintained during the review process. All rejected submissions will be kept confidential in perpetuity. All submitted materials for accepted submissions will be kept confidential until the start of the conference.
- 
-##### ATTENDANCE
-One author of each accepted submission must register for the conference by the early registration deadline in order for the final Work-in-Progress paper to be published in the conference proceedings.
+  All accepted submissions will showcase their Work-in-Progress paper as a short video, which will be shown at the conference as an introductory session for all accepted posters. All accepted authors will have to submit a 2 minute madness video that captures the project concept, progress and outcomes. Optionally (but strongly encouraged) supportive materials (digital poster, presentation slides, 5 minute video with more details) can be submitted.
 
-#### WIP CHAIR CONTACT 
-For further questions please contact the Work-in-Progress chairs at <tei22c@precisionconference.com>:      
-Andrea Bianchi, KAIST    
-Jinsil Hwaryoung Seo, Texas A&M University 
+- ##### **Supporting Materials for Presentation**
+
+  Given the emphasis on tangible interaction at TEI, the paper should furthermore explicitly reference (at least) one of the following tangible expressions that you will eventually bring to the conference for presentation. More than one of these expressions are possible and you can choose a format that best represents your current thinking and recent insights.
+
+  - **A physical prototype/demo** (provide pictures in the paper);
+  - **Audiovisual footage** of user testing and/or ethnographic materials (provide link or video stills in the paper);
+  - **A visualization** of a pivotal diagram, model, or framework you are developing, possibly with earlier versions to show its evolution (provide link to hi-res version, prezi, or visual animation if so needed);
+  - **Design-research probes** or other kinds of tangible objects, toolkits, materials, research equipment that significantly contributed to your work and which you can physically bring and display at TEI (provide pictures in paper);
+  - **A video of your design/research process** may help communicate your concept (if included, please provide a link in the paper).
+
+- ##### **Review Process**
+
+  Submissions will be reviewed in a double-blind process by two reviewers (one committee member and one external reviewer), and a final decision will be consolidated with a meta-review after a discussion among the committee members. Authors must ensure that their names and affiliations do not appear on the submitted papers. The author and affiliation sections of the submission template must be left blank. In case of acceptance, authors will be asked to provide a publication-ready copy that includes this information, along with any recommended improvements as suggested by the reviewers.
+
+  Papers will be reviewed based on the following criteria
+
+  - The work is truly ‘in-progress’
+  - The work presents a ‘tangible expression of the research’ that will be physically displayed at the conference
+
+  * Relevance for conference theme
+  * Overall quality (given a Work-in-Progress: potential impact, research/design approach)
+  * Uniqueness (innovativeness, added value)
+  * Potential to enrich and provoke discussion
+
+* ##### **Confidentiality**
+  Confidentiality of submissions will be maintained during the review process. All rejected submissions will be kept confidential in perpetuity. All submitted materials for accepted submissions will be kept confidential until the start of the conference.
+
+- ##### **Attendance**
+  One author of each accepted submission must register for the conference by the early registration deadline in order for the final Work-in-Progress paper to be published in the conference proceedings.
+
+#### WIP CHAIR CONTACT
+
+**Andrea Bianchi**, KAIST  
+**Jinsil Hwaryoung Seo**, Texas A&M University  
+For further questions please contact the Work-in-Progress chairs at <tei22c@precisionconference.com>:
 
 #### PC committee
 

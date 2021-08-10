@@ -2,7 +2,17 @@
 title: Student Design Competition
 date: 2019-05-12T12:14:34.000+06:00
 description: This is meta description.
+draft: false
+menu:
+  main:
+    URL: participate/student-design-competition
+    weight: 15
+    parent: participate
 ---
+
+{{< img-only "/2022/images/designC.jpg">}}
+{{< /img-only >}}
+
 {{< deadline-table-single "Important Dates">}}
 **SDC submission deadline** | October 25, 2021 AoE  
 Notification of conditional acceptance | November 16, 2021 AoE  
@@ -21,7 +31,7 @@ For the Student Design Challenge (SDC), we invite students to contribute by subm
 
 Accepted TEI 2022 Student Design Challenge submissions will become a physical part of an exhibition we will run at the in-person part of the TEI conference. We will record a video in which we go through the exhibition, overlaid with quotes and speculations by the authors so as to make the exhibition accessible to virtual attendees too. The purpose of this video is to trigger discussion and further design iteration. During the conference we will host a virtual panel session in which we give out the awards and where the authors exchange thoughts around their visions, the audience can participate to design a powerful future together. Accepted papers will be published in the TEI2022 proceedings, part of the ACM Digital Library.
 
-**Submissions will further be made accessible online**  **in the form of a virtual guided tour with statements of the authors**
+**Submissions will further be made accessible online** **in the form of a virtual guided tour with statements of the authors**
 
 **The jury will award three prizes : best mechanical prototype, most innovative vision, and best motivated scenario. The jury will further prepare a Jury Statement for all accepted submissions.**
 
@@ -49,7 +59,7 @@ Upon acceptance, we invite students to send a physical demonstration model which
 
 ##### FORMAT REQUIREMENTS
 
-TEI2022uses the [new ACM workflow](https://www.acm.org/publications/taps/word-template-workflow) for submission templates and published papers. This requires the use of a simplified one-column template for submission, while the final two-column paper has to be[ rendered for publication](https://www.acm.org/binaries/content/assets/publications/taps/acm_master_article_template_instructions.pdf) after acceptance. For further details please follow the provided instructions or contact our [Publication Chairs](mailto:publications@tei.acm.org).
+TEI2022 uses the [new ACM workflow](https://www.acm.org/publications/taps/word-template-workflow) for submission templates and published papers. This requires the use of a simplified one-column template for submission, while the final two-column paper has to be[ rendered for publication](https://www.acm.org/binaries/content/assets/publications/taps/acm_master_article_template_instructions.pdf) after acceptance. For further details please follow the provided instructions or contact our [Publication Chairs](mailto:publications@tei.acm.org).
 
 For the Student Design Challenge, you will have to submit an up to 4-pages long paper in the simplified one-column template (excluding references), a high-resolution image, and a video. You will also have to commit to producing an exhibition piece for the in-person conference which we can prepare on-site and attend the panel discussion.
 
@@ -64,7 +74,7 @@ We will showcase the visions at an exhibition in the live-conference and will re
 The video length should be maximum 5 minutes. The video should demonstrate your vision and ideally use the exhibition piece to illustrate this: how, where, by whom is it used? How is it made? You are free to upload the video on other channels for publicity.
 
 Submissions should not contain sensitive, private, or proprietary information that cannot be disclosed at publication time.
- You might perhaps also be submitting your project to other TEI formats such as the WIP or Demos. This is allowed, but you will still need to produce and submit a tailored submission and video for the SDC and attend the panel discussion. The different kinds of conference submission will be reviewed and handled independently.
+You might perhaps also be submitting your project to other TEI formats such as the WIP or Demos. This is allowed, but you will still need to produce and submit a tailored submission and video for the SDC and attend the panel discussion. The different kinds of conference submission will be reviewed and handled independently.
 
 ##### SELECTION PROCESS
 
@@ -76,7 +86,7 @@ Authors of accepted submissions will be notified on November 15th. Accepted subm
 
 ##### AT THE CONFERENCE
 
-**During the TEI conference,**  **there will be the in-person exhibition and the virtual guided tour with quotes form the authors on permanent exhibit**. There will be a 1-hour panel session with the chosen candidates, ideally members of the jury and the chairs in which we discuss and brainstorm about the different visions. (virtual) attendees of TEI are welcome to attend/join in.**
+**During the TEI conference,** **there will be the in-person exhibition and the virtual guided tour with quotes form the authors on permanent exhibit**. There will be a 1-hour panel session with the chosen candidates, ideally members of the jury and the chairs in which we discuss and brainstorm about the different visions. (virtual) attendees of TEI are welcome to attend/join in.\*\*
 
 ##### ATTENDANCE
 
@@ -84,7 +94,8 @@ At least one author of each accepted submission must register for the conference
 
 ##### SUBMISSION PROCESS
 
-All work except the physical swatch itself must be submitted through the Precision Conference submission system (PCS). The submission system will open in July 2021.
+All work except the exhibition piece itself must be submitted through the Precision Conference submission system (PCS). The submission system will open in July 2021.
+
 
 #### STUDENT DESIGN CHALLENGE CHAIRS
 
@@ -93,4 +104,4 @@ If any of the above information is unclear or you have any questions, please don
 **Liu Wei,** Normal Beijing University, China
 
 **Thijs Roumen,** Hasso Plattner Institute, Germany
-[student\_design@tei.acm.org](mailto:student_design@tei.acm.org)
+[student_design@tei.acm.org](mailto:student_design@tei.acm.org)
