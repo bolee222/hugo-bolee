@@ -96,6 +96,7 @@ At least one author of each accepted submission must register for the conference
 
 All work except the exhibition piece itself must be submitted through the Precision Conference submission system (PCS). The submission system will open in July 2021.
 
+
 #### STUDENT DESIGN CHALLENGE CHAIRS
 
 If any of the above information is unclear or you have any questions, please don&#39;t hesitate to contact us, the design challenge chairs:
