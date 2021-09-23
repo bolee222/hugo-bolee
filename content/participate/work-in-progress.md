@@ -38,7 +38,7 @@ Submissions consist of a paper and an optional video. Upon acceptance, authors a
 
 - ##### **Material to Submit for Presentation at the Conference**
 
-  All accepted submissions will showcase their Work-in-Progress paper as a short video, which will be shown at the conference as an introductory session for all accepted posters. All accepted authors will have to submit a 2 minute madness video that captures the project concept, progress and outcomes. Optionally (but strongly encouraged) supportive materials (digital poster, presentation slides, 5 minute video with more details) can be submitted.
+  All accepted submissions will showcase their Work-in-Progress paper as a short video, which will be shown at the conference as an introductory session for all accepted posters. All accepted authors will have to submit a 2 minute short presentation video that captures the project concept, progress and outcomes. Optionally (but strongly encouraged) supportive materials (digital poster, presentation slides, 5 minute video with more details) can be submitted.
 
 - ##### **Supporting Materials for Presentation**
 
