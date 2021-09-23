@@ -91,7 +91,6 @@ Accepted submissions of all contribution types will be included as papers in the
 #### PC Members
 
 **Francesco Cafaro**, Indiana University-Purdue University Indianapolis  
-**Jared Donovan**, Queensland University of Technology  
 **Tanja Döring**, University of Bremen  
 **Florian Echtler**, Aalborg University  
 **Aluna Everitt**, University of Oxford  
