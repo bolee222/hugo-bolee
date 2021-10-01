@@ -49,7 +49,6 @@ Organisers should specify in their proposal how their Studio will take shape vir
 
 Furthermore, we encourage authors to regularly review the TEI website for possible updates around the conference organisation. For any questions and clarifications around the call, the conference, or other things that may influence submission or attendance, always feel free to [get in touch with the chairs!](mailto:stdudio-chairs@tei.acm.org)
 
-
 #### ORGANISATIONAL
 
 Studio proposals are considered non-archival publications, which means that copyright automatically remains with the authors. Accepted proposals will, however, be made available through the ACM Digital Library.
@@ -92,7 +91,7 @@ Please make sure to address the following points:
 
 ##### SUBMISSION
 
-All proposals must be submitted electronically via the [Precision Conference (PCS) website](https://new.precisionconference.com/submissions). The track will open for submissions in July 2021.
+All proposals must be submitted electronically via the **[Precision Conference (PCS) website](https://new.precisionconference.com/submissions)**. The track will open for submissions in July 2021.
 
 ##### CONFIDENTIALITY
 
@@ -107,4 +106,3 @@ At least one author of each accepted Studio submission must register for the con
 **Younghui Kim,** School of Design Convergence, Hongik University  
 **Alvaro Cassinelli** , School of Creative Media, City University of Hong Kong  
 For further questions please contact the Studio chairs at <studio_chairs@tei.acm.org>:
-

@@ -59,7 +59,7 @@ The virtual, spatial and logistical constraints of the exhibition may determine 
 
 ##### SUBMISSION PROCESS
 
-All submissions must be made via the [Precision Conference (PCS) website](https://new.precisionconference.com/submissions).
+All submissions must be made via the **[Precision Conference (PCS) website](https://new.precisionconference.com/submissions)**.
 
 ##### ATTENDANCE
 
@@ -72,4 +72,3 @@ One author of each accepted submission must register for the conference before t
 **Jo Kazuhiro**, Kyushu University, Japan  
 **Jinjoon Lee**, KAIST, South Korea  
 For further questions please contact the Art chairs at <art_chairs@tei.acm.org>:
-

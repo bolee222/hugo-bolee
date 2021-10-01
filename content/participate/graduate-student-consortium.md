@@ -51,7 +51,7 @@ The selection of GSC participants will be made by the GSC chairs. Accepted GSC p
 
 - ##### Submission Process
 
-All papers must be submitted electronically via the Precision Conference (PCS) website.
+  All papers must be submitted electronically via the **[Precision Conference (PCS) website](https://new.precisionconference.com/submissions)**.
 
 #### GSC Chairs
 

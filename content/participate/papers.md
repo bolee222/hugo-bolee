@@ -79,7 +79,7 @@ Accepted submissions of all contribution types will be included as papers in the
 
 - ##### **Submission Process**
 
-  All papers must be submitted electronically via the [Precision Conference (PCS) website](https://new.precisionconference.com/submissions). Submissions need to meet the submission deadline on August 2. After the conditional acceptance of your paper on October 4, you have time to upload your revised paper along with a summary of changes until October 25 via PCS. You will be informed about the final acceptance by November 15. Finally, a pre-recorded video of your talk or demo will have to be submitted by January 31if you’re unable to attend due to travel restrictions.
+  All papers must be submitted electronically via the **[Precision Conference (PCS) website](https://new.precisionconference.com/submissions)**. Submissions need to meet the submission deadline on August 2. After the conditional acceptance of your paper on October 4, you have time to upload your revised paper along with a summary of changes until October 25 via PCS. You will be informed about the final acceptance by November 15. Finally, a pre-recorded video of your talk or demo will have to be submitted by January 31if you’re unable to attend due to travel restrictions.
 
 #### PROGRAM CHAIRS
 
