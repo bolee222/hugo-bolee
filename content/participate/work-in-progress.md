@@ -39,8 +39,8 @@ Submissions consist of a paper and an optional video. Upon acceptance, authors a
 - ##### **Material to Submit for Presentation at the Conference**
 
   Authors of accepted submissions will showcase their Work-in-Progress paper in small groups during a dedicated session, where they will be able to show their work via live teleconferencing and aided by any relevant supportive materials  (digital poster, presentation slides, 5 minute video with more details). Detailed instructions of what to submit for the presentation will be sent out after the papers are accepted. For more details, also please take a look at the section in this page titled “Supporting Materials for Presentation”.
-  
-Authors of accepted submissions will also have to submit a 2 minute short presentation video that captures the project concept, progress and outcomes. This video will be showcased to the entire audience of the conference in a short lighting-session with all the Work-In-Progress papers.
+
+  Authors of accepted submissions will also have to submit a 2 minute short presentation video that captures the project concept, progress and outcomes. This video will be showcased to the entire audience of the conference in a short lighting-session with all the Work-In-Progress papers.
 
 - ##### **Supporting Materials for Presentation**
 
@@ -80,28 +80,28 @@ For further questions please contact the Work-in-Progress chairs at <tei22c@prec
 
 #### PC committee
 
-Anastasia Kuzminykh, University of Toronto, Canada
-Brittany Garcia, Texas A&M University, USA
-Chang Hee Lee, , KAIST, Korea
-Daniel Harley, University of Waterloo, Canada
-Elena Sabinson, Cornell University, USA
-Florian Perteneder, University of Applied Sciences Upper Austria, Austria
-Freddie Hong, Imperial College London, UK
-Greg Corness, Columbia College Chicago, USA
-Janne Mascha Beuthel, University of Salzburg, Austria
-Jas Brooks, University of Chicago, USA
-Joon Gi Shin, Aalto University, Finland
-Kristin Carlson, Illinois State University, USA
-Laurenz Seidel, HPI, Germany
-Lee Jones, Carleton University, Canada
-Magdalena Boucher, St. Pšlten University of Applied Sciences, Austria
-Muhammad Abdullah, HPI, Germany
-Myung Jin Kim, KAIST, Korea
-Neung Ryu, Independent, Korea
-Parastoo Abtahi, Stanford University, USA
-Paul Taele, Texas A&M University, USA
-Sarah Hayes, Cork Institute of Technology, Ireland
-Seungwoo Je, KAIST, Korea
-Shan-Yuan Teng, University of Chicago, USA
-Yi-Chi Liao, Aalto University, Finland
+**Anastasia Kuzminykh**, University of Toronto, Canada  
+**Brittany Garcia**, Texas A&M University, USA  
+**Chang Hee Lee**, KAIST, Korea  
+**Daniel Harley**, University of Waterloo, Canada  
+**Elena Sabinson**, Cornell University, USA  
+**Florian Perteneder**, University of Applied Sciences Upper Austria, Austria  
+**Freddie Hong**, Imperial College London, UK  
+**Greg Corness**, Columbia College Chicago, USA  
+**Janne Mascha Beuthel**, University of Salzburg, Austria  
+**Jas Brooks**, University of Chicago, USA  
+**Joon Gi Shin**, Aalto University, Finland  
+**Kristin Carlson**, Illinois State University, USA  
+**Laurenz Seidel**, HPI, Germany  
+**Lee Jones**, Carleton University, Canada  
+**Magdalena Boucher**, St. Pšlten University of Applied Sciences, Austria  
+**Muhammad Abdullah**, HPI, Germany  
+**Myung Jin Kim**, KAIST, Korea  
+**Neung Ryu**, Independent, Korea  
+**Parastoo Abtahi**, Stanford University, USA  
+**Paul Taele**, Texas A&M University, USA  
+**Sarah Hayes**, Cork Institute of Technology, Ireland  
+**eungwoo Je**, KAIST, Korea  
+**Shan-Yuan Teng**, University of Chicago, USA  
+**Yi-Chi Liao**, Aalto University, Finland  
 
