@@ -101,7 +101,7 @@ For further questions please contact the Work-in-Progress chairs at <tei22c@prec
 **Parastoo Abtahi**, Stanford University, USA  
 **Paul Taele**, Texas A&M University, USA  
 **Sarah Hayes**, Cork Institute of Technology, Ireland  
-**eungwoo Je**, KAIST, Korea  
+**Seungwoo Je**, KAIST, Korea  
 **Shan-Yuan Teng**, University of Chicago, USA  
 **Yi-Chi Liao**, Aalto University, Finland  
 
