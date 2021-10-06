@@ -6,7 +6,7 @@ description: This is meta description.
 
 {{< deadline-table-main "Important dates">}}
 [Papers](/2022/participate/papers) submission | August 2, 2021 AoE
-[Pictorials](/2022/participate/pictorials) submission | August 2, 2021 AoE  
+[Pictorials](/2022/participate/pictorials) submission | August 11, 2021 AoE  
 [Work in Progress](/2022/participate/work-in-progress) | October 25, 2021 AoE  
 [Art](/2022/participate/art)  | October 25, 2021 AoE  
 [Studios](/2022/participate/studios)  | October 25, 2021 AoE  
