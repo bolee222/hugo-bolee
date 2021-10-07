@@ -38,7 +38,7 @@ Submissions consist of a paper and an optional video. Upon acceptance, authors a
 
 - ##### **Material to Submit for Presentation at the Conference**
 
-  Authors of accepted submissions will showcase their Work-in-Progress paper in small groups during a dedicated session, where they will be able to show their work via live teleconferencing and aided by any relevant supportive materials  (digital poster, presentation slides, 5 minute video with more details). Detailed instructions of what to submit for the presentation will be sent out after the papers are accepted. For more details, also please take a look at the section in this page titled “Supporting Materials for Presentation”.
+  Authors of accepted submissions will showcase their Work-in-Progress paper in small groups during a dedicated session, where they will be able to show their work via live teleconferencing and aided by any relevant supportive materials (digital poster, presentation slides, 5 minute video with more details). Detailed instructions of what to submit for the presentation will be sent out after the papers are accepted. For more details, also please take a look at the section in this page titled “Supporting Materials for Presentation”.
 
   Authors of accepted submissions will also have to submit a 2 minute short presentation video that captures the project concept, progress and outcomes. This video will be showcased to the entire audience of the conference in a short lighting-session with all the Work-In-Progress papers.
 
@@ -76,7 +76,7 @@ Submissions consist of a paper and an optional video. Upon acceptance, authors a
 
 **Andrea Bianchi**, KAIST  
 **Jinsil Hwaryoung Seo**, Texas A&M University  
-For further questions please contact the Work-in-Progress chairs at <tei22c@precisionconference.com>:
+For further questions please contact the Work-in-Progress chairs at <wip_chairs@tei.acm.org>:
 
 #### PC committee
 
@@ -103,5 +103,4 @@ For further questions please contact the Work-in-Progress chairs at <tei22c@prec
 **Sarah Hayes**, Cork Institute of Technology, Ireland  
 **Seungwoo Je**, KAIST, Korea  
 **Shan-Yuan Teng**, University of Chicago, USA  
-**Yi-Chi Liao**, Aalto University, Finland  
-
+**Yi-Chi Liao**, Aalto University, Finland
