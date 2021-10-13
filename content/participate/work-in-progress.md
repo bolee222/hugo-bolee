@@ -26,7 +26,7 @@ TEI 2022 is planned to be held as a hybrid conference - both digitally via an on
 
 #### CONTRIBUTION TYPES
 
-Work-in-Progress submissions should present high-quality original work relevant to the TEI community. Topics and application areas are diverse, including tangible user interfaces, physical interaction design, flexible and shape-changing displays, haptic interaction, smart objects and cities, interactive surfaces, augmented and mixed reality, ubiquitous computing, interactive art and performance, social and wearable robotics, hybrid games, embodied cognition and perception, fashion and material design, furniture and architectural design, learning and education, music and sound interfaces, human-augmentation, as well as productivity and creativity tools in domains ranging from scientific exploration to artistic practice. Accepted submissions will be included in the ACM Digital Library Extended Proceedings (i.e., _non-archival publications_).
+Work-in-Progress submissions should present high-quality original work relevant to the TEI community. Topics and application areas are diverse, including tangible user interfaces, physical interaction design, flexible and shape-changing displays, haptic interaction, smart objects and cities, interactive surfaces, augmented and mixed reality, ubiquitous computing, interactive art and performance, social and wearable robotics, hybrid games, embodied cognition and perception, fashion and material design, furniture and architectural design, learning and education, music and sound interfaces, human-augmentation, as well as productivity and creativity tools in domains ranging from scientific exploration to artistic practice. Accepted submissions will be included in the ACM Digital Library Extended Proceedings (i.e., _non-archival publications_). 
 
 #### SUBMISSION GUIDELINES
 
@@ -51,6 +51,10 @@ Submissions consist of a paper and an optional video. Upon acceptance, authors a
   - **A visualization** of a pivotal diagram, model, or framework you are developing, possibly with earlier versions to show its evolution (provide link to hi-res version, prezi, or visual animation if so needed);
   - **Design-research probes** or other kinds of tangible objects, toolkits, materials, research equipment that significantly contributed to your work and which you can physically bring and display at TEI (provide pictures in paper);
   - **A video of your design/research process** may help communicate your concept (if included, please provide a link in the paper).
+
+- ##### **Submission Process**
+
+  All submissions must be made via the Precision Conference (PCS) website.
 
 - ##### **Review Process**
 
