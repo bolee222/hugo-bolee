@@ -34,7 +34,7 @@ menu:
 
 **Andrea Bianchi**, KAIST, South Korea  
 **Jinsil Seo**, Texas A&M, USA  
-<wipi_chairs@tei.acm.org>
+<wip_chairs@tei.acm.org>
 
 #### Studio Chairs
 
