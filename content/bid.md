@@ -29,6 +29,6 @@ The TEI Steering Committee welcomes proposals for hosting and organizing future 
 - Likely sponsors
 - Any direction/theme change you would envisage and any new features/tracks you would like to include
 
-Deadline for bids to host TEI 2024: **1 November 2021**. The TEI Steering Committee will then take the final decision in February after TEI2022.
+Deadline for bids to host TEI 2024: **1st December 2021**. The TEI Steering Committee will then take the final decision in February after TEI2022.
 
 Please email your proposal as a PDF document to **<sc-chairs@tei.acm.org>**
