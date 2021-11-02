@@ -86,6 +86,7 @@ For further questions please contact the Work-in-Progress chairs at <wip_chairs@
 
 **Anastasia Kuzminykh**, University of Toronto, Canada  
 **Brittany Garcia**, Texas A&M University, USA  
+**Carlos Castellanos**, Rochester Institute of Technology, USA  
 **Chang Hee Lee**, KAIST, Korea  
 **Daniel Harley**, University of Waterloo, Canada  
 **Elena Sabinson**, Cornell University, USA  
@@ -95,6 +96,8 @@ For further questions please contact the Work-in-Progress chairs at <wip_chairs@
 **Janne Mascha Beuthel**, University of Salzburg, Austria  
 **Jas Brooks**, University of Chicago, USA  
 **Joon Gi Shin**, Aalto University, Finland  
+**Joon Hyub Lee**, KAIST, Korea  
+**Kongpyung Justin**, KAIST, Korea  
 **Kristin Carlson**, Illinois State University, USA  
 **Laurenz Seidel**, HPI, Germany  
 **Lee Jones**, Carleton University, Canada  
@@ -102,6 +105,7 @@ For further questions please contact the Work-in-Progress chairs at <wip_chairs@
 **Muhammad Abdullah**, HPI, Germany  
 **Myung Jin Kim**, KAIST, Korea  
 **Neung Ryu**, Independent, Korea  
+**Osazuwa Okundaye**, Texas A&M University, USA  
 **Parastoo Abtahi**, Stanford University, USA  
 **Paul Taele**, Texas A&M University, USA  
 **Sarah Hayes**, Cork Institute of Technology, Ireland  
