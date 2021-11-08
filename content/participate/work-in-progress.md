@@ -11,8 +11,8 @@ menu:
 
 {{< deadline-table-single "Important Dates">}}
 **WiP submission deadline** | October 25, 2021 AoE  
-Notification of conditional acceptance | November 15, 2021 AoE  
-Camera-ready deadline | November 22, 2021 AoE
+Notification of conditional acceptance | ~~November 15, 2021 AoE~~  **November 18, 2021, AoE**
+Camera-ready deadline | ~~November 22, 2021 AoE~~  **November 29, 2021 AoE**
 Presentation pre-recorded video due | January 31, 2022 AoE  
 **TEI 2022 conference** | February 13-16, 2022
 {{< /deadline-table-single >}}
@@ -26,7 +26,7 @@ TEI 2022 is planned to be held as a hybrid conference - both digitally via an on
 
 #### CONTRIBUTION TYPES
 
-Work-in-Progress submissions should present high-quality original work relevant to the TEI community. Topics and application areas are diverse, including tangible user interfaces, physical interaction design, flexible and shape-changing displays, haptic interaction, smart objects and cities, interactive surfaces, augmented and mixed reality, ubiquitous computing, interactive art and performance, social and wearable robotics, hybrid games, embodied cognition and perception, fashion and material design, furniture and architectural design, learning and education, music and sound interfaces, human-augmentation, as well as productivity and creativity tools in domains ranging from scientific exploration to artistic practice. Accepted submissions will be included in the ACM Digital Library Extended Proceedings (i.e., _non-archival publications_). 
+Work-in-Progress submissions should present high-quality original work relevant to the TEI community. Topics and application areas are diverse, including tangible user interfaces, physical interaction design, flexible and shape-changing displays, haptic interaction, smart objects and cities, interactive surfaces, augmented and mixed reality, ubiquitous computing, interactive art and performance, social and wearable robotics, hybrid games, embodied cognition and perception, fashion and material design, furniture and architectural design, learning and education, music and sound interfaces, human-augmentation, as well as productivity and creativity tools in domains ranging from scientific exploration to artistic practice. Accepted submissions will be included in the ACM Digital Library Extended Proceedings (i.e., _non-archival publications_).
 
 #### SUBMISSION GUIDELINES
 

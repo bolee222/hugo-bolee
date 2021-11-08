@@ -10,7 +10,7 @@ menu:
 ---
 
 {{< deadline-table-single "Important Dates">}}
-**Art submission deadline** | November 15, 2021 AoE  
+**Art submission deadline** | ~~October 25, 2021 AoE~~ **November 15, 2021 AoE**
 Notification of conditional acceptance | November 29, 2021 AoE  
 Camera-ready deadline | December 06, 2021 AoE
 Presentation pre-recorded video due | January 31, 2022 AoE  

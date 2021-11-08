@@ -1045,7 +1045,9 @@ td {
 
 td a:link {}
 
-td strong {}
+td strong {
+    color: darkviolet;
+}
 
 ::-webkit-scrollbar {
     width: 6px;
