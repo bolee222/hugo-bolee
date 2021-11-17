@@ -12,12 +12,12 @@ body {
     font-family: "Noto Sans KR", sans-serif;
     -webkit-font-smoothing: antialiased;
     font-size: 15px;
-    color: #4c4c4c;
+    color: #262626;
 }
 
 p {
     font-weight: 300;
-    color: #4c4c4c;
+    color: #262626;
     font-size: 1.1rem;
     line-height: 1.7;
     font-family: "Noto Sans KR", sans-serif;
@@ -31,15 +31,20 @@ p {
 }
 
 p strong {
-    font-weight: 800;
+    font-weight: 600;
+    color:#262626;
+}
+
+p a{
+    font-weight: 500;
 }
 
 li {
     font-family: "Noto Sans KR", sans-serif;
     font-size: 1.1rem;
     font-weight: 300;
-    line-height: 1.7;
-    color: #4c4c4c;
+    line-height: 1.6;
+    color: #262626;
     list-style-type: square;
 }
 
@@ -57,12 +62,12 @@ li ul li strong {
 @media (max-width: 991px) {
     li {
         font-size: 15px;
-        line-height: 1.7;
+        line-height: 1.5;
     }
 }
 
 li strong {
-    font-weight: 800;
+    font-weight: 600;
 }
 
 li strong underline {
@@ -149,16 +154,13 @@ h5 em {
 h6,
 .h6 {
     font-family: "Noto Sans KR", sans-serif;
-    font-weight: 300;
-    color: #4c4c4c;
-    font-size: 1.1rem;
+    font-weight: 800;
+    color: #4346F1;
+    font-size: 1.2rem;
     line-height: 1.7;
-    padding: 0px 20px 0 40px;
+    padding: 10px 0 0 0px;
 }
 
-h6 strong {
-    font-weight: 600;
-}
 
 .btn {
     font-size: 22px;
@@ -348,7 +350,7 @@ a:hover {
 }
 
 .text-color {
-    color: #4c4c4c;
+    color: #262626;
 }
 
 .text-dark {

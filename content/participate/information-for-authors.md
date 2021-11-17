@@ -8,12 +8,30 @@ menu:
     weight: 1000
     parent: participate
 ---
-TEI 2022 will fully switch to the [new ACM workflow](https://www.acm.org/publications/taps/word-template-workflow) for submission templates and published papers. This requires the use of a simplified one-column template for submission, while the final two-column paper has to be [rendered for publication](https://www.acm.org/publications/authors/submissions) after acceptance. We strongly recommend using the [LaTeX](https://www.acm.org/publications/taps/latex-best-practices) templates rather than Word. Papers do not have a page limit.
 
-**Pictorials** must be submitted in the TEI2022 Pictorials format (see below) and not exceed 12 pages, excluding references. The first page of the submission should include the submission&#39;s title, author(s) and their affiliation(s) (leave blank for double-blind review), and a written abstract of no more than 150 words succinctly describing the background and context of the pictorial as well as its contribution to the TEI community. Further written parts known from other conference formats such as Introduction, Conclusion, Discussion, Acknowledgements, and References are optional. The main part of the submission should be an annotated visual composition and we encourage submissions to use the format creatively. All submissions should be anonymous and submitted via the TEI2022 **[Precision Conference (PCS) system](https://new.precisionconference.com/submissions)** by August 2, 2021.
+##### When submitting the final camera-ready version:
 
-We strongly advise you to use the InDesign template to compose your Pictorial. If you do not have access to InDesign, please use the Word or Powerpoint templates.
+ 1. Some time after the acceptance notification, the contact author will receive an email from the ACM copyright management system asking to complete the copyright form. Please fix any spelling errors in your paper title and author metadata at this point.
+ 2. Include the provided ACM copyright information (conference name, DOI, ISBN, license, price) in your document source.
+ 3. Upload the camera-ready document source / PDF files.
 
-- **[InDesign template](/2022/files/TEI2022-Pictorials-InDesign-template.zip)**
-- **[PowerPoint template](/2022/files/TEI2022-Pictorials-PowerPoint-template.zip)**
-- **[Word template](/2022/files/TEI2022-Pictorials-Word-template.zip)**
+##### The upload steps depend on the contribution type.
+
+###### **>>>> Pictorials**:
+Submissions for Pictorials can not be handled by TAPS. Authors will receive information about uploading the camera-ready PDF file to PCS instead. Please ensure:
+ - To have included rights text (bibliographic strip, ISBN, DOI, etc.) as provided by ACM.
+ - The PDF is optimized for fast Web viewing.
+ - All fonts are embedded.
+
+###### **>>>> Papers**:
+For papers that are published via TAPS, the following steps will take place:
+ - Some time after you submitted the copyright form, you will receive an email from TAPS asking you to upload your source files and supplementary files to TAPS.
+ - **We strongly suggest using the LaTeX template** instead of the Word template for preparing the camera-ready (TAPS) version. Finalizing the submission using the Word template/workflow has caused authors some frustration. Please use the ACM Master Article Class and the included template. It does not matter which `\documentclass` you choose because TAPS will automatically apply `\documentclass[sigconf]{acmart}` to your source.
+ - **If you are using the Word template**, please prepare and submit your camera-ready version as a single-column manuscript by following the [**provided guidelines**](https://www.acm.org/binaries/content/assets/publications/taps/acm_primary_article_template_instructions.pdf).
+ - **Prepare your source files and pack them into a ZIP file** that follows the directory structure shown on the TAPS page. Note: You are also required to submit PDF version of your paper. However, this PDF is just for troubleshooting – all content for the Digital Library is compiled directly from the sources.
+ - Upload the ZIP file either via the upload form on the TAPS page (only for small files) or by uploading it to the external service linked on the TAPS page.
+ - TAPS will check whether the sources are valid and can be compiled. After some time the TAPS page will either show you a success message or an error message (you need to check the page manually from time to time).
+ - In the latter case, you will be given an error log. Please fix all issues and upload the ZIP file again until the manuscript compiles successfully.
+ - Once upload and compilation are completed successfully, you need to check whether PDF and HTML versions were generated correctly. Please check whether author names, figures, equations, references, etc. are rendered correctly in both formats. If not, click the “reject” radio button in order to upload a new version.
+ - Once you are satisfied with the results, please click the “approve” radio button.
+ - The  proceedings chairs will check your submission for completeness and obvious formatting problems. If there are changes required, they will contact the corresponding author by email.
