@@ -124,4 +124,6 @@ Accepted submissions of all contribution types will be included as papers in the
 **Teresa Almeida**, Umeå University  
 **Seongkook Heo**, University of Virginia  
 **Yoonji Kim**, MIT CSAIL  
-**Andrew Smith**, Meraka Institute, CSIR
+**Andrew Smith**, Council for Scientific and Industrial Research (CSIR)  
+**Ian Oakley**, UNIST  
+**Thijs Roumen**, Hasso Plattner Institute
