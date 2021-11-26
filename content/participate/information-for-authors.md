@@ -23,7 +23,7 @@ Submissions for Pictorials can not be handled by TAPS. Authors will receive info
  - The PDF is optimized for fast Web viewing.
  - All fonts are embedded.
 
-###### **>>>> Papers**:
+###### **>>>> Papers, Work in Progress, Student Design Competition, Graduate Student Consortium, Art and Performance, Studios**:
 For papers that are published via TAPS, the following steps will take place:
  - Some time after you submitted the copyright form, you will receive an email from TAPS asking you to upload your source files and supplementary files to TAPS.
  - **We strongly suggest using the LaTeX template** instead of the Word template for preparing the camera-ready (TAPS) version. Finalizing the submission using the Word template/workflow has caused authors some frustration. Please use the ACM Master Article Class and the included template. It does not matter which `\documentclass` you choose because TAPS will automatically apply `\documentclass[sigconf]{acmart}` to your source.
