@@ -103,4 +103,4 @@ If any of the above information is unclear or you have any questions, please don
 **Liu Wei,** Normal Beijing University, China
 
 **Thijs Roumen,** Hasso Plattner Institute, Germany
-[student_design@tei.acm.org](mailto:student_design@tei.acm.org)
+[sdc_chairs@tei.acm.org](mailto:sdc_chairs@tei.acm.org)
