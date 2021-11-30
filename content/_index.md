@@ -3,6 +3,9 @@ title: Home
 date: 2019-05-12T12:14:34.000+06:00
 description: This is meta description.
 ---
+<!---
+hugo server --disableFastRender --baseURL "localhost/2022/"
+-->
 
 {{< deadline-table-main "Important dates">}}
 [Papers](/2022/participate/papers) submission | August 2, 2021 AoE
