@@ -29,7 +29,7 @@ We expect a workload of about 6 to 8 hours (including training session) and offe
 The application deadline is: 
 Thursday, February 4th aeo
 
-## furhter info
+## further info
 
 For any queries or further information regarding Online Volunteering for TEI 2022, feel free to contact us at sv_chairs@tei.acm.org
 
