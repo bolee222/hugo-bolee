@@ -13,10 +13,11 @@ menu:
 
 {{< deadline-table-single "Important Dates">}}
 **Pictorials submission deadline** | August 2, 2021 AoE  
-Notification of conditional acceptance | October 4, 2021 AoE  
+Notification of conditional acceptance | October 11, 2021 AoE  
 Revised Pictorial submission deadline | October 25, 2021 AoE  
-Notification of final acceptance | November 15, 2021 AoE
-Camera-ready deadline | November 22, 2021 AoE
+Notification of final acceptance | ~~November 15, 2021 AoE~~  **November 18, 2021, AoE**
+Camera-ready deadline | ~~November 22, 2021 AoE~~  **November 29, 2021 AoE**
+Presentation pre-recorded video due | January 31, 2022 AoE  
 **TEI 2022 conference** | February 13-16, 2022
 {{< /deadline-table-single >}}
 

@@ -15,8 +15,8 @@ menu:
 **Papers submission deadline** | August 2, 2021 AoE  
 Notification of conditional acceptance | October 4, 2021 AoE  
 Revised Paper submission deadline | October 25, 2021 AoE  
-Notification of final acceptance | November 15, 2021 AoE
-Camera-ready deadline | November 22, 2021 AoE
+Notification of final acceptance | ~~November 15, 2021 AoE~~  **November 18, 2021, AoE**
+Camera-ready deadline | ~~November 22, 2021 AoE~~  **November 29, 2021 AoE**
 Presentation pre-recorded video due | January 31, 2022 AoE  
 **TEI 2022 conference** | February 13-16, 2022
 {{< /deadline-table-single >}}
@@ -53,7 +53,7 @@ Accepted submissions of all contribution types will be included as papers in the
 
 - ##### **Format Requirements - _Important!!_**
 
-  TEI 2022 will fully switch to the [new ACM workflow](https://www.acm.org/publications/taps/word-template-workflow) for submission templates and published papers. This requires the use of a simplified one-column template for submission, while the final two-column paper has to be [rendered for publication](https://www.acm.org/binaries/content/assets/publications/taps/acm_master_article_template_instructions.pdf) after acceptance. We strongly recommend using the [LaTeX](https://www.acm.org/publications/taps/latex-best-practices) templates rather than Word. Papers do not have a page limit. For further details please follow the [provided instructions](https://tei.acm.org/2022/participate/information-for-authors/) or contact our Publication Chairs. <p style="color:red"></p>
+  TEI 2022 will fully switch to the [new ACM workflow](https://www.acm.org/publications/taps/word-template-workflow) for submission templates and published papers. This requires the use of a simplified one-column template for submission, while the final two-column paper has to be [rendered for publication](https://www.acm.org/publications/authors/submissions) after acceptance. We strongly recommend using the [LaTeX](https://www.acm.org/publications/taps/latex-best-practices) templates rather than Word. Papers do not have a page limit. For further details please follow the [provided instructions](https://tei.acm.org/2022/participate/information-for-authors/) or contact our Publication Chairs. <p style="color:red"></p>
 
 - ##### **Presentation Format**
 
@@ -79,7 +79,7 @@ Accepted submissions of all contribution types will be included as papers in the
 
 - ##### **Submission Process**
 
-  All papers must be submitted electronically via the [Precision Conference (PCS) website](https://new.precisionconference.com/submissions). Submissions need to meet the submission deadline on August 2. After the conditional acceptance of your paper on October 4, you have time to upload your revised paper along with a summary of changes until October 25 via PCS. You will be informed about the final acceptance by November 15. Finally, a pre-recorded video of your talk or demo will have to be submitted by January 31if you’re unable to attend due to travel restrictions.
+  All papers must be submitted electronically via the **[Precision Conference (PCS) website](https://new.precisionconference.com/submissions)**. Submissions need to meet the submission deadline on August 2. After the conditional acceptance of your paper on October 4, you have time to upload your revised paper along with a summary of changes until October 25 via PCS. You will be informed about the final acceptance by November 15. Finally, a pre-recorded video of your talk or demo will have to be submitted by January 31if you’re unable to attend due to travel restrictions.
 
 #### PROGRAM CHAIRS
 
@@ -124,4 +124,6 @@ Accepted submissions of all contribution types will be included as papers in the
 **Teresa Almeida**, Umeå University  
 **Seongkook Heo**, University of Virginia  
 **Yoonji Kim**, MIT CSAIL  
-**Andrew Smith**, Meraka Institute, CSIR
+**Andrew Smith**, Council for Scientific and Industrial Research (CSIR)  
+**Ian Oakley**, UNIST  
+**Thijs Roumen**, Hasso Plattner Institute

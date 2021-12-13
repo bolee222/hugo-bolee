@@ -11,8 +11,8 @@ menu:
 
 {{< deadline-table-single "Important Dates">}}
 **WiP submission deadline** | October 25, 2021 AoE  
-Notification of conditional acceptance | November 15, 2021 AoE  
-Camera-ready deadline | November 22, 2021 AoE
+Notification of conditional acceptance | ~~November 15, 2021 AoE~~  **November 18, 2021, AoE**
+Camera-ready deadline | ~~November 22, 2021 AoE~~  **November 29, 2021 AoE**
 Presentation pre-recorded video due | January 31, 2022 AoE  
 **TEI 2022 conference** | February 13-16, 2022
 {{< /deadline-table-single >}}
@@ -26,7 +26,7 @@ TEI 2022 is planned to be held as a hybrid conference - both digitally via an on
 
 #### CONTRIBUTION TYPES
 
-Work-in-Progress submissions should present high-quality original work relevant to the TEI community. Topics and application areas are diverse, including tangible user interfaces, physical interaction design, flexible and shape-changing displays, haptic interaction, smart objects and cities, interactive surfaces, augmented and mixed reality, ubiquitous computing, interactive art and performance, social and wearable robotics, hybrid games, embodied cognition and perception, fashion and material design, furniture and architectural design, learning and education, music and sound interfaces, human-augmentation, as well as productivity and creativity tools in domains ranging from scientific exploration to artistic practice. Accepted submissions will be included in the ACM Digital Library proceedings as _non-archival publications_.
+Work-in-Progress submissions should present high-quality original work relevant to the TEI community. Topics and application areas are diverse, including tangible user interfaces, physical interaction design, flexible and shape-changing displays, haptic interaction, smart objects and cities, interactive surfaces, augmented and mixed reality, ubiquitous computing, interactive art and performance, social and wearable robotics, hybrid games, embodied cognition and perception, fashion and material design, furniture and architectural design, learning and education, music and sound interfaces, human-augmentation, as well as productivity and creativity tools in domains ranging from scientific exploration to artistic practice. Accepted submissions will be included in the ACM Digital Library Extended Proceedings (i.e., _non-archival publications_).
 
 #### SUBMISSION GUIDELINES
 
@@ -38,7 +38,9 @@ Submissions consist of a paper and an optional video. Upon acceptance, authors a
 
 - ##### **Material to Submit for Presentation at the Conference**
 
-  All accepted submissions will showcase their Work-in-Progress paper as a short video, which will be shown at the conference as an introductory session for all accepted posters. All accepted authors will have to submit a 2 minute short presentation video that captures the project concept, progress and outcomes. Optionally (but strongly encouraged) supportive materials (digital poster, presentation slides, 5 minute video with more details) can be submitted.
+  Authors of accepted submissions will showcase their Work-in-Progress paper in small groups during a dedicated session, where they will be able to show their work via live teleconferencing and aided by any relevant supportive materials (digital poster, presentation slides, 5 minute video with more details). Detailed instructions of what to submit for the presentation will be sent out after the papers are accepted. For more details, also please take a look at the section in this page titled “Supporting Materials for Presentation”.
+
+  Authors of accepted submissions will also have to submit a 2 minute short presentation video that captures the project concept, progress and outcomes. This video will be showcased to the entire audience of the conference in a short lighting-session with all the Work-In-Progress papers.
 
 - ##### **Supporting Materials for Presentation**
 
@@ -49,6 +51,10 @@ Submissions consist of a paper and an optional video. Upon acceptance, authors a
   - **A visualization** of a pivotal diagram, model, or framework you are developing, possibly with earlier versions to show its evolution (provide link to hi-res version, prezi, or visual animation if so needed);
   - **Design-research probes** or other kinds of tangible objects, toolkits, materials, research equipment that significantly contributed to your work and which you can physically bring and display at TEI (provide pictures in paper);
   - **A video of your design/research process** may help communicate your concept (if included, please provide a link in the paper).
+
+- ##### **Submission Process**
+
+  All submissions must be made via the Precision Conference (PCS) website.
 
 - ##### **Review Process**
 
@@ -74,8 +80,35 @@ Submissions consist of a paper and an optional video. Upon acceptance, authors a
 
 **Andrea Bianchi**, KAIST  
 **Jinsil Hwaryoung Seo**, Texas A&M University  
-For further questions please contact the Work-in-Progress chairs at <tei22c@precisionconference.com>:
+For further questions please contact the Work-in-Progress chairs at <wip_chairs@tei.acm.org>:
 
 #### PC committee
 
-To be added
+**Anastasia Kuzminykh**, University of Toronto, Canada  
+**Brittany Garcia**, Texas A&M University, USA  
+**Carlos Castellanos**, Rochester Institute of Technology, USA  
+**Chang Hee Lee**, KAIST, Korea  
+**Daniel Harley**, University of Waterloo, Canada  
+**Elena Sabinson**, Cornell University, USA  
+**Florian Perteneder**, University of Applied Sciences Upper Austria, Austria  
+**Freddie Hong**, Imperial College London, UK  
+**Greg Corness**, Columbia College Chicago, USA  
+**Janne Mascha Beuthel**, University of Salzburg, Austria  
+**Jas Brooks**, University of Chicago, USA  
+**Joon Gi Shin**, Aalto University, Finland  
+**Joon Hyub Lee**, KAIST, Korea  
+**Kongpyung Justin**, KAIST, Korea  
+**Kristin Carlson**, Illinois State University, USA  
+**Laurenz Seidel**, HPI, Germany  
+**Lee Jones**, Carleton University, Canada  
+**Magdalena Boucher**, St. Pšlten University of Applied Sciences, Austria  
+**Muhammad Abdullah**, HPI, Germany  
+**Myung Jin Kim**, KAIST, Korea  
+**Neung Ryu**, Independent, Korea  
+**Osazuwa Okundaye**, Texas A&M University, USA  
+**Parastoo Abtahi**, Stanford University, USA  
+**Paul Taele**, Texas A&M University, USA  
+**Sarah Hayes**, Cork Institute of Technology, Ireland  
+**Seungwoo Je**, KAIST, Korea  
+**Shan-Yuan Teng**, University of Chicago, USA  
+**Yi-Chi Liao**, Aalto University, Finland

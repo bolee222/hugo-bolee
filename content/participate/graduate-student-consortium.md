@@ -10,7 +10,7 @@ menu:
 ---
 
 {{< deadline-table-single "Important Dates">}}
-**GSC submission deadline** | October 25, 2021 AoE  
+**GSC submission deadline** | ~~October 25, 2021 AoE~~ **November 15, 2021 AoE**
 Notification of conditional acceptance | November 16, 2021 AoE  
 Camera-ready deadline | November 22, 2021 AoE
 Presentation pre-recorded video due | January 31, 2022 AoE  
@@ -51,7 +51,7 @@ The selection of GSC participants will be made by the GSC chairs. Accepted GSC p
 
 - ##### Submission Process
 
-All papers must be submitted electronically via the Precision Conference (PCS) website.
+  All papers must be submitted electronically via the **[Precision Conference (PCS) website](https://new.precisionconference.com/submissions)**.
 
 #### GSC Chairs
 

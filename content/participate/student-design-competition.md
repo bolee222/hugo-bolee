@@ -15,8 +15,8 @@ menu:
 
 {{< deadline-table-single "Important Dates">}}
 **SDC submission deadline** | October 25, 2021 AoE  
-Notification of conditional acceptance | November 16, 2021 AoE  
-Camera-ready deadline | November 22, 2021 AoE
+Notification of conditional acceptance | ~~November 18, 2021 AoE~~  **November 18, 2021, AoE**
+Camera-ready deadline | ~~November 22, 2021 AoE~~  **November 29, 2021 AoE**
 Presentation pre-recorded video due | January 31, 2022 AoE  
 **TEI 2022 conference** | February 13-16, 2022
 {{< /deadline-table-single >}}
@@ -94,8 +94,7 @@ At least one author of each accepted submission must register for the conference
 
 ##### SUBMISSION PROCESS
 
-All work except the exhibition piece itself must be submitted through the Precision Conference submission system (PCS). The submission system will open in July 2021.
-
+All work except the exhibition piece itself must be submitted through the **[Precision Conference submission system (PCS)](https://new.precisionconference.com/submissions)**. The submission system will open in July 2021.
 
 #### STUDENT DESIGN CHALLENGE CHAIRS
 
@@ -104,4 +103,4 @@ If any of the above information is unclear or you have any questions, please don
 **Liu Wei,** Normal Beijing University, China
 
 **Thijs Roumen,** Hasso Plattner Institute, Germany
-[student_design@tei.acm.org](mailto:student_design@tei.acm.org)
+[sdc_chairs@tei.acm.org](mailto:sdc_chairs@tei.acm.org)

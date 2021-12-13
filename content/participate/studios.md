@@ -10,9 +10,9 @@ menu:
 ---
 
 {{< deadline-table-single "Important Dates">}}
-**Studios submission deadline** | October 25, 2021 AoE  
-Notification of conditional acceptance | November 15, 2021 AoE  
-Camera-ready deadline | November 22, 2021 AoE
+**Studios submission deadline** | ~~October 25, 2021 AoE~~ **November 15, 2021 AoE**
+Notification of conditional acceptance | ~~November 15, 2021 AoE~~  **November 18, 2021, AoE**
+Camera-ready deadline | ~~November 22, 2021 AoE~~  **November 29, 2021 AoE**
 Presentation pre-recorded video due | January 31, 2022 AoE  
 **TEI 2022 conference** | February 13-16, 2022
 {{< /deadline-table-single >}}
@@ -48,7 +48,6 @@ If you are unsure how to answer those questions, the Studio Chairs are ready to 
 Organisers should specify in their proposal how their Studio will take shape virtually or hybridly. We ask organisers to consider practical solutions to dislocation (e.g., mailing out materials to participants, or asking participants to purchase necessary materials) and specify online tools and systems that will be used during the Studio.
 
 Furthermore, we encourage authors to regularly review the TEI website for possible updates around the conference organisation. For any questions and clarifications around the call, the conference, or other things that may influence submission or attendance, always feel free to [get in touch with the chairs!](mailto:stdudio-chairs@tei.acm.org)
-
 
 #### ORGANISATIONAL
 
@@ -92,7 +91,7 @@ Please make sure to address the following points:
 
 ##### SUBMISSION
 
-All proposals must be submitted electronically via the [Precision Conference (PCS) website](https://new.precisionconference.com/submissions). The track will open for submissions in July 2021.
+All proposals must be submitted electronically via the **[Precision Conference (PCS) website](https://new.precisionconference.com/submissions)**. The track will open for submissions in July 2021.
 
 ##### CONFIDENTIALITY
 
@@ -107,4 +106,3 @@ At least one author of each accepted Studio submission must register for the con
 **Younghui Kim,** School of Design Convergence, Hongik University  
 **Alvaro Cassinelli** , School of Creative Media, City University of Hong Kong  
 For further questions please contact the Studio chairs at <studio_chairs@tei.acm.org>:
-
