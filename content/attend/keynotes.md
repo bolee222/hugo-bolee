@@ -10,7 +10,6 @@ menu:
     weight: 2
     parent: attend
 ---
-We are happy to present our keynote speakers.
 
 ### Elisa Giaccardi
 {{< keynoteImg "/2022/images/ElisaGiaccardi.jpg" "Elisa Giaccardi">}}
