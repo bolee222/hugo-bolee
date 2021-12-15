@@ -12,9 +12,9 @@ menu:
 ---
 
 
-The following studios are planned on Sunday
+The following studios are planned on **Sunday**
 
-### Engaging with the IoT
+#### Engaging with the IoT
 
 This studio revolves around designing with systemic openness and introduces the IoT Sandbox as a tool to design with systemic openness through multi-activity and multi-person scenarios. The studio knows three learning goals: (1) how to characterize and facilitate a design challenge with systemic openness, (2) how to design with multi-activity and multi-person scenarios, and (3) how to design for diverse interaction styles in a systems context. In a hands-on manner the fundamental concepts and challenges are introduced and experienced through a series of short design sprints. The studio ends with a reflective discussion on the propositions created by the participants, in relation to the learning goals as well as the studio and the IoT Sandbox platform.
 
@@ -22,13 +22,13 @@ This studio revolves around designing with systemic openness and introduces the 
 - [Joep Frens](mailto:j.w.frens@tue.nl) Industrial Design, Eindhoven University of Technology, Eindhoven, Netherlands
 - Mathias Funk Industrial Design, Eindhoven University of Technology, Eindhoven, Netherlands
 
-###  Rapid Prototyping of 3d Printed Inflatable Forms
+####  Rapid Prototyping of 3d Printed Inflatable Forms
 
 In this hands-on workshop we will be outlining how to reliably and quickly prototype 3d printed inflatable forms such as actuators, buttons and pumps using a direct drive FDM 3d printer. The workshop will address flexible printing materials, machine settings, designing for air tightness, post processing and printer modifications as well as an introduction to Fusion 360.
 
 - [Daniel Mikesell](mailto:danmikes@iu.edu) Comprehensive Design, Indiana University, bloomington, Indiana, United States
 
-### Graspable AI (GAI): Physical Forms as Explanation Modality for Explainable AI
+#### Graspable AI (GAI): Physical Forms as Explanation Modality for Explainable AI
 
 Explainable AI (XAI) seeks to disclose how an AI system arrives at its outcomes. But the nature of the disclosure depends in part on who needs to understand the AI and the available explanation modalities (e. g. verbal and visual). People's preferences regarding explanation modalities might differ, some might prefer spoken explanations compared to visual ones. However, we might also consider broadening the explanation modalities, to consider also tangible and physical forms. Historically, physical forms have mediated people’s interactions with objects, and more recently user interaction with IoT and smart devices, such as smart lighting and robotic vacuum cleaners. But whether it can support AI explanations has not yet been explored.  
 
@@ -41,7 +41,7 @@ In this second studio proposal on Graspable AI (GAI) we seek to explore design q
 -   prof Peter Gall Krogh, Digital Design, Aarhus University, Aarhus, Denmark
 
 
-### Wearable Technology Design and Accessibility Considerations Studio
+#### Wearable Technology Design and Accessibility Considerations Studio
 
 The studio proposed here will focus on design and accessibility considerations for wearable technology. In this studio we will explore how to develop a robust set of design and accessibility considerations (guidelines) for wearable technology. The course will begin a presentation on wearability and accessibility then participants will engage in an activity using a new Wearable Technology Designer’s Web Tool. The tool can be accessed again after the course and shared with students and colleagues. The course will end with a discussion about what design considerations might need to be added to the tool and what human factors information or other research should be updated.
 
@@ -59,7 +59,7 @@ With the development of end-user fabrication technology, plotters have become in
 -   Dr. Jasmine Jones, Computer Science, Berea College, Berea, Kentucky, United States
 
 
-### How Tangible is TEI: Exploring New Academic Publication Formats
+#### How Tangible is TEI: Exploring New Academic Publication Formats
 
 After the successful organization of the first TEI Swatch Exchange as part of the SDC (Student Design Challenge) in 2021, we would like to propose a swatch exchange as a new and physical publication format to TEI, the Conference on Tangible, Embedded, and Embodied Interaction.  
 We believe TEI should take initiative in exploring possibilities of broadening how academic publishing may look like and what novel publication format could be inclusive towards new knowledge and participants to advance academic practices. Furthermore, the focus and nature of the work presented at TEI is uniquely fitted to explore physical publication formats as a novel way to advance, communicate, and cite work that is bridging computing with the physical world. However, we are aware that a physical publication format also poses very specific challenges, there included questions of dissemination, accessibility, and citation, among others.   
@@ -69,7 +69,7 @@ We propose a Studio to deeply engage with the possibilities, potentials, as well
 -   [Irene Posch](mailto:ireneposch@gmail.com), University of Art and Design Linz, Linz, Austria
 
 
-### Designing with Alganyl: A Hands-on Exploration of Biodegradable Plastics
+#### Designing with Alganyl: A Hands-on Exploration of Biodegradable Plastics
 
 In this studio we explore designing with Alganyl, a sustainable biomaterial, made of food-grade ingredients, that can be fully recycled (zero-waste) or biodegraded in soil. Specifically, Alganyl is a bioplastic formulated to mimic the flexibility and strength of vinyl fabric.This studio will bring together researchers with diverse expertise that will explore embedding color, texture and sensing in Alganyl as well as a variety of fabrication techniques. Participants will have the opportunity to gain hands-on experience through making wearables that can sense ultraviolet light or temperature, as well as explore their own creative applications. Participants will also learn about material-centered design methodologies and sustainability within the context of HCI. Lastly participants will be encouraged to share their experiences with designing with Alganyl as well as discuss the impact of biomaterials in sustainable HCI research.
 
