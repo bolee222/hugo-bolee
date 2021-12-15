@@ -7,9 +7,10 @@ draft: false
 
 menu:
   main:
-    name: About TEI
-    URL: about
-    weight: 7
+    name: ABOUT TEI
+    URL: about/about
+    parent: about
+    weight: 1
 ---
 
 The ACM International Conference on Tangible, Embedded and Embodied Interaction (TEI) addresses issues of human-computer interaction, novel tools and technologies, interactive art, and user experience. The work presented at TEI has a strong focus on how computing can bridge atoms and bits into cohesive interactive systems. The intimate size of this single-track conference provides a unique forum for exchanging ideas and presenting innovative work through talks, interactive exhibits, demos, hands-on studios, posters, art installations, and performances.
