@@ -1,13 +1,13 @@
 ---
-title: Keynotes
+title: KEYNOTE SPEAKERS
 date: 2019-05-12T12:14:34.000+06:00
 description: This is meta description.
-draft: true
+draft: false
 
 menu:
   main:
     URL: attend/keynotes
-    weight: 4
+    weight: 2
     parent: attend
 ---
 We are happy to present the keynote speakers

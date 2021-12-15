@@ -1,13 +1,13 @@
 ---
-title: Studios
+title: STUDIOS
 date: 2019-05-12T12:14:34.000+06:00
 description: This is meta description.
-draft: true
+draft: false
 
 menu:
   main:
     URL: attend/studios
-    weight: 4
+    weight: 3
     parent: attend
 ---
 
@@ -31,7 +31,7 @@ In this hands-on workshop we will be outlining how to reliably and quickly proto
 ### Graspable AI (GAI): Physical Forms as Explanation Modality for Explainable AI
 
 Explainable AI (XAI) seeks to disclose how an AI system arrives at its outcomes. But the nature of the disclosure depends in part on who needs to understand the AI and the available explanation modalities (e. g. verbal and visual). People's preferences regarding explanation modalities might differ, some might prefer spoken explanations compared to visual ones. However, we might also consider broadening the explanation modalities, to consider also tangible and physical forms. Historically, physical forms have mediated people’s interactions with objects, and more recently user interaction with IoT and smart devices, such as smart lighting and robotic vacuum cleaners. But whether it can support AI explanations has not yet been explored.  
-  
+
 In this second studio proposal on Graspable AI (GAI) we seek to explore design qualities of physical forms as an explanation modality for XAI. We anticipate that the design qualities of physical forms and their tangible interactivities can not only contribute to the explainability of AI through facilitating dialogues and relationships and human empowerments, but also contributing to an open environment for criticism. Therefore, our proposal on Graspable AI seeks to contribute to the design agendas for a more transparent, democratic and sustainable AI.
 
 -   [Maliheh Ghajargar](mailto:maliheh.ghajargar@mau.se) Arts and Communication, Malmö University, Malmö, Sweden Internet of Things and People Research Center, Malmö University, Malmö, Sweden.
@@ -55,7 +55,7 @@ The studio proposed here will focus on design and accessibility considerations f
 With the development of end-user fabrication technology, plotters have become increasingly accessible and attractive to a broader community. Since their invention, these 3-axis CNC machines have been connecting digital and analog creation. Plotters have great potential as a tool to bridge the digital-physical divide, allowing learners from a variety of backgrounds to gain immediate satisfaction from their programming by translating digital output into physical artifacts. In addition, due to their roots in art, plotters may be more inviting to students from artistic backgrounds new to programming. In this studio, we investigate plotters' potential in introducing creative programming in collaborative learning environments. By introducing collaborative creative programming through the lens of plotters, we explore solutions to challenges in programming education, collaborative programming, and personal fabrication.
 
 
--   [Shiqing He](mailto:liciahe@tamu.edu), Department of Visualization, Texas A&M University, College Station, Texas, United States, 
+-   [Shiqing He](mailto:liciahe@tamu.edu), Department of Visualization, Texas A&M University, College Station, Texas, United States,
 -   Dr. Jasmine Jones, Computer Science, Berea College, Berea, Kentucky, United States
 
 
@@ -73,5 +73,5 @@ We propose a Studio to deeply engage with the possibilities, potentials, as well
 
 In this studio we explore designing with Alganyl, a sustainable biomaterial, made of food-grade ingredients, that can be fully recycled (zero-waste) or biodegraded in soil. Specifically, Alganyl is a bioplastic formulated to mimic the flexibility and strength of vinyl fabric.This studio will bring together researchers with diverse expertise that will explore embedding color, texture and sensing in Alganyl as well as a variety of fabrication techniques. Participants will have the opportunity to gain hands-on experience through making wearables that can sense ultraviolet light or temperature, as well as explore their own creative applications. Participants will also learn about material-centered design methodologies and sustainability within the context of HCI. Lastly participants will be encouraged to share their experiences with designing with Alganyl as well as discuss the impact of biomaterials in sustainable HCI research.
 
--  [Fiona Bell](mailto:fiona.bell@colorado.edu), ATLAS Institute, University of Colorado, Boulder, Colorado, United States 
+-  [Fiona Bell](mailto:fiona.bell@colorado.edu), ATLAS Institute, University of Colorado, Boulder, Colorado, United States
 -   Mirela Alistar, ATLAS Institute & Computer Science, University of Colorado Boulder, Boulder, Colorado, United States

@@ -1,8 +1,8 @@
 ---
-title: Student Volunteers
+title: STUDENT VOLUNTEERS
 date: 2019-05-12T12:14:34.000+06:00
 description: This is meta description.
-draft: true
+draft: false
 
 menu:
   main:
@@ -26,7 +26,7 @@ Troubleshooting online sessions, if needed.
 
 We expect a workload of about 6 to 8 hours (including training session) and offer a 100% discount on the registration fee. To participate as an online volunteer for TEI 2022, fill in this google form.
 
-The application deadline is: 
+The application deadline is:
 Thursday, February 4th aeo
 
 ## further info
