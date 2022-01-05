@@ -8,11 +8,12 @@ hugo server --disableFastRender --baseURL "localhost/2022/"
 -->
 
 
-#### TEI 22 is going virtual! 
+## TEI 22 is going virtual!
+
+### We are looking forward to see you at the **second virtual TEI conference**, **February 13-16 2022**. Stay safe and happy new year!
+
 
 TEI 2022 will be virtual and all attendance will be online. The registration rates will be very similar to last year (same numbers but in USD) and the program will be announced in the new year!
-
-We are looking forward to see you at the **second virtual TEI conference February 13-16 2022**. Stay safe and happy new year!
 
 
 TEI 2022 is the 16th annual conference dedicated to presenting the latest results in tangible, embedded, and embodied interaction. The ACM TEI conference has gained substantial visibility and activity over the past decade. It brings together researchers, practitioners, businesses, artists, designers and students from various disciplines, including engineering, interaction design, computer science, product design, media studies and the arts. TEI 2022, will take place February 13-16 2022.

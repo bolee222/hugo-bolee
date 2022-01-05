@@ -108,7 +108,10 @@ h1,
 h2,
 .h2 {
     font-family: "Noto Sans KR", sans-serif;
-    font-size: 60px;
+    font-size: 50px;
+    font-weight: 800;
+    color: rgba(93, 164, 227);
+    margin-bottom: 15px;
 }
 
 @media (max-width: 991px) {
@@ -121,10 +124,15 @@ h2,
 h3,
 .h3 {
     font-family: "Noto Sans KR", sans-serif;
-    font-size: 35px;
+    font-size: 25px;
+    font-weight: 400;
+    color: rgba(164, 203, 237);
+    line-height: 140%;
+    margin-bottom: 50px;
+}
+
+h3 strong{
     font-weight: 800;
-    color: black;
-    padding-top: 40px;
 }
 
 h4,
