@@ -7,19 +7,20 @@ description: This is meta description.
 hugo server --disableFastRender --baseURL "localhost/2022/"
 -->
 
-{{< deadline-table-main "Important dates">}}
-[Papers](/2022/participate/papers) submission | August 2, 2021 AoE
-[Pictorials](/2022/participate/pictorials) submission | August 2, 2021 AoE  
-[Work in Progress](/2022/participate/work-in-progress) | October 25, 2021 AoE  
-[Art](/2022/participate/art) | ~~October 25, 2021 AoE~~ **November 15, 2021 AoE**
-[Studios](/2022/participate/studios) | ~~October 25, 2021 AoE~~ **November 15, 2021 AoE**
-[Student Design Competition](/2022/participate/student-design-competition) | October 25, 2021 AoE  
-[Graduate School Consortium](/2022/participate/graduate-student-consortium) | ~~October 25, 2021 AoE~~ **November 15, 2021 AoE**
 
-[TEI 2022 conference](/2022) | February 13-16, 2022
-{{< /deadline-table-main >}}
+#### TEI 22 is going virtual! 
 
-TEI 2022 is the 16th annual conference dedicated to presenting the latest results in tangible, embedded, and embodied interaction. The ACM TEI conference has gained substantial visibility and activity over the past decade. It brings together researchers, practitioners, businesses, artists, designers and students from various disciplines, including engineering, interaction design, computer science, product design, media studies and the arts. TEI 2022, will take place February 13-16 2022, **maybe virtual, maybe hybrid**. We hope to be able to meet you in-person at [KAIST](https://www.kaist.ac.kr/) in Daejeon in the Republic of Korea.
+TEI 2022 will be virtual and all attendance will be online. The registration rates will be very similar to last year (same numbers but in USD) and the program will be announced in the new year!
+
+We are looking forward to see you at the **second virtual TEI conference February 13-16 2022**. Stay safe and happy new year!
+
+
+TEI 2022 is the 16th annual conference dedicated to presenting the latest results in tangible, embedded, and embodied interaction. The ACM TEI conference has gained substantial visibility and activity over the past decade. It brings together researchers, practitioners, businesses, artists, designers and students from various disciplines, including engineering, interaction design, computer science, product design, media studies and the arts. TEI 2022, will take place February 13-16 2022.
+
+
+
+
+
 
 #### Theme
 
@@ -43,3 +44,15 @@ The main conference will take place on the main campus of KAIST in the Sky Loung
 {{< /figure >}}
 
 KAIST and the Department of Industrial Design host TEI 2022. KAIST, established in 1971, is Korea’s first research-oriented science and engineering institute, and among the top tier schools in Korea. KAIST has over ten thousand full time students and more than a thousand faculty members. All education is in english and KAIST has an active exchange program with partner institutes around the world.
+
+
+{{< deadline-table-main "Important dates">}}
+[Papers](/2022/participate/papers) submission | August 2, 2021 AoE
+[Pictorials](/2022/participate/pictorials) submission | August 2, 2021 AoE  
+[Work in Progress](/2022/participate/work-in-progress) | October 25, 2021 AoE  
+[Art](/2022/participate/art) | ~~October 25, 2021 AoE~~ **November 15, 2021 AoE**
+[Studios](/2022/participate/studios) | ~~October 25, 2021 AoE~~ **November 15, 2021 AoE**
+[Student Design Competition](/2022/participate/student-design-competition) | October 25, 2021 AoE  
+[Graduate School Consortium](/2022/participate/graduate-student-consortium) | ~~October 25, 2021 AoE~~ **November 15, 2021 AoE**
+[TEI 2022 conference](/2022) | February 13-16, 2022
+{{< /deadline-table-main >}}
