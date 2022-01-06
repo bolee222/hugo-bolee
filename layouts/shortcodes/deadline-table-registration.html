@@ -1,0 +1,22 @@
+{{ $text := .Get 0 | default "text" }} {{ $rows := .Inner | transform.Unmarshal (dict "delimiter" "|") }}
+
+<div class="container p-4">
+    <!-- #e1effc -->
+    <div class="col-md-12">
+        <table class="regis table border-3 table-bordered">
+            <tr>
+                <td class="topHead">REGISTRATION</td>
+                <td class="topHead">EARLY (until Jan 13, 2022)</td>
+                <td class="topHead">REGULAR</td>
+            </tr>
+            {{ range $rows }}
+            <tr>
+                {{ range . }}
+                <td class="price">{{ . | markdownify }}</td>
+                {{ end }}
+            </tr>
+            {{ end }}
+        </table>
+
+    </div>
+</div>

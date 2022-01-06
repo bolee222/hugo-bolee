@@ -7,9 +7,10 @@ draft: false
 
 menu:
   main:
-    name: Sponsors
-    URL: sponsors
-    weight: 8
+    name: SPONSORS
+    URL: about/sponsors
+    weight: 4
+    parent: about
 ---
 
 Tangible, Embedded, and Embodied Interaction (TEI) 2022 is a venue for cutting-edge research in interaction design, new technologies and smart materials, user experience, design research, and interactive art. TEI is 100% sponsored by ACM (Association for Computing Machinery) and one of the larger SIGCHI (Special Interest Group Computer Human Interaction) conferences.
@@ -22,7 +23,7 @@ TEI 2022 is offering four general levels of sponsorship (Platinum, Gold, Silver,
 
 #### PLATINUM SPONSORSHIP: 5,000 USD (5,000,000 KRW)
 In the form of Fund sponsorship or Goods sponsorship
-A branded company event as part of the conference program (reception, banquet, lunch, or coffee break) 
+A branded company event as part of the conference program (reception, banquet, lunch, or coffee break)
 Your company profile listed on the TEI 2022 website
 5 complimentary registrations for people from your company to attend the conference (reception and banquet included)
 Your company logo and URL listed as a Platinum sponsor in all conference announcements, on the advance program, and on the conference web page

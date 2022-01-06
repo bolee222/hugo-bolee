@@ -23,6 +23,7 @@ p {
     font-family: "Noto Sans KR", sans-serif;
 }
 
+
 @media (max-width: 991px) {
     p {
         font-size: 15px;
@@ -107,7 +108,10 @@ h1,
 h2,
 .h2 {
     font-family: "Noto Sans KR", sans-serif;
-    font-size: 60px;
+    font-size: 50px;
+    font-weight: 800;
+    color: rgba(93, 164, 227);
+    margin-bottom: 15px;
 }
 
 @media (max-width: 991px) {
@@ -120,13 +124,21 @@ h2,
 h3,
 .h3 {
     font-family: "Noto Sans KR", sans-serif;
-    font-size: 40px;
+    font-size: 25px;
+    font-weight: 400;
+    color: rgba(164, 203, 237);
+    line-height: 140%;
+    margin-bottom: 50px;
+}
+
+h3 strong{
+    font-weight: 800;
 }
 
 h4,
 .h4 {
     font-family: "Noto Sans KR", sans-serif;
-    font-size: 240x;
+    font-size: 25px;
     font-weight: 800;
     color: black;
     padding-top: 40px;
@@ -1036,6 +1048,28 @@ td {
     font-size: 17px;
     color: #4a4b4d;
     border-bottom: solid 1px rgba(255, 255, 255, 0.3);
+}
+
+table.regis td.price{
+    font-family: "Noto Sans KR", sans-serif;
+    padding: 10px;
+    text-align: left;
+    vertical-align: middle;
+    font-weight: 600 !important;
+    font-size: 17px;
+    color: #4a4b4d;
+    border-bottom: solid 2px #4a4b4d;
+}
+
+table.regis td.price strong{
+    font-weight: 800 !important;
+    font-size: 17px;
+    color: #4a4b4d;
+}
+
+table.regis td.topHead {
+    background-color: #4a4b4d;
+    color: white;
 }
 
 @media (max-width: 991px) {

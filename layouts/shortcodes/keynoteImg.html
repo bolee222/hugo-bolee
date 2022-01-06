@@ -1,0 +1,10 @@
+<div class="blankSpace20"></div>
+{{ $caption := .Inner | markdownify }} {{ $url := .Get 0 }} {{ $alt := .Get 1 | default "figure with caption"}}
+<div class="row g-0 align-items-top">
+    <div class="col-md-4">
+        <img class="card-img-top" src="{{ $url }}" alt="{{ $alt }}" style="width: 95%" />
+    </div>
+    <div class="col-md-8">
+        <p>{{ $caption | safeHTML }}</p>
+    </div>
+</div>

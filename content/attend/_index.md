@@ -1,26 +1,26 @@
 ---
-title: Program Overview
+title: Attend
 date: 2019-05-12T12:14:34.000+06:00
 description: This is description of people
-draft: true
+draft: false
 
 menu:
   main:
     URL: attend
     identifier: attend
-    weight: 3
+    weight: 2
 ---
 
 TEI offers a diverse 4 day program.
 
 ## Sunday
 
-* Studios, 
+* Studios,
 * Graduate Student Consortium
 
 ## Monday
 
-* Keynote, 
+* Keynote,
 * Papers + Pictorials
 
 ## Tuesday

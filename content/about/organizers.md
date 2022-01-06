@@ -7,8 +7,10 @@ draft: false
 
 menu:
   main:
-    URL: organizers
-    weight: 4
+    NAME: ORGANIZERS
+    URL: about/organizers
+    parent: about
+    weight: 2
 ---
 
 #### General Chairs

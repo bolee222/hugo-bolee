@@ -12,4 +12,3 @@ menu:
 ---
 
 Venue is sadly most likely everywhere on earth.
-

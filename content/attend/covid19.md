@@ -7,8 +7,9 @@ draft: true
 
 menu:
   main:
-    URL: covid19
-    weight: 6
+    URL: attend/covid_19
+    parent: attend
+    weight: 7
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostru exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
