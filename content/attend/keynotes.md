@@ -21,3 +21,7 @@ A TEDx and frequent keynote speaker, Elisa successfully brings together an inter
 
 
 ### Jinha Lee
+{{< keynoteImg "/2022/images/JinhaLee.jpg" "Jinha Lee">}}
+**Jinha Lee** is a cofounder and chief product officer of Spatial, a company that is building a holographic meeting platform that allows people to work together from anywhere as if they were in the same room. 
+
+Prior to founding Spatial, Jinha created technologies to physically interact with digital data for the past decade: SpaceTop was a pioneering Augmented Reality desktop that allowed people to reach inside the screen. He also created a physical pixel, ZeroN, that levitates and moves freely as his master thesis project at MIT. At Samsung, he led the redesign of Smart TVs, turning screens into a collaboration platform and artistic data visualization. As an advocate for inclusive design, he co-designed Bradley Timepiece, an award-winning tactile wristwatch for the blind. These projects became viral and brought him to the TED stage in 2013. Jinha was named one of the “35 innovators under 35” by the MIT Technology Review , and one of the “32 greatest living designers” by Fast Company, and was named a “Young Global Leader” by the World Economic Forum. 
