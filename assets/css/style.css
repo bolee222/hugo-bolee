@@ -16,7 +16,7 @@ body {
 }
 
 p {
-    font-weight: 300;
+    font-weight: 400;
     color: #262626;
     font-size: 1.1rem;
     line-height: 1.7;
@@ -43,10 +43,14 @@ p a{
 li {
     font-family: "Noto Sans KR", sans-serif;
     font-size: 1.1rem;
-    font-weight: 300;
+    font-weight: 400;
     line-height: 1.6;
     color: #262626;
     list-style-type: square;
+}
+
+li em {
+    font-weight: 600;
 }
 
 li ul li {

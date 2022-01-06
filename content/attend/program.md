@@ -10,7 +10,7 @@ menu:
     parent: attend
 ---
 
-TEI offers a diverse 4 day program from February 13 to February 16.
+TEI offers a diverse **4 day program** from February 13 to February 16.
 
 #### Sunday 13 February
 

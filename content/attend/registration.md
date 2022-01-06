@@ -10,7 +10,7 @@ menu:
     parent: attend
 ---
 
-Due to the on-going COVID-19 pandemic and climate change consideration, TEI 2022 will be fully online. In light of this, we tried to make TEI 2022 registration as accessible as possible while still covering the expenses of the conference. 
+Due to the on-going COVID-19 pandemic and climate change consideration, TEI 2022 will be fully online. In light of this, we tried to make TEI 2022 registration as accessible as possible while still covering the expenses of the conference.
 
 Registration will be soon open, further details on the registration modalities are provided below.
 
@@ -24,18 +24,13 @@ Please note that for every accepted **Paper**, **Pictorial**, or **Work-in-Progr
 
 #### ONLINE REGISTRATION FEES
 
-Registration                            | Early (January 13, 2022) | Regular
-------------                            | ------------------------ |-----------
+{{< deadline-table-registration>}}
 Online Conference (ACM / SIGCHI member) | USD 50                   | USD 70
 Online Conference (Non-member)          | USD 90                   | USD 120
-Late [EDC](https://services.acm.org/public/qj/proflevel/countryListing.cfm) rate | - | USD 25
-Graduate Student Consortium  | - | -
+Late [EDC](https://services.acm.org/public/qj/proflevel/countryListing.cfm) Rate | -- | USD 25
+Graduate Student Consortium  | -- | --
 Online Studio Participation  | USD 30 | USD 30
-Publication Fee (Papers, Pictorials, Work-in-Progress) | USD 150 | USD 150 
+Publication Fee (Papers, Pictorials, Work-in-Progress) | USD 150 | USD 150
+{{< /deadline-table-registration >}}
 
-[EDC](https://services.acm.org/public/qj/proflevel/countryListing.cfm) contact the [registration](mailto:registration@tei.acm.org) chair
-
-
-
-
-
+** [EDC](https://services.acm.org/public/qj/proflevel/countryListing.cfm) contact the [registration](mailto:registration@tei.acm.org) chair

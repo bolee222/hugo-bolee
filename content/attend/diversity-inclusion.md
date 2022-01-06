@@ -6,7 +6,7 @@ draft: false
 
 menu:
   main:
-    URL: attend/diversity_inclusion
+    URL: attend/diversity-inclusion
     weight: 4
     parent: attend
 ---
