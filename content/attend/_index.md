@@ -1,30 +1,32 @@
 ---
-title: Attend
+title: Program Overview
 date: 2019-05-12T12:14:34.000+06:00
-description: Information about attending TEI 2022.
+description: This is description of people
+draft: true
 
 menu:
   main:
     URL: attend
     identifier: attend
-    weight: 2
+    weight: 3
 ---
 
-TEI offers a diverse 4 day program from February 13 to February 16.
+TEI offers a diverse 4 day program.
 
-## Sunday 13 February
+## Sunday
 
-* [Studios](/2022/attend/studios)
+* Studios, 
 * Graduate Student Consortium
 
-## Monday 14 till Wednesday 16
+## Monday
 
-* [Keynotes](/2022/attend/keynotes)
-* Papers and Pictorials
-* Work in Progress
-* Art!
-* Diversity Panel Discussion
-* Student Design Competition
+* Keynote, 
+* Papers + Pictorials
 
+## Tuesday
 
+Work in Progress, Papers + Pictorials
 
+## Wednesday
+
+Keynote, Papers + Pictorials

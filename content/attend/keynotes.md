@@ -1,7 +1,8 @@
 ---
 title: Keynotes
 date: 2019-05-12T12:14:34.000+06:00
-description: About the Keynotes
+description: This is meta description.
+draft: true
 
 menu:
   main:
@@ -9,16 +10,16 @@ menu:
     weight: 4
     parent: attend
 ---
-We are happy to present the opening and closing keynote speakers
+We are happy to present the keynote speakers
 
-#### Jinha Lee
-
-Info
+### Jinha Lee
 
 
-#### Elisa Giaccardi
 
-![Elisa Giaccardi](/2022/attend/img/ElisaGiaccardi.jpg "Elisa Giaccardi")
+
+### Elisa Giaccardi
+
+![Elisa Giaccardi](img/ElisaGiaccardi.jpg "Elisa Giaccardi")
 
 Elisa Giaccardi is Professor of Post-industrial Design at Delft University of Technology. Her work is focused on the challenges that a permeating digitalisation means for the field of design. From early digital networks to social media, from the Internet of Things to Artificial Intelligence, her research interests reflect a persistent concern with design as a shared process of cultivation and management of opportunity spaces, and the transformative role technology can play. After pioneering work in metadesign, networked and open design processes, her research currently engages with how digital things today ‘participate’ in design and use in ways that previous industrially produced objects could not, experimenting with novel design approaches that look at computational artefacts as co­-performers of practice, and thus as potential co-ethnographers and co­-designers in the design process.
 
