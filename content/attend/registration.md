@@ -12,7 +12,6 @@ menu:
 
 Due to the on-going COVID-19 pandemic and climate change consideration, TEI 2022 will be fully online. In light of this, we tried to make TEI 2022 registration as accessible as possible while still covering the expenses of the conference. Registration is now open through the [CVENT](https://cvent.me/n215YR) online registration system, further details on the registration modalities are provided below.
 
-Registration is open!
 
 #### CONFERENCE REGISTRATION
 Registration to TEI 2022 will give you access to the full live, asynchronous and interactive program. Registered participants will have access to the [full technical program](/2022/attend/program).
