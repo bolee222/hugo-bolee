@@ -1,7 +1,7 @@
 ---
 title: REGISTRATION
 date: 2019-05-12T12:14:34.000+06:00
-description: This is meta description.
+description: TEI 2022 Registration Page
 
 menu:
   main:
@@ -10,12 +10,11 @@ menu:
     parent: attend
 ---
 
-Due to the on-going COVID-19 pandemic and climate change consideration, TEI 2022 will be fully online. In light of this, we tried to make TEI 2022 registration as accessible as possible while still covering the expenses of the conference.
+Due to the on-going COVID-19 pandemic and climate change consideration, TEI 2022 will be fully online. In light of this, we tried to make TEI 2022 registration as accessible as possible while still covering the expenses of the conference. Registration is now open through the [CVENT](https://cvent.me/n215YR) online registration system, further details on the registration modalities are provided below.
 
-Registration will be soon open, further details on the registration modalities are provided below.
+Registration is open!
 
 #### CONFERENCE REGISTRATION
-
 Registration to TEI 2022 will give you access to the full live, asynchronous and interactive program. Registered participants will have access to the [full technical program](/2022/attend/program).
 
 #### PUBLICATION FEES & DISCOUNTS
@@ -27,7 +26,7 @@ Please note that for every accepted **Paper**, **Pictorial**, or **Work-in-Progr
 {{< deadline-table-registration>}}
 Online Conference (ACM / SIGCHI member) | USD 50                   | USD 70
 Online Conference (Non-member)          | USD 90                   | USD 120
-Late [EDC](https://services.acm.org/public/qj/proflevel/countryListing.cfm) Rate | -- | USD 25
+Late [EDC](https://services.acm.org/public/qj/proflevel/countryListing.cfm) Rate | -- | USD 0
 Graduate Student Consortium  | -- | --
 Online Studio Participation  | USD 30 | USD 30
 Publication Fee (Papers, Pictorials, Work-in-Progress) | USD 150 | USD 150
