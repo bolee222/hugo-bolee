@@ -36,7 +36,7 @@ Explainable AI (XAI) seeks to disclose how an AI system arrives at its outcomes.
   
 In this second studio proposal on Graspable AI (GAI) we seek to explore design qualities of physical forms as an explanation modality for XAI. We anticipate that the design qualities of physical forms and their tangible interactivities can not only contribute to the explainability of AI through facilitating dialogues and relationships and human empowerments, but also contributing to an open environment for criticism. Therefore, our proposal on Graspable AI seeks to contribute to the design agendas for a more transparent, democratic and sustainable AI.
 
-Full day studio
+Online, half day studio on February 13th, 15:00 - 18:00 (CET), [Click here for more information.](https://sites.google.com/view/graspable-ai/home?authuser=1)
 
 -   [Maliheh Ghajargar](mailto:maliheh.ghajargar@mau.se) Arts and Communication, Malmö University, Malmö, Sweden Internet of Things and People Research Center, Malmö University, Malmö, Sweden.
 -   Jeffrey Bardzell, College of Information Sciences and Technology, The Pennsylvania State University, University Park, Pennsylvania, United States
@@ -72,7 +72,7 @@ After the successful organization of the first TEI Swatch Exchange as part of th
 We believe TEI should take initiative in exploring possibilities of broadening how academic publishing may look like and what novel publication format could be inclusive towards new knowledge and participants to advance academic practices. Furthermore, the focus and nature of the work presented at TEI is uniquely fitted to explore physical publication formats as a novel way to advance, communicate, and cite work that is bridging computing with the physical world. However, we are aware that a physical publication format also poses very specific challenges, there included questions of dissemination, accessibility, and citation, among others.   
 We propose a Studio to deeply engage with the possibilities, potentials, as well as potential problems of physical publication format as a crucial step towards defining plausible processes, forms, and archives for a physical research publication.
 
-Half day studio.
+Half day studio. [Click here for more information.](https://gtt.ufg.at/tei22-studio-open-call-new-formats/)
 
 -   Hannah Perner-Wilson,  Ernst Busch University of Performing Art, Berlin, Germany
 -   [Irene Posch](mailto:ireneposch@gmail.com), University of Art and Design Linz, Linz, Austria
@@ -82,7 +82,7 @@ Half day studio.
 
 In this studio we explore designing with Alganyl, a sustainable biomaterial, made of food-grade ingredients, that can be fully recycled (zero-waste) or biodegraded in soil. Specifically, Alganyl is a bioplastic formulated to mimic the flexibility and strength of vinyl fabric.This studio will bring together researchers with diverse expertise that will explore embedding color, texture and sensing in Alganyl as well as a variety of fabrication techniques. Participants will have the opportunity to gain hands-on experience through making wearables that can sense ultraviolet light or temperature, as well as explore their own creative applications. Participants will also learn about material-centered design methodologies and sustainability within the context of HCI. Lastly participants will be encouraged to share their experiences with designing with Alganyl as well as discuss the impact of biomaterials in sustainable HCI research.
 
-half day studio (4 hours)
+half day studio (4 hours). [Click here for more information.](https://sites.google.com/colorado.edu/designing-with-alganyl/)
 
 -  [Fiona Bell](mailto:fiona.bell@colorado.edu), ATLAS Institute, University of Colorado, Boulder, Colorado, United States 
 -   Mirela Alistar, ATLAS Institute & Computer Science, University of Colorado Boulder, Boulder, Colorado, United States
