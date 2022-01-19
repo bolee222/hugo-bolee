@@ -1,7 +1,7 @@
 ---
 title: Organizers
 date: 2019-05-12T12:14:34.000+06:00
-description: This is description of people
+description: TEI-Organizers
 ShowSchedule: false
 draft: false
 
@@ -98,8 +98,14 @@ menu:
 #### Accesibility Chair
 
 **Young Suk Lee**, University of Twente. The Netherlands  
-**Sara Nabil**, Queen’s University, Canada
+**Sara Nabil**, Queen’s University, Canada  
 <accessibility_chairs@tei.acm.org>
+
+#### Registration Chair
+
+**Jiwoo Hong**, KAIST, Korea  
+<registration@tei.acm.org>
+
 
 #### Student Volunteer Chairs
 
