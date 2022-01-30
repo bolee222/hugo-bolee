@@ -58,7 +58,7 @@ _Emolleia – Wearable Kinetic Flower Display for Expressing Emotions_
 _Hovering and Contact Representation of Laser Contour-Based Hand with Swinging Tablet PC for Distant Communication_
 - Marta Dziabiola, Robert Steiner, Ralf Vetter, Daniel Norskov, Dorothé Smit  
 _Qude: Exploring Tactile Code in Long-Distance Relationships_
-- Gentiane Venture , Bastien Muraciolli , Marie-Luce Bourguet , Jacqueline Urakami  
+- Gentiane Venture , Bastien Muraccioli , Marie-Luce Bourguet , Jacqueline Urakami  
 _Can robots be good public speakers?_
 - Kristian Gohlke, Wolfgang Sattler, Eva Hornecker  
 _AirPinch – An Inflatable Touch Fader with Pneumatic Tactile Feedback_
