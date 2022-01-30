@@ -33,7 +33,7 @@ Half day studio.
 #### Graspable AI (GAI): Physical Forms as Explanation Modality for Explainable AI
 
 Explainable AI (XAI) seeks to disclose how an AI system arrives at its outcomes. But the nature of the disclosure depends in part on who needs to understand the AI and the available explanation modalities (e. g. verbal and visual). People's preferences regarding explanation modalities might differ, some might prefer spoken explanations compared to visual ones. However, we might also consider broadening the explanation modalities, to consider also tangible and physical forms. Historically, physical forms have mediated people’s interactions with objects, and more recently user interaction with IoT and smart devices, such as smart lighting and robotic vacuum cleaners. But whether it can support AI explanations has not yet been explored.  
-  
+
 In this second studio proposal on Graspable AI (GAI) we seek to explore design qualities of physical forms as an explanation modality for XAI. We anticipate that the design qualities of physical forms and their tangible interactivities can not only contribute to the explainability of AI through facilitating dialogues and relationships and human empowerments, but also contributing to an open environment for criticism. Therefore, our proposal on Graspable AI seeks to contribute to the design agendas for a more transparent, democratic and sustainable AI.
 
 Online, half day studio on February 13th, 15:00 - 18:00 (CET), [Click here for more information.](https://sites.google.com/view/graspable-ai/home?authuser=1)
@@ -62,7 +62,7 @@ With the development of end-user fabrication technology, plotters have become in
 
 Half day studio.
 
--   [Shiqing He](mailto:liciahe@tamu.edu), Department of Visualization, Texas A&M University, College Station, Texas, United States, 
+-   [Shiqing He](mailto:liciahe@tamu.edu), Department of Visualization, Texas A&M University, College Station, Texas, United States,
 -   Dr. Jasmine Jones, Computer Science, Berea College, Berea, Kentucky, United States
 
 
@@ -84,5 +84,20 @@ In this studio we explore designing with Alganyl, a sustainable biomaterial, mad
 
 half day studio (4 hours). [Click here for more information.](https://sites.google.com/colorado.edu/designing-with-alganyl/)
 
--  [Fiona Bell](mailto:fiona.bell@colorado.edu), ATLAS Institute, University of Colorado, Boulder, Colorado, United States 
+-  [Fiona Bell](mailto:fiona.bell@colorado.edu), ATLAS Institute, University of Colorado, Boulder, Colorado, United States
 -   Mirela Alistar, ATLAS Institute & Computer Science, University of Colorado Boulder, Boulder, Colorado, United States
+
+#### Rapid Prototyping of 3d Printed Inflatable Forms
+half day studio (3 hours). [Click here for more information.](https://sites.google.com/iu.edu/tei22)
+
+- Dates: February 13, 3:30- 6:30PM (ET)
+- [Daniel Mikesell et al.](mailto:danmikes@iu.edu), Eskenazi School of Art+Design and Architecture, Indiana University
+
+#### Collaborative Creative Coding Through Drawing Robots
+In this studio, we investigate plotters’ potential in introducing creative programming in collaborative learning environments. By introducing collaborative creative programming through the lens of plotters, we explore solutions to challenges in programming education, collaborative programming, and personal fabrication.
+
+half day studio (4 hours). [Click here for more information.](https://liciahe.github.io/plotter_party_2022/)
+
+- Dates: 2022-2-13 (Sunday) UCT 14:00-18:00
+- [Shiqing He](mailto:liciahe@tamu.edu), Department of Visualization, Texas A&M University, College Station, Texas, United States
+- [Jasmine Jones](https://jazzij.github.io/), Computer Science, Berea College, Berea, Kentucky, United States
