@@ -1319,11 +1319,19 @@ td strong {
     line-height: 1;
 }
 
+.card-kst{
+    padding-top:10px;
+    font-family: "Noto Sans KR", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1;
+}
+
 .card-time{
     padding: 15px 0;
     font-family: "Noto Sans KR", sans-serif;
     font-weight: 500;
-    font-size: 12px;
+    font-size: 13px;
     line-height: 1;
     background-color: #f5f5f5;
 }
@@ -1348,5 +1356,8 @@ td strong {
     margin-left: auto;
     writing-mode: vertical-rl;
     text-orientation: mixed;
+}
+
+.card-background{
     background-color: #f5f5f5;
 }
