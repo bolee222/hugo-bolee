@@ -25,3 +25,15 @@ TEI offers a diverse **4 day program** from February 13 to February 16.
 * Art!
 * [Diversity Panel Discussion](/2022/attend/diversity-inclusion)
 * Student Design Competition
+
+
+{{< program "Important dates">}}
+[Papers](/2022/participate/papers) submission | August 2, 2021 AoE
+[Pictorials](/2022/participate/pictorials) submission | August 2, 2021 AoE  
+[Work in Progress](/2022/participate/work-in-progress) | October 25, 2021 AoE  
+[Art](/2022/participate/art) | ~~October 25, 2021 AoE~~ **November 15, 2021 AoE**
+[Studios](/2022/participate/studios) | ~~October 25, 2021 AoE~~ **November 15, 2021 AoE**
+[Student Design Competition](/2022/participate/student-design-competition) | October 25, 2021 AoE  
+[Graduate School Consortium](/2022/participate/graduate-student-consortium) | ~~October 25, 2021 AoE~~ **November 15, 2021 AoE**
+[TEI 2022 conference](/2022) | February 13-16, 2022
+{{< /program >}}

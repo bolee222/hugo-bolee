@@ -1296,3 +1296,20 @@ td strong {
 .copyright-text a {
     color: lightgrey;
 }
+
+.card-body-day {
+    height: 40px;
+}
+
+.bg-day{
+    background-color: #068FEE;
+    color:white;
+}
+
+.card-title{
+    padding: 10px 0;
+    font-family: "Noto Sans KR", sans-serif;
+    font-weight: 800;
+    font-size: 15px;
+    line-height: 1;
+}
