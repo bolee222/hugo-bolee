@@ -39,7 +39,11 @@ p strong {
 
 p a{
     font-weight: 700;
-    color: #5788FF;
+    color: #5010e6;
+}
+
+p a:hover{
+    text-decoration: underline;
 }
 
 li {
@@ -1188,6 +1192,10 @@ td strong {
 
 .blankSpace20 {
     padding-bottom: 20px;
+}
+
+.blankSpace10 {
+    padding-bottom: 10px;
 }
 
 .vtop {
