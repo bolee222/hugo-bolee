@@ -52,7 +52,16 @@ li {
 }
 
 li em {
-    font-weight: 600;
+    font-weight: 800;
+}
+
+li a {
+    color: '#0080FF';
+}
+
+li a:hover {
+    text-decoration: underline;
+    color: '#8811FF'!important;
 }
 
 li ul li {
@@ -74,7 +83,7 @@ li ul li strong {
 }
 
 li strong {
-    font-weight: 600;
+    font-weight: 800;
 }
 
 li strong underline {
@@ -304,7 +313,7 @@ a.text-dark:hover {
 }
 
 a:hover {
-    color: var(--primary-color);
+    color: '#A64CFF';
 }
 
 .slick-slide {
