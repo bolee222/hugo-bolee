@@ -129,7 +129,7 @@ h2,
     font-family: "Noto Sans KR", sans-serif;
     font-size: 50px;
     font-weight: 800;
-    color: rgba(93, 164, 227);
+    color: #068FEE ;
     margin-bottom: 15px;
 }
 
@@ -145,7 +145,7 @@ h3,
     font-family: "Noto Sans KR", sans-serif;
     font-size: 25px;
     font-weight: 400;
-    color: rgba(164, 203, 237);
+    color: rgba(93, 164, 227);
     line-height: 140%;
     margin-bottom: 50px;
 }
@@ -523,6 +523,7 @@ textarea.form-control {
 .card {
     border: 0;
     margin-bottom: 30px;
+    background-color: rgba(249, 249, 249, 0.6) ;
 }
 
 .card-header {
@@ -1329,19 +1330,51 @@ td strong {
 }
 
 .card-kst{
-    padding-top:10px;
     font-family: "Noto Sans KR", sans-serif;
-    font-weight: 400;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 1;
+}
+.card-cet{
+    font-family: "Noto Sans KR", sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 1;
+    color: #FF9402;
+}
+
+.card-est{
+    font-family: "Noto Sans KR", sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 1;
+    color: #878787;
+}
+
+.card-time-kst{
+    padding: 0px 0;
+    font-family: "Noto Sans KR", sans-serif;
+    font-weight: 700;
     font-size: 14px;
     line-height: 1;
 }
 
-.card-time{
+.card-time-cet{
     padding: 0px 0;
     font-family: "Noto Sans KR", sans-serif;
     font-weight: 500;
-    font-size: 13px;
+    font-size: 11px;
     line-height: 1;
+    color: #FF9402;
+}
+
+.card-time-est{
+    padding: 0px 0;
+    font-family: "Noto Sans KR", sans-serif;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 1;
+    color: #878787;
 }
 
 .card-program{
@@ -1349,7 +1382,7 @@ td strong {
     font-weight: 500;
     font-size: 13px;
     line-height: 0.9;
-    background-color: #f5f5f5 ;
+    background-color: #F1F1F1 ;
     color: black !important;
 }
 
@@ -1363,7 +1396,7 @@ td strong {
     font-weight: 700;
     font-size: 13px;
     line-height: 0.9;
-    background-color: #f5f5f5 ;
+    background-color: #F1F1F1 ;
     color: black !important;
 }
 
@@ -1419,4 +1452,17 @@ td strong {
 
 .card-background{
     background-color: #f5f5f5 !important;
+}
+
+.program-title{
+    font-family: "Noto Sans KR", sans-serif;
+    font-weight: 800;
+    font-size: 24px;
+    color: #068FEE;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+.program-bg{
+    background-color: rgba(249, 249, 249, 0.6) ;
 }

@@ -1,13 +1,12 @@
-{{ $text := .Get 0 | default "text" }} {{ $rows := .Inner | transform.Unmarshal (dict "delimiter" "|") }}
+{{ $text := .Get 0 | default "text" }} {{ $rows := .Inner }}
 
 <div class="blankSpace20"></div>
 
-<div class="p-4 rounded">
+<div class="p-4 rounded program-bg">
     <!-- #e1effc -->
-    <div class="blankSpace10"></div>
     <div class="m-4">
         <div class="container-fluid">
-
+            <div class="row mb-4 program-title">TEI 2022 CONFERENCE OVERVIEW</div>
             <!-- DAY-->
             <div class="row mb-4" style="height:30px;">
                 <div class="col-sm-2 column-padding">
@@ -18,8 +17,10 @@
                     </div>
                 </div>
                 <div class="col-sm-1 column-padding">
-                    <div class="text-center">
-                        <div class="card-kst" style="height:30px;">KST</div>
+                    <div class="card text-center" style="margin:0px;">
+                        <div class="card-kst" style="margin:-1px;">KST</div>
+                        <div class="card-cet">(CET)</div>
+                        <div class="card-est">(EST)</div>
                     </div>
                 </div>
                 <div class="col-sm-3 column-padding">
@@ -68,19 +69,29 @@
                 <!-- Time -->
                 <div class="col-sm-1 column-padding">
                     <div class="card text-center" style="height:20px;">
-                        <div class="card-time">8:00</div>
+                        <div class="card-time-kst">08:00</div>
+                        <div class="card-time-cet">(12:00)</div>
+                        <div class="card-time-est">(18:00)</div>
                     </div>
                     <div class="card text-center" style="height:20px;">
-                        <div class="card-time">9:00</div>
+                        <div class="card-time-kst">09:00</div>
+                        <div class="card-time-cet">(01:00)</div>
+                        <div class="card-time-est">(19:00)</div>
                     </div>
                     <div class="card text-center" style="height:20px;">
-                        <div class="card-time">10:00</div>
+                        <div class="card-time-kst">10:00</div>
+                        <div class="card-time-cet">(02:00)</div>
+                        <div class="card-time-est">(20:00)</div>
                     </div>
                     <div class="card text-center" style="height:20px;">
-                        <div class="card-time">11:00</div>
+                        <div class="card-time-kst">11:00</div>
+                        <div class="card-time-cet">(03:00)</div>
+                        <div class="card-time-est">(21:00)</div>
                     </div>
                     <div class="card text-center" style="height:20px;">
-                        <div class="card-time">12:00</div>
+                        <div class="card-time-kst">12:00</div>
+                        <div class="card-time-cet">(04:00)</div>
+                        <div class="card-time-est">(22:00)</div>
                     </div>
                 </div>
                 <!-- Monday -->
@@ -148,19 +159,29 @@
                 <!-- Time -->
                 <div class="col-sm-1 column-padding">
                     <div class="card text-center" style="height:20px;">
-                        <div class="card-time">16:00</div>
+                        <div class="card-time-kst">16:00</div>
+                        <div class="card-time-cet">(08:00)</div>
+                        <div class="card-time-est">(02:00)</div>
                     </div>
                     <div class="card text-center" style="height:20px;">
-                        <div class="card-time">17:00</div>
+                        <div class="card-time-kst">17:00</div>
+                        <div class="card-time-cet">(09:00)</div>
+                        <div class="card-time-est">(03:00)</div>
                     </div>
                     <div class="card text-center" style="height:20px;">
-                        <div class="card-time">18:00</div>
+                        <div class="card-time-kst">18:00</div>
+                        <div class="card-time-cet">(10:00)</div>
+                        <div class="card-time-est">(04:00)</div>
                     </div>
                     <div class="card text-center" style="height:20px;">
-                        <div class="card-time">19:00</div>
+                        <div class="card-time-kst">19:00</div>
+                        <div class="card-time-cet">(11:00)</div>
+                        <div class="card-time-est">(05:00)</div>
                     </div>
                     <div class="card text-center" style="height:20px;">
-                        <div class="card-time">20:00</div>
+                        <div class="card-time-kst">20:00</div>
+                        <div class="card-time-cet">(12:00)</div>
+                        <div class="card-time-est">(06:00)</div>
                     </div>
                 </div>
                 <!-- Monday -->
@@ -213,5 +234,3 @@
     </div>
 
 </div>
-
-<div class="blankSpace40"></div>
