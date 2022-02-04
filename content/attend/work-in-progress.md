@@ -11,9 +11,10 @@ menu:
     parent: attend
 ---
 ​
-_Work In Progress_ papers and presentation will be organized in **four parallel themed tracks**:
-​
+_Work In Progress_ papers and presentation will be organized in **four parallel themed tracks**.
+
 #### FABRICATION
+[[PROGRAM LINK]](https://programs.sigchi.org/tei/2022/program/session/70096)
 - Aluna Everitt and Miriam Sturdee  
 _Supporting Prototyping of Novel Interfaces Using Laser Cut Clear Perspex_  
 - Himani Deshpande, Clement Zheng, Courtney Starrett, Jinsil Hwaryoung Seo, Jeeeun Kim  
@@ -26,6 +27,7 @@ _MultiJam: Fabricating Jamming User Interface using Multi-material 3D Printing_
 _Physical Metadata Visualisation: The Knitted Personal Library_
 ​
 #### TOOLKITS
+[[PROGRAM LINK]](https://programs.sigchi.org/tei/2022/program/session/70097)
 - Huizhong Ye, Charlaine Janssen, Daan Noordman, Rong-Hao Liang  
 _Understanding How to Support Remote Co-Design with a Conceptual Modular Shape-Changing Interface Toolkit_
 - Mitali Kamat  
@@ -38,6 +40,7 @@ _Subversive: BioFashion for Black Lives_
 _Poly: Shape-changing Conversational Agent Helps Identify Multiple Characters in Storytelling_
 ​
 #### WELLBEING
+[[PROGRAM LINK]](https://programs.sigchi.org/tei/2022/program/session/70098)
 - Floor Stefess, Kostas Nizamis, Juliet Haarman, Armağan Karahanoğlu  
 _Gr!pp: Integrating Activities of Daily Living into Hand Rehabilitation_
 - Silvana Malaver Turbay, Igor Igorevich Segrovets, George Chernyshov, Jiawen Han, Christopher Changmok Kim, Dingding Zheng, Kai Kunze  
@@ -52,6 +55,7 @@ _Proposed Applications of Social Robots in Interventions for Children and Adoles
 _“Ah! He Wants to Win!“: Social Responses to Playing Tic-Tac-Toe Against a Physical Drawing Robot_
 ​
 #### EMOTION AND COMMUNICATION
+[[PROGRAM LINK]](https://programs.sigchi.org/tei/2022/program/session/70099)
 - Yifan Zhuang, Keitaro Tsuchiya, Takuro Nakao, Jiawen Han, Kai Kunze, Megumi Isoga, Shinya Shimizu  
 _Emolleia – Wearable Kinetic Flower Display for Expressing Emotions_
 - Akira Watanabe, Takuya Uchida, Daisuke Iwai, Kosuke Sato  

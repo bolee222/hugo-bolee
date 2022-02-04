@@ -1460,9 +1460,48 @@ td strong {
     font-size: 24px;
     color: #068FEE;
     justify-content: center;
-    padding-bottom: 10px;
 }
 
 .program-bg{
     background-color: rgba(249, 249, 249, 0.6) ;
+}
+
+.sigchi-linlk{
+    font-family: "Noto Sans KR", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #068FEE;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+.sigchi-linlk a{
+    font-weight: 600;
+    color:#262626;
+    background-color: rgba(255, 254, 110, 0.8);
+}
+
+.sigchi-linlk a:hover{
+    text-decoration: underline;
+    color: #8811FF;
+    background-color: rgba(255, 231, 114, 0.8);
+}
+
+.Program-footnote{
+    font-family: "Noto Sans KR", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: black;
+    justify-content: left;
+}
+
+.Program-footnote a{
+    font-weight: 800;
+    color: black;
+}
+
+.Program-footnote a:hover{
+    font-weight: 800;
+    text-decoration: underline;
+    color: #8811FF;
 }
