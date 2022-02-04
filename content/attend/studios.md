@@ -18,7 +18,7 @@ Studios have always played a major role in TEI conferences, and we want this yea
 
 This studio revolves around designing with systemic openness and introduces the IoT Sandbox as a tool to design with systemic openness through multi-activity and multi-person scenarios. The studio knows three learning goals: (1) how to characterize and facilitate a design challenge with systemic openness, (2) how to design with multi-activity and multi-person scenarios, and (3) how to design for diverse interaction styles in a systems context. In a hands-on manner the fundamental concepts and challenges are introduced and experienced through a series of short design sprints. The studio ends with a reflective discussion on the propositions created by the participants, in relation to the learning goals as well as the studio and the IoT Sandbox platform.
 
--- **[Studio Website](https://futureeveryday.github.io/TEI2022_Studio/)**
+-  **[Studio Website](https://futureeveryday.github.io/TEI2022_Studio/)**
 -  **Two day workshop**, 12th and 13th February.
 - **[Joep Frens](mailto:j.w.frens@tue.nl)**, Industrial Design, Eindhoven University of Technology, Eindhoven, Netherlands
 - **Mathias Funk**, Industrial Design, Eindhoven University of Technology, Eindhoven, Netherlands
@@ -52,9 +52,9 @@ In this second studio proposal on Graspable AI (GAI) we seek to explore design q
 #### S4: Wearable Technology Design and Accessibility Considerations Studio
 
 The studio proposed here will focus on design and accessibility considerations for wearable technology. In this studio we will explore how to develop a robust set of design and accessibility considerations (guidelines) for wearable technology. The course will begin a presentation on wearability and accessibility then participants will engage in an activity using a new Wearable Technology Designer’s Web Tool. The tool can be accessed again after the course and shared with students and colleagues. The course will end with a discussion about what design considerations might need to be added to the tool and what human factors information or other research should be updated.
- 
+
 - **[Studio Website](https://research.gatech.edu/ipat/wearablestudiofeb13-2022)**
-- **Half day** studio. 9:30AM ET
+- **Half day** studio. February 13, **[11:30PM - 2:00AM (KST)](https://savvytime.com/converter/kst-to-cet-est-pst/feb-13-2022/11-30pm)**
 - **[Clint Zeagler](mailto:clintzeagler@gatech.edu)**, Georgia Institute of Technology, Atlanta, Georgia, United States
 - **Brian D Jones**, Institute for People and Technology, Georgia Institute of Technology, Atlanta, Georgia, United States
 - **Maribeth Gandy**, Georgia Institute of Technology, Atlanta, Georgia, United States
