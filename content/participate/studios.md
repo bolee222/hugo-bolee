@@ -1,11 +1,12 @@
 ---
-title: STUDIOS
+title: CALL FOR STUDIOS
 date: 2019-05-12T12:14:34.000+06:00
-description: This is meta description.
+description: Call for Studios.
+ShowSchedule: false
 menu:
   main:
     URL: participate/studios
-    weight: 10
+    weight: 3
     parent: participate
 ---
 

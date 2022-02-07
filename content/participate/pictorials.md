@@ -7,7 +7,7 @@ ShowSchedule: false
 menu:
   main:
     URL: participate/pictorials
-    weight: 4
+    weight: 2
     parent: participate
 ---
 

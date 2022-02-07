@@ -5,7 +5,7 @@ description: This is meta description.
 menu:
   main:
     URL: participate/art
-    weight: 10
+    weight: 4
     parent: participate
 ---
 

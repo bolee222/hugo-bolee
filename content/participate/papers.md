@@ -7,7 +7,7 @@ ShowSchedule: false
 menu:
   main:
     URL: participate/papers
-    weight: 4
+    weight: 3
     parent: participate
 ---
 
