@@ -16,7 +16,7 @@ _Work In Progress_ papers and presentation will be organized in **four parallel 
 #### Session 1: FABRICATION
 [[PROGRAM LINK]](https://programs.sigchi.org/tei/2022/program/session/70014)
 - Kunihiro Kato,Kaori Ikematsu,Yuki Igarashi,Yoshihiro Kawahara  
-_Woven Circuits: Fabrication Approach for Papercraft-based Electronic Devices_
+_Paper-Woven Circuits: Fabrication Approach for Papercraft-based Electronic Devices_
 - Ayaka Ishii,Kunihiro Kato,Kaori Ikematsu,Yoshihiro Kawahara,Itiro Siio  
 _CircWood: Laser Printed Circuit Boards and Sensors for DIY Woodworking_
 - Jonathan Hatley,Noah Posner,HyunJoo Oh,Sang-won Leigh  
