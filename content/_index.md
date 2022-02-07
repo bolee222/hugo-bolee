@@ -8,7 +8,7 @@ hugo server --disableFastRender --baseURL "localhost/2022/"
 -->
 
 
-## TEI 22 is going virtual!
+## [TEI 22 is starting very soon!](https://programs.sigchi.org/tei/2022/program/13-feb)
 
 ### We are looking forward to see you at the **second virtual TEI conference**, **February 13-16 2022**. Stay safe and happy new year!
 
