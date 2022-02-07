@@ -78,9 +78,11 @@ With the development of end-user fabrication technology, plotters have become in
 After the successful organization of the first TEI Swatch Exchange as part of the SDC (Student Design Challenge) in 2021, we would like to propose a swatch exchange as a new and physical publication format to TEI, the Conference on Tangible, Embedded, and Embodied Interaction.  
 We believe TEI should take initiative in exploring possibilities of broadening how academic publishing may look like and what novel publication format could be inclusive towards new knowledge and participants to advance academic practices. Furthermore, the focus and nature of the work presented at TEI is uniquely fitted to explore physical publication formats as a novel way to advance, communicate, and cite work that is bridging computing with the physical world. However, we are aware that a physical publication format also poses very specific challenges, there included questions of dissemination, accessibility, and citation, among others. We propose a Studio to deeply engage with the possibilities, potentials, as well as potential problems of physical publication format as a crucial step towards defining plausible processes, forms, and archives for a physical research publication.
 
-![Drag Racing](/2022/images/tangible-studio.jpeg)
+![Tangible Studio](/2022/images/tangible-studio.jpeg)
 - **[Studio Website](https://gtt.ufg.at/tei22-studio-open-call-new-formats/)**
-- **11 Feb – 18 Feb**. 11th (4hr) & 22th (2hr). Times to be determined based on the participants' time zone.
+- **February 11**, **[00:00 - 04:00 (KST)](https://savvytime.com/converter/kst-to-cet-est-pst/feb-11-2022/12am)**, Kick-off
+- **February 18**, **[00:00 - 02:00 (KST)](https://savvytime.com/converter/kst-to-cet-est-pst/feb-18-2022/12am)**, Closing Discussion
+- **February 11-18**, Asynchronous Discussion During Conference
 - **Hannah Perner-Wilson**,  Ernst Busch University of Performing Art, Berlin, Germany
 - **[Irene Posch](mailto:ireneposch@gmail.com)**, University of Art and Design Linz, Linz, Austria
 
