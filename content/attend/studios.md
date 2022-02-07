@@ -11,9 +11,8 @@ menu:
     parent: attend
 ---
 
-Studios have always played a major role in TEI conferences, and we want this year to be no different.  
-**Seven studios** have been selected to take place at TEI 2022. Studios will take place on **Sunday, 13 February**, 2022. The exact timing and planning of each Studio will be decided by its organizers, and shared below. For most Studios, you can simply sign up when registering for the conference, though some Studios require participant submissions. See the Studio descriptions to learn more.  
-**[here](https://programs.sigchi.org/tei/2022/program/13-feb)**.
+Studios have always played a major role in TEI conferences, and we want this year to be no different. **Seven studios** have been selected to take place at TEI 2022. Studios will take place on **Sunday, 13 February**, 2022. The exact timing and planning of each Studio will be decided by its organizers, and shared below. For most Studios, you can simply sign up when registering for the conference, though some Studios require participant submissions. See the Studio descriptions to learn more.  
+**[SIGCHI Program Link](https://programs.sigchi.org/tei/2022/program/13-feb)**.
 ​
 
 #### S1: Engaging with the IoT
@@ -32,7 +31,7 @@ In this hands-on workshop we will be outlining how to reliably and quickly proto
 
 - **[Studio Website](https://sites.google.com/iu.edu/tei22)**
 - **Half day** studio. February 13, **[05:30 - 08:30 (KST)](https://savvytime.com/converter/kst-to-cet-est-pst/feb-13-2022/5-30am)**
-- **Daniel Mikesell et al.](mailto:danmikes@iu.edu)**, Eskenazi School of Art+Design and Architecture, Indiana University
+- **[Daniel Mikesell et al.](mailto:danmikes@iu.edu)**, Eskenazi School of Art+Design and Architecture, Indiana University
 
 
 
