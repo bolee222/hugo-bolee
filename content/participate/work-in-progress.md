@@ -1,11 +1,11 @@
 ---
-title: WORK IN PROGRESS
+title: CALL FOR WORK IN PROGRESS
 date: 2019-05-12T12:14:34.000+06:00
-description: This is meta description.
+description: Call for WIP.
 menu:
   main:
     URL: participate/work-in-progress
-    weight: 10
+    weight: 3
     parent: participate
 ---
 
@@ -84,31 +84,31 @@ For further questions please contact the Work-in-Progress chairs at <wip_chairs@
 
 #### PC committee
 
-**Anastasia Kuzminykh**, University of Toronto, Canada  
-**Brittany Garcia**, Texas A&M University, USA  
-**Carlos Castellanos**, Rochester Institute of Technology, USA  
-**Chang Hee Lee**, KAIST, Korea  
-**Daniel Harley**, University of Waterloo, Canada  
-**Elena Sabinson**, Cornell University, USA  
-**Florian Perteneder**, University of Applied Sciences Upper Austria, Austria  
-**Freddie Hong**, Imperial College London, UK  
-**Greg Corness**, Columbia College Chicago, USA  
-**Janne Mascha Beuthel**, University of Salzburg, Austria  
-**Jas Brooks**, University of Chicago, USA  
-**Joon Gi Shin**, Aalto University, Finland  
-**Joon Hyub Lee**, KAIST, Korea  
-**Kongpyung Justin**, KAIST, Korea  
-**Kristin Carlson**, Illinois State University, USA  
-**Laurenz Seidel**, HPI, Germany  
-**Lee Jones**, Carleton University, Canada  
-**Magdalena Boucher**, St. Pšlten University of Applied Sciences, Austria  
-**Muhammad Abdullah**, HPI, Germany  
-**Myung Jin Kim**, KAIST, Korea  
-**Neung Ryu**, Independent, Korea  
-**Osazuwa Okundaye**, Texas A&M University, USA  
-**Parastoo Abtahi**, Stanford University, USA  
-**Paul Taele**, Texas A&M University, USA  
-**Sarah Hayes**, Cork Institute of Technology, Ireland  
-**Seungwoo Je**, KAIST, Korea  
-**Shan-Yuan Teng**, University of Chicago, USA  
-**Yi-Chi Liao**, Aalto University, Finland
+Anastasia Kuzminykh, University of Toronto, Canada  
+Brittany Garcia, Texas A&M University, USA  
+Carlos Castellanos, Rochester Institute of Technology, USA  
+Chang Hee Lee, KAIST, Korea  
+Daniel Harley, University of Waterloo, Canada  
+Elena Sabinson, Cornell University, USA  
+Florian Perteneder, University of Applied Sciences Upper Austria, Austria  
+Freddie Hong, Imperial College London, UK  
+Greg Corness, Columbia College Chicago, USA  
+Janne Mascha Beuthel, University of Salzburg, Austria  
+Jas Brooks, University of Chicago, USA  
+Joon Gi Shin, Aalto University, Finland  
+Joon Hyub Lee, KAIST, Korea  
+Kongpyung Justin, KAIST, Korea  
+Kristin Carlson, Illinois State University, USA  
+Laurenz Seidel, HPI, Germany  
+Lee Jones, Carleton University, Canada  
+Magdalena Boucher, St. Pšlten University of Applied Sciences, Austria  
+Muhammad Abdullah, HPI, Germany  
+Myung Jin Kim, KAIST, Korea  
+Neung Ryu, Independent, Korea  
+Osazuwa Okundaye, Texas A&M University, USA  
+Parastoo Abtahi, Stanford University, USA  
+Paul Taele, Texas A&M University, USA  
+Sarah Hayes, Cork Institute of Technology, Ireland  
+Seungwoo Je, KAIST, Korea  
+Shan-Yuan Teng, University of Chicago, USA  
+Yi-Chi Liao, Aalto University, Finland
