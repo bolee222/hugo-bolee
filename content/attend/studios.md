@@ -15,12 +15,11 @@ Studios have always played a major role in TEI conferences, and we want this yea
 **[SIGCHI Program Link](https://programs.sigchi.org/tei/2022/program/13-feb)**.
 ​
 
-#### S1: Engaging with the IoT
+#### S1: Engaging with the IoT [Cancelled]
 
 This studio revolves around designing with systemic openness and introduces the IoT Sandbox as a tool to design with systemic openness through multi-activity and multi-person scenarios. The studio knows three learning goals: (1) how to characterize and facilitate a design challenge with systemic openness, (2) how to design with multi-activity and multi-person scenarios, and (3) how to design for diverse interaction styles in a systems context. In a hands-on manner the fundamental concepts and challenges are introduced and experienced through a series of short design sprints. The studio ends with a reflective discussion on the propositions created by the participants, in relation to the learning goals as well as the studio and the IoT Sandbox platform.
 
 -  **[Studio Website](https://futureeveryday.github.io/TEI2022_Studio/)**
--  **Two day workshop**, 12th and 13th February.
 - **[Joep Frens](mailto:j.w.frens@tue.nl)**, Industrial Design, Eindhoven University of Technology, Eindhoven, Netherlands
 - **Mathias Funk**, Industrial Design, Eindhoven University of Technology, Eindhoven, Netherlands
 
@@ -61,12 +60,11 @@ The studio proposed here will focus on design and accessibility considerations f
 - **Maribeth Gandy**, Georgia Institute of Technology, Atlanta, Georgia, United States
 - **Scott L Robertson**, Institute for People and Technology , Georgia Institute of Technology, Atlanta, Georgia, United States
 
-#### S5: Collaborative Creative Coding Through Drawing Robots
+#### S5: Collaborative Creative Coding Through Drawing Robots [Cancelled]
 
 With the development of end-user fabrication technology, plotters have become increasingly accessible and attractive to a broader community. Since their invention, these 3-axis CNC machines have been connecting digital and analog creation. Plotters have great potential as a tool to bridge the digital-physical divide, allowing learners from a variety of backgrounds to gain immediate satisfaction from their programming by translating digital output into physical artifacts. In addition, due to their roots in art, plotters may be more inviting to students from artistic backgrounds new to programming. In this studio, we investigate plotters' potential in introducing creative programming in collaborative learning environments. By introducing collaborative creative programming through the lens of plotters, we explore solutions to challenges in programming education, collaborative programming, and personal fabrication.
 
 - **[Studio Website](https://liciahe.github.io/plotter_party_2022/)**
-- **Half day** studio. February 13, **[23:00 - 03:00 (KST)](https://savvytime.com/converter/kst-to-cet-est-pst/feb-13-2022/11pm)**
 - **[Shiqing He](mailto:liciahe@tamu.edu)**, Department of Visualization, Texas A&M University, College Station, Texas, United States
 - **[Jasmine Jones](https://jazzij.github.io/)**, Computer Science, Berea College, Berea, Kentucky, United States
 
