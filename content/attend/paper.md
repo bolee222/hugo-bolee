@@ -1,5 +1,5 @@
 ---
-title: PAPER
+title: PAPERS & PICTORIALS
 date: 2019-05-12T12:14:34.000+06:00
 description: TEI 2022 - Paper Program
 draft: false
@@ -11,8 +11,6 @@ menu:
     parent: attend
 ---
 ​
-_Work In Progress_ papers and presentation will be organized in **four parallel themed tracks**.
-
 #### Session 1: FABRICATION
 [[PROGRAM LINK]](https://programs.sigchi.org/tei/2022/program/session/70014)
 - Kunihiro Kato,Kaori Ikematsu,Yuki Igarashi,Yoshihiro Kawahara  
