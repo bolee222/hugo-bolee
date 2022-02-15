@@ -109,5 +109,5 @@ menu:
 
 #### Student Volunteer Chairs
 
-**Troy Nachtigal**  
+**Troy Nachtigall**  
 <sv_chairs@tei.acm.org>

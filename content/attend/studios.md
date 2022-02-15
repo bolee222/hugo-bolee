@@ -34,7 +34,7 @@ In this hands-on workshop we will be outlining how to reliably and quickly proto
 
 
 
-#### S3. Graspable AI (GAI): Physical Forms as Explanation Modality for Explainable AI
+#### S3. Graspable AI (GAI): Physical Forms as Explanation Modality for Explainable AI [Cancelled]
 
 Explainable AI (XAI) seeks to disclose how an AI system arrives at its outcomes. But the nature of the disclosure depends in part on who needs to understand the AI and the available explanation modalities (e. g. verbal and visual). People's preferences regarding explanation modalities might differ, some might prefer spoken explanations compared to visual ones. However, we might also consider broadening the explanation modalities, to consider also tangible and physical forms. Historically, physical forms have mediated people’s interactions with objects, and more recently user interaction with IoT and smart devices, such as smart lighting and robotic vacuum cleaners. But whether it can support AI explanations has not yet been explored.  
 
