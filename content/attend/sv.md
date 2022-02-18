@@ -11,7 +11,34 @@ menu:
     parent: attend
 ---
 
-#### STUDENT VOLUNTEERS
+#### Thanks to our TEI 2022 Student Volunteers!
+- Saeri Kim
+- Stella Shen
+- Jin Yu
+- Hyeonhak Jeong
+- Shruti Mahajan
+- Gabriela Vega
+- Tao Long
+- Eldy Lazaro
+- Filipa Rocha
+- Sarah Skavron
+- Jorrit van der Heide
+- Femke Kocken
+- Margarita Grinko
+- Jinwook Kim
+- Ryuhaerang Choi
+- Yewon Kim
+- Gisela Michelle
+- Ye Eun Shin
+- Eugene Hwang
+- Juhyeong Park
+- Byoungjae Kim
+- Yoosang Yoon
+- Eunjin Grace Kim
+- Chaeyeun Ahn
+- Seon Gyeom Kim
+
+#### What's the role of Student Volunteers?
 TEI 2022 is seeking **enthusiastic and interested student volunteers** to help make TEI 2022 this year. TEI 2022 will be a virtual online conference event due to the current omicron COVID-19 outbreak. We require help from online volunteers in facilitating the online activities of the conference. Online volunteers will be expected to facilitate a pleasant virtual conference experience by managing tasks such as crewing the Discord help-desk and being responsible for channel moderation.  
 
 We are looking for people who are familiar with discord and channel moderation, are reliable and keen on facilitating a smooth virtual conference experience.

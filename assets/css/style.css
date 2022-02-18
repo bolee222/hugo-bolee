@@ -129,21 +129,16 @@ h2,
     font-family: "Noto Sans KR", sans-serif;
     font-size: 60px;
     font-weight: 800;
-    color: #068FEE ;
+    color: rgba(93, 164, 227);
     margin-bottom: 15px;
 }
 
 h2 a{
     font-family: "Noto Sans KR", sans-serif;
-    background-image: url(https://media.giphy.com/media/2tNvsKkc0qFdNhJmKk/giphy.gif);
-    background-size: cover;
-    color: transparent;
-    -moz-background-clip: text;
-    -webkit-background-clip: text;
+    color: rgba(93, 164, 227);
 }
 
 h2 a:hover{
-
     text-decoration: underline;
     color: #068FEE ;
     background-color: rgba(255, 254, 110, 0.8);
