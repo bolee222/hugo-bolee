@@ -1,7 +1,7 @@
 ---
 title: STUDENT DESIGN COMPETITION
 date: 2019-05-12T12:14:34.000+06:00
-description: This is meta description.
+description: Call for Student Design Competition.
 draft: false
 menu:
   main:
@@ -21,7 +21,7 @@ Presentation pre-recorded video due | January 31, 2022 AoE
 **TEI 2022 conference** | February 13-16, 2022
 {{< /deadline-table-single >}}
 
-**Think of things that make. : future digital fabrication at home**
+#### Think of Things that Make: Future Digital Fabrication at Home!  
 
 Interacting with computers has taken exciting turns in recent years. As a field we went from 1D input and output (CLI) through 2D (GUI) to 3D (VR and gesture input), and we start to break the fast on the input and output of physical matter (digital fabrication + 3D scanning). Technologically we have come a long way already, but in terms of design. . . Most fabrication machines look like they fit in _great_ in a makerspace or research lab, but very few would actually fit in nicely in our personal life environments. Let&#39;s believe for a second that the fab revolution is real and in a (few) decade(s) from now we would have &quot;personal fabrication&quot;, the same way we transitioned to &quot;personal computing&quot; a few decades ago. That would mean we have to start catching up on the design side of the spectrum, ideally now!
 
@@ -31,9 +31,9 @@ For the Student Design Challenge (SDC), we invite students to contribute by subm
 
 Accepted TEI 2022 Student Design Challenge submissions will become a physical part of an exhibition we will run at the in-person part of the TEI conference. We will record a video in which we go through the exhibition, overlaid with quotes and speculations by the authors so as to make the exhibition accessible to virtual attendees too. The purpose of this video is to trigger discussion and further design iteration. During the conference we will host a virtual panel session in which we give out the awards and where the authors exchange thoughts around their visions, the audience can participate to design a powerful future together. Accepted papers will be published in the TEI2022 proceedings, part of the ACM Digital Library.
 
-**Submissions will further be made accessible online** **in the form of a virtual guided tour with statements of the authors**
+Submissions will further be made accessible online in the form of a virtual guided tour with statements of the authors
 
-**The jury will award three prizes : best mechanical prototype, most innovative vision, and best motivated scenario. The jury will further prepare a Jury Statement for all accepted submissions.**
+The jury will award three prizes : **best mechanical prototype**, **most innovative vision**, and **best motivated scenario**. The jury will further prepare a Jury Statement for all accepted submissions.
 
 #### GENERAL INFORMATION
 
@@ -69,7 +69,7 @@ The acknowledgements section should indicate whether any assistance was drawn fr
 
 We will showcase the visions at an exhibition in the live-conference and will record a guided tour through this exhibition for virtual attendance. You therefore have to commit to produce an exhibition piece and instructions for us how to build it up in case you cannot be present in-person. This exhibition and the related tour will serve as a platform for conversation during the conference and beyond.
 
-**If you have specific quotes you want to have in the video, please highlight these in the submission document.**
+If you have specific quotes you want to have in the video, please highlight these in the submission document.
 
 The video length should be maximum 5 minutes. The video should demonstrate your vision and ideally use the exhibition piece to illustrate this: how, where, by whom is it used? How is it made? You are free to upload the video on other channels for publicity.
 
@@ -82,11 +82,11 @@ Submission will be reviewed and selected by the SDC Chairs and a jury of selecte
 
 ##### MATERIAL TO SUBMIT UPON ACCEPTANCE
 
-Authors of accepted submissions will be notified on November 15th. Accepted submissions should be finalized by preparing the camera-ready revisions of the paper and submitted by November 22nd You have until January 31th to make **and ship** the exhibition piece, it should arrive in Korea by that time, please leave time for shipping.
+Authors of accepted submissions will be notified on November 15th. Accepted submissions should be finalized by preparing the camera-ready revisions of the paper and submitted by November 22nd You have until January 31th to **make and ship** the exhibition piece, it should arrive in Korea by that time, please leave time for shipping.
 
 ##### AT THE CONFERENCE
 
-**During the TEI conference,** **there will be the in-person exhibition and the virtual guided tour with quotes form the authors on permanent exhibit**. There will be a 1-hour panel session with the chosen candidates, ideally members of the jury and the chairs in which we discuss and brainstorm about the different visions. (virtual) attendees of TEI are welcome to attend/join in.\*\*
+During the TEI conference, there will be the **in-person exhibition** and the **virtual guided tour** with quotes form the authors on permanent exhibit. There will be a 1-hour panel session with the chosen candidates, ideally members of the jury and the chairs in which we discuss and brainstorm about the different visions. (virtual) attendees of TEI are welcome to attend/join in.\*\*
 
 ##### ATTENDANCE
 
@@ -98,9 +98,7 @@ All work except the exhibition piece itself must be submitted through the **[Pre
 
 #### STUDENT DESIGN CHALLENGE CHAIRS
 
-If any of the above information is unclear or you have any questions, please don&#39;t hesitate to contact us, the design challenge chairs:
-
-**Liu Wei,** Normal Beijing University, China
-
-**Thijs Roumen,** Hasso Plattner Institute, Germany
+If any of the above information is unclear or you have any questions, please don&#39;t hesitate to contact us, the design challenge chairs:  
+Liu We, _Normal Beijing University_, China  
+Thijs Roumen, _Hasso Plattner Institute_, Germany  
 [sdc_chairs@tei.acm.org](mailto:sdc_chairs@tei.acm.org)

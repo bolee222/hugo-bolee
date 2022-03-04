@@ -1,7 +1,7 @@
 ---
-title: STUDENT DESIGN COMPETITION
+title: STUDENT DESIGN COMPETITION AWARDS
 date: 2019-05-12T12:14:34.000+06:00
-description: TEI 2022 SDC.
+description: TEI 2022 SDC Awards.
 draft: false
 
 menu:
